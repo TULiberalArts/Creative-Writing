@@ -1,9 +1,20 @@
 ---
 title: Graduate
-permalink: "/graduate"
+permalink: /graduate
 layout: page
+published: true
 ---
 
-The world is increasingly globalized, with goods, services, people, and ideas traveling across borders more often, and more quickly, than ever before. Temple University and its College of Liberal Arts are also globalizing, offering students a wide array of majors in the social sciences, humanities, and area studies programs in Asian and Latin American studies.
+The Temple M.F.A. Creative Writing Program awards a two-year Master’s of Fine Arts degree in English-Creative Writing, with a focus in either fiction or poetry. Our innovative curriculum immerses students in the study of creative writing and literature, with course offerings that range from special topics and craft classes in creative writing to graduate seminars in literature. Through small workshops each semester and one-on-one manuscript tutorials with our resident faculty in the second year, the curriculum supports students as they gain technique and self-confidence and prepare to hand in their MFA theses in their final semester. The supportive environment also helps our students move successfully from the MFA into the highly competitive world of submissions to journals and book publishers.
 
-The Global Studies Program is the latest step in the globalization of the College of Liberal Arts.  Starting in the Fall of 2015, Temple graduates can declare a major in Global Studies – an interdisciplinary program bringing together coursework from across a dozen departments, focused on the study of Global Security, Global Economy, and Global Cultures, and complemented by intensive language instruction and study abroad options.
+Workshops are supplemented by individual consultations with visiting writers-in-residence and a series of readings by prominent writers. For more information, please look at our Poets & Writers events page.
+
+Students also have the opportunity to work on our online literary journal, Tinge Magazine which is graduate student-edited.
+
+Faculty who have taught in the program in the past include such noted writers and scholars as David Bradley, Rachel Blau DuPlessis, Pattie McCarthy, Toby Olson, Sonia Sanchez, Susan Stewart, and William Van Wert. Current faculty include Samuel R. Delany, Don Lee, Joan Mellen, Jena Osman, Alan Singer, and Brian Teare. The program also hosts a visiting fiction writer and a visiting poet each year; visitors have included Peter Carey, Alexander Chee, Robert Creeley, Robert Coover, Anita Desai, Brian Evenson, C.S. Giscombe, Jaimy Gordon, Mat Johnson, Bhanu Kapil, Jonathan Lethem, Carole Maso, Anne Waldman, C.D. Wright, and Alice Notley, and many others. Please click here to apply!
+
+Please go to the Temple University Creative Writing [M.F.A.Facebook](https://www.facebook.com/templecreativewriting) page for current updates.
+
+## Submit your news and events
+
+Are you a student in or graduate of the M.F.A. Program in Creative Writing? Do you have news? Share it with us!
