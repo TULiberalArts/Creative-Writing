@@ -15,4 +15,22 @@ Faculty who have taught in the program in the past include such noted writers an
 
 Please go to the Temple University Creative Writing [M.F.A.Facebook](https://www.facebook.com/templecreativewriting) page for current updates.
 
+## Degree requirements for the M.F.A. program
 
+This is a two-year, 33-credit program. The curricular requirements are as follows:
+
+- Four fiction workshops or four poetry workshops, one each semester. 12 credits total
+- One tutorial, one-on-one with a resident faculty mentor. 3 credits
+- One special topics in creative writing course. 3 credits
+- One course focused on issues of craft in either fiction or poetry. 3 credits*
+- Two literature courses drawn from the graduate offerings, three credits each. 6 credits
+- One elective course, which may include the composition practicum (required of students funded with a teaching assistantship or university fellowship); a literature course in the graduate program; a graduate course in another department. 3 credits**
+- Master’s project (thesis). 3 credits
+- Comprehensive examination in either poetry or fiction, consisting of a 10–15-page paper
+
+*In special circumstances, poetry students may substitute a literature, arts, or writing-related course for the craft class. This would require the permission of the student’s advisor and the Creative Writing director; approval will take into account the student’s entire course of study.
+
+** As the program also values the potential for interdisciplinary collaboration, courses offered within the School of Communications and Theater (including Film and Media Arts), Boyer School of Music and Dance and the Tyler School of the Arts may be used to fulfill this elective.
+
+- Students admitted to the M.F.A. program with funding must attend full time. 
+- Students admitted to the M.F.A. program without funding may attend part time.
