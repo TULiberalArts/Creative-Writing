@@ -1,6 +1,6 @@
 ---
 title: Graduate
-permalink: /graduate
+permalink: /graduate/
 layout: page
 published: true
 ---
@@ -32,5 +32,5 @@ This is a two-year, 33-credit program. The curricular requirements are as follow
 
 ** As the program also values the potential for interdisciplinary collaboration, courses offered within the School of Communications and Theater (including Film and Media Arts), Boyer School of Music and Dance and the Tyler School of the Arts may be used to fulfill this elective.
 
-- Students admitted to the M.F.A. program with funding must attend full time. 
+- Students admitted to the M.F.A. program with funding must attend full time.
 - Students admitted to the M.F.A. program without funding may attend part time.
