@@ -24,7 +24,7 @@ If you discover typographic errors, bugs, or have problems navigating this site 
 [travis]: https://travis-ci.org/TULiberalArts/Creative-Writing
 [travis-img]: https://travis-ci.org/TULiberalArts/Creative-Writing.svg?branch=master
 [jekyll]: https://https://jekyllrb.com
-[issue]: https://github.com/TULiberalArts/Global-Studies/issues
+[issue]: https://github.com/TULiberalArts/Creative-Writing/issues
 [pr]: https://help.github.com/articles/about-pull-requests/
-[prose]: https://prose.io/#TULiberalArts/Global-Studies
+[prose]: https://prose.io/#TULiberalArts/Creative-Writing
 [md]: http://whatismarkdown.com/
