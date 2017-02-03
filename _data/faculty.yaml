@@ -1,5 +1,5 @@
 - name: "Mary Gaitskill"
-  title: "Professor"
+  title: <i>Professor</i>
   room: ""
   building: "Anderson Hall"
   email: ""
@@ -11,7 +11,7 @@
     Mary Gaitskill is the author of six books. They include three acclaimed novels: Two Girls, Fat and Thin; Veronica, which was a finalist for the National Book Award, the National Book Critics Circle Award, and The Los Angeles Times Book Award; and, most recently, The Mare. Her other three books are the short story collections Bad Behavior; Because They Wanted To, which was a finalist for the PEN/Faulkner Award; and Don’t Cry. Her books have appeared in translation in thirteen countries. Her short fiction, criticism, and essays have appeared in The New Yorker, Harper’s, Esquire, Granta, Bookforum, The New York Times, and elsewhere. Her stories have won an O. Henry Prize and a Pushcart Prize, and have been selected three times for the Best American Short Stories annual prize anthology. Additionally, she has been the recipient of a Guggenheim Fellowship for fiction and a Cullman Research Fellowship at the New York Public Library. Her short story \"Secretary\" was the basis for a feature film of the same name, and she has edited two anthologies: Da Capo Best Music Writing 2006 and Best New American Voices 2009. She has taught creative writing and literature for over twenty years at institutions such as UC Berkeley, the University of Houston, New York University, Brown, The New School, and Syracuse University, and she has twice been the Visiting Writer in Residence at Claremont McKenna College. She will begin teaching at Temple University in January 2017.
 
 - name: "Don Lee"
-  title: "Professor"
+  title: <i>Professor</i>
   room: "1013 "
   building: "Anderson Hall"
   email: "donlee@temple.edu"
@@ -23,7 +23,7 @@
     Don Lee is the author of the novel The Collective (July 2012), which won the 2013 Asian/Pacific American Award for Literature from the Asian Pacific American Librarians Association. He is also the author of the novel Wrack and Ruin, which was a finalist for the Thurber Prize; the novel Country of Origin, which won an American Book Award, the Edgar Award for Best First Novel, and a Mixed Media Watch Image Award for Outstanding Fiction; and the story collection Yellow, which won the Sue Kaufman Prize for First Fiction from the American Academy of Arts and Letters and the Members Choice Award from the Asian American Writers’ Workshop. All of his books have been published by W. W. Norton. He has received an O. Henry Award and a Pushcart Prize, and his stories have been published in The Southern Review, The Kenyon Review, GQ, The North American Review, The Gettysburg Review, Manoa, American Short Fiction, Glimmer Train, Charlie Chan Is Dead 2, Screaming Monkeys, Narrative, and elsewhere. His book reviews and essays have appeared in The Boston Globe, Harvard Review, Boston magazine, The Village Voice, and other magazines. He has received fellowships from the Massachusetts Cultural Council and the St. Botolph Club Foundation, and residencies from Yaddo and the Lannan Foundation. In 2007, he received the inaugural Fred R. Brown Literary Award for emerging novelists from the University of Pittsburgh’s creative writing program. From 1988 to 2007, he was the principal editor of the literary journal Ploughshares. In 2011, he founded TINGE Magazine, a graduate student–run online literary journal at Temple, for which he continues to serve as faculty advisor. He received his B.A. in English literature from UCLA and his M.F.A. in creative writing and literature from Emerson College.
 
 - name: "Joan Mellen"
-  title: "Professor"
+  title: <i>Professor</i>
   room: "1147"
   building: "Anderson Hall"
   email: "joanmellen@aol.com"
@@ -35,7 +35,7 @@
     I’m the author of more than twenty books in a variety of genres, from the novel to Japanese studies; cinema studies and history; literary criticism, and biography (my subjects have been Kay Boyle; Lillian Hellman and Dashiell Hammett; Bob Knight; Jim Garrison. I have also written extensively on the Kennedy assassination and on the role of CIA in the western hemisphere; on Lyndon Johnson; on Cuba; on Haiti; and on the USS Liberty. Please turn to my website, joanmellen.com for essays and for radio speeches and interviews.
 
 - name: "Jena Osman"
-  title: "Professor"
+  title: <i>Professor</i>
   room: "956"
   building: "Anderson Hall"
   email: "josman@temple.edu"
@@ -47,7 +47,7 @@
     A 2006 Pew Fellow in the Arts, Jena Osman has also received grants for her poetry from the National Endowment for the Arts, the New York Foundation for the Arts, The Pennsylvania Council on the Arts, the Howard Foundation, and the Fund for Poetry. She has been a writing fellow at the MacDowell Colony, the Blue Mountain Center, the Djerassi Foundation, and Chateau de la Napoule. She founded and co-edited the award-winning and internationally recognized literary magazine Chain with Juliana Spahr for twelve years; Osman and Spahr now edit the ChainLinks Book series together.  Osman received an M.A. in poetry and playwriting from Brown University, and a Ph.D. in English from the Poetics Program at the State University of New York at Buffalo.
 
 - name: "Alan Singer"
-  title: "Professor"
+  title: <i>Professor</i>
   room: "954"
   building: "Anderson Hall"
   email: "alansinger00@comcast.net"
@@ -59,7 +59,7 @@
     Alan Singer works in the field of literary aesthetics and literary theory. He writes on aesthetic issues in literature and in the visual arts. He has published five critical books, most recently The Self-Deceiving Muse: Notice and Knowledge in the Work of Art. He is also a novelist. His most recent work of fiction is The Inquisitor’s Tongue.
 
 - name: "Brian Teare"
-  title: "Assistant Professor"
+  title: <i>Assistant Professor</i>
   room: "1118"
   building: "Anderson Hall"
   email: "brian.teare@temple.edu"
