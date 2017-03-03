@@ -5,6 +5,32 @@ layout: page
 published: true
 ---
 
+Director:
+
+Jena Osman
+956 Anderson Hall
+[josman@temple.edu](mailto:josman@temple.edu)
+
+Undergraduate Chair:
+
+Gabriel Wettach
+1030 Anderson Hall
+[(215) 204-8510](tel:2152048510)
+[gabe@temple.edu](mailto:gabe@temple.edu)
+
+Administrator:
+
+Stephanie Morawski
+1041 Anderson Hall
+[(215) 204-8516](tel:2152048516)
+[morawski@temple.edu](mailto:morawski@temple.edu)
+
+Coordinator:
+
+Sharon Logan
+[(215) 204-1796](tel:2152041796)
+[logansd@temple.edu](mailto:logansd@temple.edu)
+
 ## How to Apply
 
 We prefer that applicants to the M.F.A. Program in Creative Writing hold a bachelor’s degree in English or have taken a significant number of credits in English and American literature. Exceptions are made if applicants can demonstrate the ability to take graduate-level literature courses. We consider the entire application package in our admission decisions.
