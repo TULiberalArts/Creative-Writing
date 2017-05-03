@@ -8,7 +8,7 @@ baseurl: /creative-writing
 # Short tagline for tweets (<100 characters)
 tagline: This is our life's work
 # Longer descriptions for link previews (<250 characters)
-description: 'Example of what the TU Theme will look like and all the wiz-bang things it can do. This Static Site was generated with Jekyll.'
+description: 'Our M.F.A. students work closely with faculty in fiction and poetry over the course of two years, participating in small workshops and one-on-one tutorials, as well as special topics, literature, and craft classes. Students can also take electives in theater, film, and other graduate programs throughout the university.'
 # List of related keywords for search engines
 keywords: highered, college, university, philadelphia, Temple
 
@@ -18,8 +18,8 @@ address:
   room: 10th Floor, Room 1020
   street: 1114 Polett Walk
   city: Philadelphia, PA 19122
-  email: creative-writing@temple.edu
-  phone: 2152041796
+  email: <a href="mailto:creative-writing@temple.edu">creative-writing@temple.edu</a>
+  phone: 215-204-1796
 
 # Social Media
 # Put in only the username unless otherwise noted
