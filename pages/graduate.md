@@ -4,6 +4,31 @@ meta-keywords: 3 or 4 unique for this page
 permalink: /graduate/
 layout: page
 published: true
+sidebar: true
+sidebar-content: > #
+  ### Contact Us
+
+  <hr>
+
+  **Director:** <br/>
+  Jena Osman<br/>
+  956 Anderson Hall<br/>
+  [josman@temple.edu](mailto:josman@temple.edu)<br/>
+
+  <hr>
+
+  **Graduate Coordinator:** <br/>
+  Sharon Logan<br/>
+  [(215) 204-1796](tel:2152041796)<br/>
+  [logansd@temple.edu](mailto:logansd@temple.edu)<br/>
+  
+  <hr>
+
+  **Administrator:** <br/>
+  Stephanie Morawski<br/>
+  1041 Anderson Hall<br/>
+  [(215) 204-8516](tel:2152048516)<br/>
+  [morawski@temple.edu](mailto:morawski@temple.edu)<br/>
 ---
 
 The Temple M.F.A. Creative Writing Program awards a two-year Master’s of Fine Arts degree in English-Creative Writing, with a focus in either fiction or poetry. Our innovative curriculum immerses students in the study of creative writing and literature, with course offerings that range from special topics and craft classes in creative writing to graduate seminars in literature. Through small workshops each semester and one-on-one manuscript tutorials with our resident faculty in the second year, the curriculum supports students as they gain technique and self-confidence and prepare to hand in their MFA theses in their final semester. The supportive environment also helps our students move successfully from the MFA into the highly competitive world of submissions to journals and book publishers.
