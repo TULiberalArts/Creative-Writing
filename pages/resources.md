@@ -6,31 +6,7 @@ layout: page
 published: true
 ---
 
-Director:
-
-Jena Osman
-956 Anderson Hall
-[josman@temple.edu](mailto:josman@temple.edu)
-
-Undergraduate Chair:
-
-Gabriel Wettach
-1030 Anderson Hall
-[(215) 204-8510](tel:2152048510)
-[gabe@temple.edu](mailto:gabe@temple.edu)
-
-Administrator:
-
-Stephanie Morawski
-1041 Anderson Hall
-[(215) 204-8516](tel:2152048516)
-[morawski@temple.edu](mailto:morawski@temple.edu)
-
-Coordinator:
-
-Sharon Logan
-[(215) 204-1796](tel:2152041796)
-[logansd@temple.edu](mailto:logansd@temple.edu)
+## Resources are here to help!
 
 ## How to Apply
 
@@ -123,6 +99,5 @@ The Dean of the Graduate School considers exceptions to the admissions requireme
 - Achieved a 3.25 cumulative grade point average in a least 9 credits of graduate work at an accredited university in the United States or equivalent academic performance in a university outside the United States.
 - Scored above the 65th percentile on the verbal and quantitative portions of the Graduate Record Exam (or other standardized test, such as the Graduate Management Admission Test).
 - Earned a 3.5 grade point average during her/his final two years of undergraduate work.
-
 
 In special circumstances, particularly with an exceptional writing sample, other exceptions may be granted.
