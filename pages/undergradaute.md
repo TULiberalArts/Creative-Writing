@@ -65,4 +65,4 @@ The Creative Writing listserv will also share announcements about graduate study
 
 ### Concentrators to Publish and Read their Work!
 
-[Hyphen](http://www.cla.temple.edu/english/undergraduate/hyphen/), a student-run magazine provides a platform for students to learn editorial skills, publish their work, and create literary community on campus. Additionally, Seniors who have completed the requirements for the Creative Writing concentration will have the opportunity to share their work in a public reading at the end of the spring semester.
+Hyphen is an interdisciplinary journal, by and for Temple undergraduates, that publishes literature and visual art.  To get involved, please contact us at [hyphen@temple.edu](mailto:hyphen@temple.edu) or visit our Facebook page [here](https://www.facebook.com/HyphenLit). Our faculty advisor is Don Lee.
