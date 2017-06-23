@@ -19,8 +19,6 @@ Our M.F.A. students work closely with faculty in fiction and poetry over the cou
 
 Hone your craft by studying in a world-class city for the arts: Philadelphia. Become a part of a close-knit cohort within a thriving urban setting.
 
-Want to learn more? [Contact us](http://www.cla.temple.edu/english/creativewriting/contact-us/) to request more information about our program.
-
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
     title=" " 
