@@ -31,7 +31,7 @@ Submit the following general application materials and supporting materials to b
 The following required materials should be submitted electronically through the **Interfolio** online dossier service. (There is a $19 fee on Interfolio to establish a dossier account. If you wish to avoid this fee, scroll down for other options.) For instructions on how to create an Interfolio account and submit all the additional applications materials as one package, see “Interfolio Instructions”
 below.
 
-**Financial Aid Application**: Fill out the [financial aid application form](http://www.cla.temple.edu/english/files/2016/10/FAApp2.pdf) (PDF) if you are interested in being considered for a fellowship or assistantship, then send the form through **Interfolio**. (This PDF form has fillable fields that may be completed on your computer.) In addition, you must submit a **C.V.** or **resumé** through **Interfolio** if applying for financial assistance. See our [Financial Aid page](http://www.cla.temple.edu/english/creativewriting/financial-aid-information/) for eligibility information.
+**Financial Aid Application**: Fill out the [financial aid application form](http://www.cla.temple.edu/english/files/2016/10/FAApp2.pdf) (PDF) if you are interested in being considered for a fellowship or assistantship, then send the form through **Interfolio**. (This PDF form has fillable fields that may be completed on your computer.) In addition, you must submit a **C.V.** or **resumé** through **Interfolio** if applying for financial assistance.
 
 **Transcripts**: Send scans of unofficial or student copies of all transcripts through **Interfolio** (refer to “General Application Materials” above).
 
@@ -47,7 +47,7 @@ In addition, we may request a personal or phone interview with you at a later ti
 
 Please use Interfolio’s dossier service, which accepts files ranging from PDFs to Word documents, to collect and submit application materials. (There is a $19 fee on Interfolio to establish a dossier account. If you wish to avoid this fee, see below for other options).
 
-- Create or log in to your Interfolio dossier account at interfolio.com/services/dossier.
+- Create or log in to your Interfolio dossier account at [interfolio.com/services/dossier](https://www.interfolio.com/products/dossier/).
 - Request signed, confidential letters of recommendation from your three evaluators through your Interfolio account.
 - Upload all supporting application documents to your Interfolio account.
 - Send all required documents as one delivery to Temple University Department of English through the following procedure:
