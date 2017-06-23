@@ -5,28 +5,23 @@ permalink: /graduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: > #
+sidebar-content: >
   ### Contact Us
 
   <hr>
 
-  **Director:** <br/>
-  Jena Osman<br/>
-  956 Anderson Hall<br/>
+  **Director:** <br/> Jena Osman<br/> 956 Anderson Hall<br/>
   [josman@temple.edu](mailto:josman@temple.edu)<br/>
 
   <hr>
 
-  **Graduate Coordinator:** <br/>
-  Sharon Logan<br/>
-  [(215) 204-1796](tel:2152041796)<br/>
+  **Graduate Coordinator:** <br/> Sharon Logan<br/> [(215)
+  204-1796](tel:2152041796)<br/>
   [logansd@temple.edu](mailto:logansd@temple.edu)<br/>
-  
+
   <hr>
 
-  **Administrator:** <br/>
-  Stephanie Morawski<br/>
-  1041 Anderson Hall<br/>
+  **Administrator:** <br/> Stephanie Morawski<br/> 1041 Anderson Hall<br/>
   [(215) 204-8516](tel:2152048516)<br/>
   [morawski@temple.edu](mailto:morawski@temple.edu)<br/>
 ---
