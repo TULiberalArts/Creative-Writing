@@ -6,37 +6,33 @@ layout: page
 published: true
 sidebar: true
 sidebar-content: > #
-  ### Contact Us
+  **Director:**  
+   Jena Osman  
+   956 Anderson Hall    
+   [josman@temple.edu](mailto:josman@temple.edu)  
+   
+   ___
+   
+   **Undergraduate Chair:**  
+   Gabriel Wettach  
+   1030 Anderson Hall  
+   [(215) 204-8510](tel:2152048510)  
+   [gabe@temple.edu](mailto:gabe@temple.edu)  
+   
+   ___
+   
+   **Administrator:**  
+   Stephanie Morawski  
+   1041 Anderson Hall   
+   [(215) 204-8516](tel:2152048516)  
+   [morawski@temple.edu](mailto:morawski@temple.edu)  
+   
+   ___
 
-  <hr>
-
-  **Director:** <br/>
-  Jena Osman<br/>
-  956 Anderson Hall<br/>
-  [josman@temple.edu](mailto:josman@temple.edu)<br/>
-
-  <hr>
-
-  **Undergraduate Chair:** <br/>
-  Gabriel Wettach<br/>
-  1030 Anderson Hall<br/>
-  [(215) 204-8510](tel:2152048510)<br/>
-  [gabe@temple.edu](mailto:gabe@temple.edu)<br/>
-
-  <hr>
-
-  **Administrator:** <br/>
-  Stephanie Morawski<br/>
-  1041 Anderson Hall<br/>
-  [(215) 204-8516](tel:2152048516)<br/>
-  [morawski@temple.edu](mailto:morawski@temple.edu)<br/>
-
-  <hr>
-
-  **Coordinator:** <br/>
-  Sharon Logan<br/>
-  [(215) 204-1796](tel:2152041796)<br/>
-  [logansd@temple.edu](mailto:logansd@temple.edu)<br/>
+   **Coordinator:**  
+   Sharon Logan      
+   [(215) 204-1796](tel:2152041796)   
+   [logansd@temple.edu](mailto:logansd@temple.edu)  
 ---
 
 ### Creative Writing Concentration 
