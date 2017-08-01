@@ -5,7 +5,7 @@ permalink: /undergraduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: > #
+sidebar-content: |
   **Director:**  
    Jena Osman  
    956 Anderson Hall    
@@ -32,12 +32,14 @@ sidebar-content: > #
    **Coordinator:**  
    Sharon Logan      
    [(215) 204-1796](tel:2152041796)   
-   [logansd@temple.edu](mailto:logansd@temple.edu)  
+   [logansd@temple.edu](mailto:logansd@temple.edu)
 ---
 
 ### Creative Writing Concentration 
 
 English majors with an interest in Creative Writing should consider a Creative Writing concentration. Such a concentration will allow for focused study of a particular genre and will provide good preparation for those students interested in graduate study in Creative Writing.
+
+When you are ready to apply, submit your application online at [admissions.temple.edu/apply](admissions.temple.edu/apply).
 
 ### Requirements
 
