@@ -25,28 +25,18 @@ The DuPlessis Lecture is named after Professor Emeritus Rachel Blau DuPlessis. D
 ## Other Local Reading Series
 
 [Chapter and Verse Reading Series](http://chapterhousereadings.blogspot.com/)
-
 Founded by graduate fiction writer Steve Dolph (class of 2007) and is currently curated by Ryan Eckes (also class of 2007) and Stan Mir. It takes place at Chapterhouse on 9th Street between South and Bainbridge.
 
 [Kelly Writers House](http://writing.upenn.edu/wh/)
-
 Located at the University of Pennsylvania (3805 Locust Walk), the Kelly Writers House hosts readings and literary events almost every night of the academic year. Follow this [link](http://writing.upenn.edu/wh/calendar/0315.php) for the full calendar.
 
 [Free Library of Philadelphia](http://libwww.freelibrary.org/calendar/calbydate.cfm?type=2)
-
 The Central Branch of the Philadelphia Free Library (at 1901 Vine St.) bring some of the biggest literary names around to read from their works. Some of the events are ticketed, but many are free to the public.
 
 [Bryn Mawr College Reading Series](http://www.brynmawr.edu/calendar/visiting_writers.shtml)
-
 Bryn Mawr can be easily reached via public transportation by taking the Paoli/Thorndale line to the Bryn Mawr station.
 
 [Villanova Literary Festival](https://www1.villanova.edu/villanova/artsci/english/newsandevents/literaryfestival.html)
-
 This festival happens every Spring semester. Villanova can be easily reached via public transportation by taking the Paoli/Thorndale line to the Villanova station.
 
 - [Temple Campus-Wide Events](https://events.temple.edu/)
-
-
-
-
-
