@@ -1,11 +1,11 @@
 ---
 title: Next Stops
-meta-keywords: 3 or 4 unique for this page
 permalink: /next-stops/
 layout: page
+keywords: ''
+description: >-
 published: true
 ---
-
 ## Next Stops
 
 We help connect students with internship and job  opportunities, as well as placement in prestigious master’s and PhD programs
