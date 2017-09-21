@@ -2,7 +2,7 @@
 title: Undergraduate
 permalink: /undergraduate/
 layout: page
-meta-keywords: ''
+keywords: ''
 description: >-
 published: true
 sidebar: true
