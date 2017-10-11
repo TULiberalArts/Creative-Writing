@@ -2,26 +2,13 @@
 title: Next Stops
 permalink: /next-stops/
 layout: page
-keywords: ''
-description: >-
 published: true
 ---
 ## Next Stops
 
-We help connect students with internship and job  opportunities, as well as placement in prestigious master’s and PhD programs
+Our graduates’ books have been published by trade and small presses and cover all genres; their works have won grants, prizes, and residencies. Many have earned Ph.D.’s in English and Creative Writing and are now professors. Our graduates have gone on to become librarians, editors, arts administrators, journalists, and more. Temple University Creative Writing alumni continue to make important contributions to the contemporary literary scene.This list covers some of the achievements of students who have graduated from Temple’s graduate program in Creative Writing.
 
-## Our students have secured internships with:
-- Congresswoman Allyson Schwartz
-- Philadelphia Magazine
-- The Please Touch Museum
-- American Lung Association
-
-## Recently, our alumni have secured coveted positions with the following employers:
-
-- Patient access representative at St. Luke’s University Health Network
-- Digital media coordinator at Love Beets
-- Therapeutic staff support at Foundations Behavioral Health
-- Teen education coordinator at Kingsbridge Heights Community Center
+If you are a Creative Writing M.A. or M.F.A. alumnus, please feel free to announce news, publications, and events on our [Facebook page](https://www.facebook.com/templecreativewriting). 
 
 ## Make Your Declaration
 ​
