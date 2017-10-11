@@ -8,9 +8,9 @@ published: true
 sidebar: true
 sidebar-content: |
   **Director:**  
-   Jena Osman  
-   956 Anderson Hall    
-   [josman@temple.edu](mailto:josman@temple.edu)  
+   Don Lee  
+   1013 Anderson Hall    
+   [donlee@temple.edu](mailto:donlee@temple.edu)  
    
    ___
    
