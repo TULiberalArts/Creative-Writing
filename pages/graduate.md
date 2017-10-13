@@ -77,7 +77,7 @@ Submit the following general application materials and supporting materials to b
 The following required materials should be submitted electronically through the **Interfolio** online dossier service. (There is a $19 fee on Interfolio to establish a dossier account. If you wish to avoid this fee, scroll down for other options.) For instructions on how to create an Interfolio account and submit all the additional applications materials as one package, see “Interfolio Instructions”
 below.
 
-**Financial Aid Application**: Fill out the [financial aid application form](http://www.cla.temple.edu/english/files/2016/10/FAApp2.pdf) (PDF) if you are interested in being considered for a fellowship or assistantship, then send the form through **Interfolio**. (This PDF form has fillable fields that may be completed on your computer.) In addition, you must submit a **C.V.** or **resumé** through **Interfolio** if applying for financial assistance.
+**Financial Aid Application**: Fill out the [financial aid application form](https://liberalarts.temple.edu/sites/liberalarts/files/CWapplicationform.pdf) (PDF) if you are interested in being considered for a fellowship or assistantship, then send the form through **Interfolio**. (This PDF form has fillable fields that may be completed on your computer.) In addition, you must submit a **C.V.** or **resumé** through **Interfolio** if applying for financial assistance.
 
 **Transcripts**: Send scans of unofficial or student copies of all transcripts through **Interfolio** (refer to “General Application Materials” above).
 
@@ -99,14 +99,14 @@ Please use Interfolio’s dossier service, which accepts files ranging from PDFs
 - Send all required documents as one delivery to Temple University Department of English through the following procedure:
 - From the Dossier options, click on “Start Delivery,” then search for Temple University’s Department of English by entering “Temple English” in the box for Institution/Organization Destination.
 - Select “Creative Writing MFA Program-Temple University.”
-- Select and arrange all the required documents in this order:[financial aid application](http://www.cla.temple.edu/english/files/2016/10/FAApp2.pdf) (PDF), C.V. or résumé, unofficial copies of all transcripts, personal statement, and writing sample.
+- Select and arrange all the required documents in this order:[financial aid application](https://liberalarts.temple.edu/sites/liberalarts/files/CWapplicationform.pdf) (PDF), C.V. or résumé, unofficial copies of all transcripts, personal statement, and writing sample.
 - Complete the electronic delivery.
 
 ### Options Other Than Interfolio
 
 If you do not wish to use Interfolio, you may send your supporting materials to us either by emailing a PDF or by delivering printouts via regular mail.
 
-**Emailing a PDF**: Combine your supporting materials into one PDF in this order:[financial aid application](http://www.cla.temple.edu/english/files/2016/10/FAApp2.pdf) (PDF), C.V. or résumé, unofficial copies of all transcripts, personal statement, and writing sample. If needed, use the free [pdfmerge.com](http://www.pdfmerge.com/) service or another utility to produce a single PDF. Email the PDF to [creatwrt@temple.edu](creatwrt@temple.edu).
+**Emailing a PDF**: Combine your supporting materials into one PDF in this order:[financial aid application](https://liberalarts.temple.edu/sites/liberalarts/files/CWapplicationform.pdf) (PDF), C.V. or résumé, unofficial copies of all transcripts, personal statement, and writing sample. If needed, use the free [pdfmerge.com](http://www.pdfmerge.com/) service or another utility to produce a single PDF. Email the PDF to [creatwrt@temple.edu](creatwrt@temple.edu).
 
 However, you must have your three evaluators mail their letters of recommendation directly to us on official letterhead, with their signatures across the seals of the envelopes. These letters should be mailed to the address below. Somewhere on the front of the envelope, please have the evaluator write “MFA Recommendation for,” followed by your full name. Note that you must still submit the general Graduate School application on the **[online Banner system](http://www.temple.edu/grad/admissions/howtoapply.htm)** (or through the paper option), have your GRE scores (and, if applicable, your TOEFL, IELTS, or PTE scores) sent to us electronically by ETS or the appropriate agency, and have official transcripts mailed to us by the institutions to the address below. See the requirements above in “General Application Materials.”
 
