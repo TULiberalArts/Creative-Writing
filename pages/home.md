@@ -1,7 +1,14 @@
 ---
-layout: page
-published: false
-title: Untitled
+title: Home
+permalink: /
+description: >- 
+keywords: ''
+layout: home
+published: true
+feature: false
+feature-title: 
+feature-image: null
+feature-body: >- 
 ---
 
 ## Immerse Yourself in the Art of Writing
