@@ -34,21 +34,23 @@ sidebar-content: |
    [logansd@temple.edu](mailto:logansd@temple.edu)
 ---
 ## Study Creative Writing at Temple
-If writing is your passion, Temple's Department of English offers a BA in English with a Creative Writing Concentration. As a student working in our Creative Writing Emphasis, you will be immersed in poetry and fiction and gain experience writing under the instruction of award-winning authors in supportive workshops. We recommend BA in English with Creative Writing Concentration students focus on either poetry, fiction or screenwriting. This will allow you to focuse on one particular genre and also prepare you for graduate study in creative writing if you are choose to pursue it. Like all English majors, Creative Writing Concentrations learn creative and flexible thinking, persuasive and powerful writing skills and sharp analytical skills - essential abilities for tomorrow's leaders and professionals. 
+If writing is your passion, Temple's Department of English offers a BA in English with a Creative Writing Concentration. As a student working in our Creative Writing concentration, you will gain experience writing under the instruction of award-winning authors and poets in supportive workshops. We recommend BA in English with Creative Writing Concentration students focus on either poetry, fiction or screenwriting. This will allow you to focuse on one particular genre and also prepare you for graduate study in creative writing if you are choose to pursue it. Like all English majors, Creative Writing Concentrations learn creative and flexible thinking, persuasive and powerful writing skills and sharp analytical skills - essential abilities for tomorrow's leaders and professionals. 
+
+[Learn More about the Creative Writing Concentration](http://bulletin.temple.edu/undergraduate/liberal-arts/english/ba-english-creative-writing/#text)
 
 ## Poets & Writers Series
-The Poets & Writers Series is sponsored by the Temple University MFA Creative Writing Program, with the assistance of the Richard Moyer Fund. Each year a number of poets and fiction writers are invited to read from their work (usually on Thursdays) to members of both the Temple community and the local Philadelphia arts scene. Joining each invited writer is a writer from Temple’s graduate program in Creative Writing. All events are free and open to the public and held either on the main Temple campus or the Center City Philadelphia Temple campus. We recommend that all students pursuing the Creative Writing concentration attend the series. Announcements for these readings are circulated through the English Majors listserv and the Creative Writing listserv.
+The Poets & Writers Series is sponsored by the Temple University MFA Creative Writing Program, with the assistance of the Richard Moyer Fund. Each year a number of poets and fiction writers are invited to read from their work (usually on Thursdays) to members of both the Temple community and the local Philadelphia arts scene. Joining each invited writer is a writer from Temple’s graduate program in Creative Writing. All events are free and open to the public and held either on the main Temple campus or the Center City Philadelphia Temple campus. We recommend that all students pursuing the Creative Writing concentration attend the series. Announcements for these readings are circulated through the English Majors listserv and Creative Writing listservs.
 
 ## Hyphen Interdisciplinary Journal
 Hyphen is Temple University’s only undergraduate student literary magazine. Founded by Professor Jena Osman twelve years ago, the journal has published close to 400 fiction writers, poets and visual artists. We release a print magazine every spring, and also host open mic nights and other events to support Temple’s literary and artistic community. To get involved, please contact us at [hyphen@temple.edu](mailto:hyphen@temple.edu) or visit our Facebook page [here](https://www.facebook.com/HyphenLit). Our faculty advisor is Don Lee.
+
+## Creative Writing Listserv
+The Creative Writing listserv shares announcements about graduate study in Creative Writing, as well as publication opportunities. If you would like to be added to the Creative Writing listserv, please send your name and email address to Jena Osman at [josman@temple.edu](mailto:josman@temple.edu).
 
 ## Academic Advising and Professional Development
 Take full advantage of the [College of Liberal Arts](https://liberalarts.temple.edu/)’ flexible curriculum with the help of our award-winning advisors. We help you select a major or a minor, and graduate on time. Beyond academics, our advisors ensure that you have a rich experience at Temple by complementing your academic work with internships, study abroad programs and other experiential learning opportunities.
 
 [Learn More about Temple’s Award-Winning Advisors](https://liberalarts.temple.edu/advising)
-
-## Creative Writing Listserv
-The Creative Writing listserv shares announcements about graduate study in Creative Writing, as well as publication opportunities. If you would like to be added to the Creative Writing listserv, please send your name and email address to Jena Osman at [josman@temple.edu](mailto:josman@temple.edu).
 
 ## Fly in Four
 Take charge of your future and limit your debt. The Fly in 4 partnership allows you to complete your degree on time — or Temple will pay for your remaining course work. Graduating on time means your path to success starts sooner. We provide you with the resources you need to graduate in four years, like academic advising and classes offered when you need them. You commit to doing what it takes to blaze your career path in four years.
