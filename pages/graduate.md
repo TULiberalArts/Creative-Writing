@@ -26,9 +26,13 @@ sidebar-content: |
    [logansd@temple.edu](mailto:logansd@temple.edu)
 ---
 ## Earn Your MFA in Creative Writing at Temple
+If you are a fiction writer or poet, the graduate Creative Writing program offers fiction writers and poets the opportunity to develop your craft in a two-year MFA program. The program combines small workshops each semester, one-on-one manuscript tutorials and graduate courses in creative writing topics and literature. Workshops are supplemented by individual consultations with visiting writers-in-residence and a series of readings by prominent writers (link to Poets & Writers page). 
 
+the curriculum supports students as they gain technique and self-confidence and prepare to hand in their MFA theses in their final semester. The supportive environment also helps our students move successfully from the MFA into the highly competitive world of submissions to journals and book publishers. 
 
-The Temple M.F.A. Creative Writing Program awards a two-year Master’s of Fine Arts degree in English-Creative Writing, with a focus in either fiction or poetry. Our innovative curriculum immerses students in the study of creative writing and literature, with course offerings that range from special topics and craft classes in creative writing to graduate seminars in literature. Through small workshops each semester and one-on-one manuscript tutorials with our resident faculty in the second year, the curriculum supports students as they gain technique and self-confidence and prepare to hand in their MFA theses in their final semester. The supportive environment also helps our students move successfully from the MFA into the highly competitive world of submissions to journals and book publishers.
+Temple has an excellent faculty of writers in both genres, representing a wide range of aesthetics. 
+
+Through small workshops each semester and one-on-one manuscript tutorials with our resident faculty in the second year, the curriculum supports students as they gain technique and self-confidence and prepare to hand in their MFA theses in their final semester. The supportive environment also helps our students move successfully from the MFA into the highly competitive world of submissions to journals and book publishers. 
 
 Workshops are supplemented by individual consultations with visiting writers-in-residence and a series of readings by prominent writers. For more information, please look at our Poets & Writers events page. Students also have the opportunity to work on our online literary journal, [Tinge Magazine](http://www.tingemagazine.org/) which is graduate student-edited.
 
