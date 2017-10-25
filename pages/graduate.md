@@ -75,6 +75,8 @@ For more than 130 years, we have focused on providing a world-class education at
 [MFA in Creative Writing](http://bulletin.temple.edu/graduate/scd/cla/creative-writing-mfa/#programrequirementstext)
 
 ## MFA Application Deadline
+-Feb. 15 for Fall Semester
+
 All materials should be submitted or postmarked* by February 15. If you would like to be considered for a fellowship, please turn in your materials (including the optional GRE scores that are recommended for fellowship consideration) by December 15. Applications submitted after December 15 will still be considered for a fellowship (even those without the recommended GRE scores) or a teaching assistantship, but those meeting the initial deadline will be prioritized. Basically, if you are seeking funding through a fellowship or teaching assistantship, the earlier you submit your application, the better.
 
 After the February 15 deadline, applications may still be considered on a rolling, case-by-case basis (though not for funding), depending on the availability of space and the applicant’s credentials. Inquire by emailing creatwrt@temple.edu.
