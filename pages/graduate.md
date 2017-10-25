@@ -26,9 +26,9 @@ sidebar-content: |
    [logansd@temple.edu](mailto:logansd@temple.edu)
 ---
 ## Earn Your MFA in Creative Writing at Temple
-If you are a fiction writer or poet, the graduate Creative Writing program offers fiction writers and poets the opportunity to develop your craft in a two-year MFA program. The program combines small workshops each semester, one-on-one manuscript tutorials and graduate courses in creative writing topics and literature. Workshops are supplemented by individual consultations with visiting writers-in-residence and a series of readings by prominent writers (link to Poets & Writers page). Our curriculum helps you gain technique and self-confidence and prepares you to hand in your MFA theses in your final semester. Our students are perpared to move successfully from the MFA into the highly competitive world of submissions to journals and book publishers. 
+If you are a fiction writer or poet, the graduate Creative Writing program offers fiction writers and poets the opportunity to develop your craft in a two-year MFA program. The program combines small workshops each semester, one-on-one manuscript tutorials and graduate courses in creative writing topics and literature. Workshops are supplemented by individual consultations with visiting writers-in-residence and a series of readings by prominent writers (link to Poets & Writers page). 
 
-Temple has an excellent faculty of writers in both genres, representing a wide range of aesthetics including Samuel R. Delany, Don Lee, Joan Mellen, Jena Osman, Alan Singer and Brian Teare. 
+Our curriculum helps you gain technique and self-confidence and prepares you to hand in your MFA theses in your final semester. Our students are perpared to move successfully from the MFA into the highly competitive world of submissions to journals and book publishers. Temple has an excellent faculty of writers in both genres, representing a wide range of aesthetics including Samuel R. Delany, Don Lee, Joan Mellen, Jena Osman, Alan Singer and Brian Teare. 
 
 Past Faculty include noted writers and scholars that include
 
@@ -75,7 +75,7 @@ For more than 130 years, we have focused on providing a world-class education at
 [MFA in Creative Writing](http://bulletin.temple.edu/graduate/scd/cla/creative-writing-mfa/#programrequirementstext)
 
 ## MFA Application Deadline
--**Feb. 15** for Fall Semester
+**Feb. 15** for Fall Semester
 
 All materials should be submitted or postmarked* by February 15. If you would like to be considered for a fellowship, please turn in your materials (including the optional GRE scores that are recommended for fellowship consideration) by December 15. Applications submitted after December 15 will still be considered for a fellowship (even those without the recommended GRE scores) or a teaching assistantship, but those meeting the initial deadline will be prioritized. Basically, if you are seeking funding through a fellowship or teaching assistantship, the earlier you submit your application, the better.
 
@@ -84,4 +84,3 @@ After the February 15 deadline, applications may still be considered on a rollin
 Applications are accepted only for Fall admission.
 
 _*By “postmarked,” we mean that materials should be sent before or on December 15 or February 15. They do not need to be delivered on those dates. Regular USPS mail service, e.g., First Class or Priority Mail, is fine. You need not spend extra money on overnight services._
-
