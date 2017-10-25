@@ -43,9 +43,6 @@ Past Faculty include noted writers and scholars that include
 ## Visiting Writers
 The program also hosts a visiting fiction writer and a visiting poet each year; visitors have included Peter Carey, Alexander Chee, Robert Creeley, Robert Coover, Anita Desai, Brian Evenson, C.S. Giscombe, Jaimy Gordon, Mat Johnson, Bhanu Kapil, Jonathan Lethem, Carole Maso, Anne Waldman, C.D. Wright, and Alice Notley, and many others. 
 
-## Tinge Magazine
-Students also have the opportunity to work on Temple's online literary journal, [Tinge Magazine](http://www.tingemagazine.org/) which is graduate student-edited. 
-
 ## Admission Requirements
 Although not required, we prefer applicants to the MFA Program in Creative Writing to hold a bachelor’s degree in English or creative writing, or to have taken a significant number of workshops or literature classes as an undergraduate. However, in the past, students without this background have performed well in the program. Therefore, we consider the entire application package in our admission decisions. 
 
@@ -63,25 +60,26 @@ TOEFL or other tests (for international students only)
 7. Writing Sample
 8. Three Letters of Recommendation
 
+Learn More about Applying to the MFA in Creative Writing
+[General Graduate Application Site](http://www.temple.edu/grad/admissions/howtoapply.htm)
+
 ## Temple Graduate School Funding
-Financial Aid Funding at Temple is awarded on a competitive basis. If you are admitted to the Creative Writing Program and you have applied for financial aid (be sure to fill out the Financial Aid Form)(PDF), your credentials will be forwarded to the Financial Aid committee of the English Department, which will nominate applicants for the fellowships and teaching assistantships described below. Refer to the Graduate School’s Financial Information page for additional information.
+Financial Aid Funding at Temple is awarded on a competitive basis. If you are admitted to the Creative Writing Program and you have applied for financial aid (be sure to fill out the Financial Aid Form)(PDF), your credentials will be forwarded to the Financial Aid committee of the English Department, which will nominate applicants for Fellowships and Assistantships. MFA students with funding must attend our program full-time. Students who do not receive funding from Temple borrow from the regular financial aid programs. Explore all funding and apply early to make your education an affordable experience. Refer to the Graduate School’s Financial Information page for additional information. 
 
 [Student Financial Services](http://www.temple.edu/grad/finances/index.htm)
 
+## Tuition and Fees
+For more than 130 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other universities and see what we mean. Temple tuition rates vary by college or school, residency status, student level and more. Use the [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates) to estimate your tuition rate.
 
-## Additional Information
-- [Financial Aid Information](http://www.cla.temple.edu/english/creativewriting/financial-aid-information/)
-- [Tuition and Fees](http://bulletin.temple.edu/graduate/tuition-fees/)
-- [Temple English Department](http://www.cla.temple.edu/english/)
-- [General Graduate School Information](http://www.temple.edu/grad/)
-- [General Graduate Application Site](http://www.temple.edu/grad/admissions/howtoapply.htm)
+## Curriculum and Academic Requirements
+[MFA in Creative Writing](http://bulletin.temple.edu/graduate/scd/cla/creative-writing-mfa/#programrequirementstext)
 
-### Exceptions for GPAs Less than 3.0
+## MFA Application Deadline
+All materials should be submitted or postmarked* by February 15. If you would like to be considered for a fellowship, please turn in your materials (including the optional GRE scores that are recommended for fellowship consideration) by December 15. Applications submitted after December 15 will still be considered for a fellowship (even those without the recommended GRE scores) or a teaching assistantship, but those meeting the initial deadline will be prioritized. Basically, if you are seeking funding through a fellowship or teaching assistantship, the earlier you submit your application, the better.
 
-The Dean’s Office considers exceptions to the admissions requirement if the student meets one of these criteria:
+After the February 15 deadline, applications may still be considered on a rolling, case-by-case basis (though not for funding), depending on the availability of space and the applicant’s credentials. Inquire by emailing creatwrt@temple.edu.
 
-- Achieved a 3.25 cumulative grade point average in a least 9 credits of graduate work at an accredited university in the United States or equivalent academic performance in a university outside the United States.
-- Scored above the 65th percentile on the verbal or quantitative portions of the Graduate Record Exam (or other standardized test, such as the Graduate Management Admission Test).
-- Earned a 3.5 grade point average during her/his final two years of undergraduate work.
+Applications are accepted only for Fall admission.
 
-In special circumstances, particularly with an exceptional writing sample, other exceptions may be granted.
+*By “postmarked,” we mean that materials should be sent before or on December 15 or February 15. They do not need to be delivered on those dates. Regular USPS mail service, e.g., First Class or Priority Mail, is fine. You need not spend extra money on overnight services.
+
