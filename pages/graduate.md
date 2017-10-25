@@ -41,17 +41,28 @@ Past Faculty include noted writers and scholars that include
 - William Van Wert
 
 ## Visiting Writers
-
 The program also hosts a visiting fiction writer and a visiting poet each year; visitors have included Peter Carey, Alexander Chee, Robert Creeley, Robert Coover, Anita Desai, Brian Evenson, C.S. Giscombe, Jaimy Gordon, Mat Johnson, Bhanu Kapil, Jonathan Lethem, Carole Maso, Anne Waldman, C.D. Wright, and Alice Notley, and many others. 
-
-Please go to the Temple University Creative Writing [M.F.A.Facebook](https://www.facebook.com/templecreativewriting) page for current updates.
 
 ## Tinge Magazine
 Students also have the opportunity to work on our online literary journal, [Tinge Magazine](http://www.tingemagazine.org/) which is graduate student-edited.
 
+## Admission Requirements
+Although not required, we prefer applicants to the MFA Program in Creative Writing to hold a bachelor’s degree in English or creative writing, or to have taken a significant number of workshops or literature classes as an undergraduate. However, in the past, students without this background have performed well in the program. Therefore, we consider the entire application package in our admission decisions.
+The minimum admission standard for all graduate students is an undergraduate grade point average of B, or 3.0 (see bottom of this page for exceptions), or the functional equivalent for students who have attended universities outside of the United States.
+
+Submit the following application materials to be considered for admission (details below):
+
+- [Graduate School Application through Banner](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon)
+- **Optional GRE (recommended for fellowship consideration):** The GRE is not required to apply to the MFA Program in Creative Writing. However, if you wish to be considered for a fellowship, you are strongly encouraged to take the GRE and to have your scores for the general test forwarded electronically by ETS to Temple University by December 15. Fellowship nominations are decided by the Graduate Board, which tends to focus on traditional academic records. A minimum undergraduate GPA of 3.5 is usually required. See eligibility requirements for fellowships and teaching assistantships on the Financial Aid Information. Scores must be from the last five years. The institutional code for Temple is 2906. The department code is 2501. 
+- **TOEFL or other tests (for international students only):** TOEFL, IELTS, or PTE scores should be sent to Temple University electronically by ETS or the appropriate agency. The following minimum scores are required: TOEFL score of 79/550, or IELTS score of 6.5, or PTE Academic score of 53. Please refer to the Graduate School’s [International Application page](http://www.temple.edu/grad/admissions/international.htm). 
+- **Official Transcripts (from all colleges attended):** Request that official transcripts from all institutions of higher education you previously attended (no matter how briefly, e.g., for study-abroad or as a non-matriculated student) be sent to us, either as eTranscripts to [creatwrt@temple.edu](mailto:creatwrt@temple.edu) or mailed to: Creative Writing Program, Dept. of English, Temple University, Anderson Hall, Room 1020, 1114 Polett Walk, Philadelphia, PA 19122-6090. Additionally, we ask that unofficial copies or scans of your transcripts be emailed or sent to us with the other application materials. 
+- [Creative Writing Application Form](media/CWapplicationform.pdf)
+6. Résumé or CV
+7. Personal Statement
+7. Writing Sample
+8. Three Letters of Recommendation
 
 ## Graduate Funding
-
 - Students admitted to the M.F.A. program with funding must attend full time.
 - Students admitted to the M.F.A. program without funding may attend part time.
 
