@@ -10,12 +10,12 @@ Our award-winning faculty help students cultivate their interests and skills, op
 
 Recently, English students have secured internships in numerous fields across many industries, including
 
-– Philadelphia Museum of Art
-– Wilma Theater
-– Philadelphia Magazine
+- Philadelphia Museum of Art
+- Wilma Theater
+- Philadelphia Magazine
 – US Department of Labor
-– Comcast SportsNet Philadelphia
-– American Cancer Society
+- Comcast SportsNet Philadelphia
+- American Cancer Society
 
 Creative Writing graduates have job titles that include
 
