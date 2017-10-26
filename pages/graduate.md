@@ -25,20 +25,13 @@ sidebar-content: |
    [(215) 204-1796](tel:2152041796)   
    [logansd@temple.edu](mailto:logansd@temple.edu)
 ---
-## Earn Your MFA in Creative Writing at Temple
-If you are a fiction writer or poet, the graduate Creative Writing program offers fiction writers and poets the opportunity to develop your craft in a two-year MFA program. The program combines small workshops each semester, one-on-one manuscript tutorials and graduate courses in creative writing topics and literature. Workshops are supplemented by individual consultations with visiting writers-in-residence and a series of readings by prominent writers (link to Poets & Writers page). 
+## Earn Your MFA in Creative Writing
+If you are a fiction writer or poet, the graduate Creative Writing program offers fiction writers and poets the opportunity to develop your craft in a two-year MFA program. The program combines small workshops each semester, one-on-one manuscript tutorials and graduate courses in creative writing topics and literature. Workshops are supplemented by individual consultations with visiting writers-in-residence and a series of readings by prominent writers (link to Poets & Writers page). Temple has an excellent [faculty of writers in both genres](/creative-writing/faculty), representing a wide range of aesthetics including Samuel R. Delany, Don Lee, Joan Mellen, Jena Osman, Alan Singer and Brian Teare. 
 
-Our curriculum helps you gain technique and self-confidence and prepares you to hand in your MFA theses in your final semester. Our students are perpared to move successfully from the MFA into the highly competitive world of submissions to journals and book publishers. Temple has an excellent faculty of writers in both genres, representing a wide range of aesthetics including Samuel R. Delany, Don Lee, Joan Mellen, Jena Osman, Alan Singer and Brian Teare. 
+Our students move successfully from the MFA into the highly competitive world of submissions to journals and book publishers. Some graduates continue on to PhD programs in English and Creative Writing and eventually work as professors. Others become librarians or work in publishing, arts administration, journalism, web writing, grant writing, primary and secondary school education and more. Books written by our graduates have been published by trade and small presses and cover all genres. These works have won grants, prizes and residencies. Temple University Creative Writing alumni continue to make important contributions to the contemporary literary scene.
 
-Past Faculty include noted writers and scholars that include
-
-- David Bradley
-- Rachel Blau DuPlessis
-- Pattie McCarthy
-- Toby Olson
-- Sonia Sanchez
-- Susan Stewart
-- William Van Wert
+## The Poets & Writers Series
+is sponsored by the Temple University MFA Creative Writing Program, with the assistance of the Richard Moyer Fund. Each year a number of poets and fiction writers are invited to read from their work (usually on Thursdays) to members of both the Temple community and the local Philadelphia arts scene. Joining each invited writer is a writer from Temple’s graduate program in Creative Writing.
 
 ## Visiting Writers
 The program also hosts a visiting fiction writer and a visiting poet each year; visitors have included Peter Carey, Alexander Chee, Robert Creeley, Robert Coover, Anita Desai, Brian Evenson, C.S. Giscombe, Jaimy Gordon, Mat Johnson, Bhanu Kapil, Jonathan Lethem, Carole Maso, Anne Waldman, C.D. Wright, and Alice Notley, and many others. 
