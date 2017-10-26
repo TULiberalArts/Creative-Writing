@@ -50,7 +50,6 @@ TOEFL or other tests (for international students only)
 7. Writing Sample
 8. Three Letters of Recommendation
 
-Learn More about Applying to the MFA in Creative Writing <br>
 [General Graduate Application Site](http://www.temple.edu/grad/admissions/howtoapply.htm)
 
 ## Temple Graduate School Funding
