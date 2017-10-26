@@ -1,6 +1,10 @@
 ---
 title: Faculty
 permalink: /faculty/
+description: >-
+  Temple's Creative Writing Faculty are award-winning poets and novelists. They are supplemented by acclaimed Writers-in-Residence.
+keywords: >-
+  Temple Creative Writing, Creative Writing Faculty, Temple Department of English
 layout: faculty2
 published: true
 ---
