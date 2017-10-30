@@ -14,11 +14,13 @@ The Creative Writing program invites a distinguished novelist (in the fall) and 
 ## DuPlessis Lecture in Poetry and Poetics
 The DuPlessis Lecture is named after Professor Emeritus Rachel Blau DuPlessis. DuPlessis is a widely published poet and critic and one of her significant contributions to the field of poetry and poetics is her interweaving of these two practices. Her poetry often speaks to the concerns of her critical work and her critical works often stretch the conventions of the scholarly essay. This lecture series honors DuPlessis’ expansions of literary form, and features poets who write in a number of different registers.
 
+## [Journal of Modern Literature](http://www.jstor.org/page/journal/jmodelite/about.html)
+The _Journal of Modern Literature_ (JML) is a journal of scholarly research covering literature written in the twentieth century and beyond. It is published four times a year, including its annual review issue which consists of approximately 250 reviews, plus thousands of listings of books, articles, and dissertations that appeared during the preceding year. Temple University English professors Morton Levitt (retired) and Daniel O’Hara are two of JML’s Editors; many English faculty are on the Advisory staff. The editors welcome research-based studies of American, English and world literature published during the last century. Manuscripts should follow MLA guidelines.
+
 ## Graduate English Association
 The Graduate English Association (GEA) is an organization for all graduate students in the English department, regardless of program (Literature or Creative Writing) or funding status (TA, GA, fellowship, or otherwise). The organization conducts regular monthly meetings, and its purpose is to make recommendations to the faculty on departmental issues (instructor training, program changes, etc.) and to enrich the graduate experience with developmental workshops and social events.
 
 ## Local Philadelphia Reading Series
-
 - [Chapter and Verse Reading Series](http://chapterhousereadings.blogspot.com/)
 Founded by graduate fiction writer Steve Dolph (class of 2007) and is currently curated by Ryan Eckes (also class of 2007) and Stan Mir. It takes place at Chapterhouse on 9th Street between South and Bainbridge.
 
