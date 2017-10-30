@@ -2,9 +2,9 @@
 title: Undergraduate
 permalink: /undergraduate/
 description: >-
-  Learn about the Writer-in-Residence program, the Duplessis Lecture series and other Creative Writing resources at Temple.
+  Major in English with a Creative Writing Concentration at Temple University in Philadelphia.
 keywords: >-
-  Temple Writer-in-Residence, Duplessis Lecture series, Kelly Writer's House
+  BA in English, Undergraduate Creative Writing Program, BA in Creative Writing
 layout: page
 published: true
 sidebar: true
