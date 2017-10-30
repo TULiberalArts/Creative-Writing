@@ -8,12 +8,12 @@ keywords: >-
 layout: home
 published: true
 feature: true
-feature-title:
+feature-title: Flexible Applications, Life-Long Possibilities
 feature-image: null
-feature-body: >-
+feature-body: >- Hone your craft by studying in a world-class city for the arts: Philadelphia. Become a part of a close-knit cohort within a thriving urban setting.
 ---
 ## Immerse Yourself in the Art of Writing
-Hone your craft by studying in a world-class city for the arts: Philadelphia. Temple University offers both undergraduate and graduate programs in Creative Writing. As a creative writing student, you will be immersed in poetry and fiction and gain writing experience in many different genres. Under the instruction of award-winning writers, you will collaborate with your peers in inspiring and supportive workships. Professors and students work in a close-knit community as they write their own novels, plays, poems and essays within the living tradition of literature. 
+Temple University offers both undergraduate and graduate programs in Creative Writing. As a creative writing student, you will be immersed in poetry and fiction and gain writing experience in many different genres. Under the instruction of award-winning writers, you will collaborate with your peers in inspiring and supportive workships. Professors and students work in a close-knit community as they write their own novels, plays, poems and essays within the living tradition of literature. 
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
