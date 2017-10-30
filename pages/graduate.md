@@ -2,9 +2,9 @@
 title: Graduate
 permalink: /graduate/
 description: >-
-  Earn an MFA in Creative Writing at Temple University. Focus on either fiction or poetry.
-keywords: >-
-  MFA in fiction, MFA in poetry, MFA in Creative Writing
+  Earn an MFA in Creative Writing at Temple University. Focus on either fiction
+  or poetry.
+keywords: 'MFA in fiction, MFA in poetry, MFA in Creative Writing'
 layout: page
 published: true
 sidebar: true
@@ -77,3 +77,10 @@ After the February 15 deadline, applications may still be considered on a rollin
 Applications are accepted only for Fall admission.
 
 _*By “postmarked,” we mean that materials should be sent before or on December 15 or February 15. They do not need to be delivered on those dates. Regular USPS mail service, e.g., First Class or Priority Mail, is fine. You need not spend extra money on overnight services._
+
+## Graduate Resources
+- [Graduate Handbook](http://www.temple.edu/grad/policies/gradpolicies.htm)
+- [Graduate School Forms](http://www.temple.edu/grad/forms/index.htm)
+- [Graduate School Funding](http://www.temple.edu/grad/finances/index.htm)
+- [Graduate School Policies](http://www.temple.edu/grad/policies/index.htm)
+- [Applying to Graduate School](http://www.temple.edu/grad/admissions/howtoapply.htm)
