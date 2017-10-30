@@ -35,7 +35,7 @@ Temple University offers both undergraduate and graduate programs in Creative Wr
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html
         title="Employers love English Majors"
-        content="From mayoral campaigns to musicology, recent Temple grads are putting their English degrees to work in a variety of fields and careers."
+        content="From mayoral campaigns to musicology, recent Temple grads are putting their English degrees to work in a many careers."
         image=""
         button-link=" "
         button-text="Learn More" %}
