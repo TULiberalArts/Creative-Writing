@@ -7,7 +7,7 @@ keywords: >-
   Creative Writing programs, BA in Creative Writing, MFA in Creative Writing
 layout: home
 published: true
-feature: false
+feature: true
 feature-title:
 feature-image: null
 feature-body: >-
@@ -33,7 +33,7 @@ Hone your craft by studying in a world-class city for the arts: Philadelphia. Te
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html
-        title="What do you do with a BA in English? Take your pick."
+        title="Employers love English Majors"
         content="From mayoral campaigns to musicology, recent Temple grads are putting their English degrees to work in a variety of fields and careers."
         image=""
         button-link=" "
