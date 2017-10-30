@@ -2,9 +2,9 @@
 title: Undergraduate
 permalink: /undergraduate/
 description: >-
-  Major in English with a Creative Writing Concentration at Temple University in Philadelphia.
-keywords: >-
-  BA in English, Undergraduate Creative Writing Program, BA in Creative Writing
+  Major in English with a Creative Writing Concentration at Temple University in
+  Philadelphia.
+keywords: 'BA in English, Undergraduate Creative Writing Program, BA in Creative Writing'
 layout: page
 published: true
 sidebar: true
@@ -41,11 +41,6 @@ sidebar-content: |
 If writing is your passion, Temple's Department of English offers a BA in English with a Creative Writing Concentration. As a student working in our Creative Writing concentration, you will gain experience writing under the instruction of award-winning authors and poets in supportive workshops. We recommend BA in English with Creative Writing Concentration students focus on either poetry, fiction or screenwriting. This will allow you to focuse on one particular genre and also prepare you for graduate study in creative writing if you are choose to pursue it. Like all English majors, Creative Writing Concentrations learn creative and flexible thinking, persuasive and powerful writing skills and sharp analytical skills - essential abilities for tomorrow's leaders and professionals.
 
 [Learn More about the Creative Writing Concentration](http://bulletin.temple.edu/undergraduate/liberal-arts/english/ba-english-creative-writing/#text)
-
-## Poets & Writers Series
-The Poets & Writers Series is sponsored by the Temple University MFA Creative Writing Program, with the assistance of the Richard Moyer Fund. Each year a number of poets and fiction writers are invited to read from their work (usually on Thursdays) to members of both the Temple community and the local Philadelphia arts scene. Joining each invited writer is a writer from Temple’s graduate program in Creative Writing. All events are free and open to the public and held either on the main Temple campus or the Center City Philadelphia Temple campus. We recommend that all students pursuing the Creative Writing concentration attend the series.
-
-Learn more about the Poets & Writers Series (link)
 
 ## Hyphen Interdisciplinary Journal
 Hyphen is Temple University’s only undergraduate student literary magazine. Founded by Professor Jena Osman twelve years ago, the journal has published close to 400 fiction writers, poets and visual artists. We release a print magazine every spring, and also host open mic nights and other events to support Temple’s literary and artistic community. To get involved, please contact us at [hyphen@temple.edu](mailto:hyphen@temple.edu) or visit our Facebook page [here](https://www.facebook.com/HyphenLit). Our faculty advisor is Don Lee.
