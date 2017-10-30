@@ -20,6 +20,12 @@ The _Journal of Modern Literature_ (JML) is a journal of scholarly research cove
 ## Graduate English Association
 The Graduate English Association (GEA) is an organization for all graduate students in the English department, regardless of program (Literature or Creative Writing) or funding status (TA, GA, fellowship, or otherwise). The organization conducts regular monthly meetings, and its purpose is to make recommendations to the faculty on departmental issues (instructor training, program changes, etc.) and to enrich the graduate experience with developmental workshops and social events.
 
+## Creative Writing Scholarships
+
+- **The Frances Tebet Israel Prize in Poetry and Fiction**: The Frances Israel Prize was established in 1996 by her family in her memory. Mrs. Israel was a School of Education graduate, class of 1936. This prize is given at the end of every year for the best Master’s thesis in poetry and the best Master’s thesis in fiction.
+- **The Joseph Beam Scholarship Prize**: Joseph Beam was an African-American gay rights activist. He edited one of the first anthologies of gay black writing titled "In The Life". His mother, Dorothy S. Beam, EDU ’72, established the Joseph Beam Scholarship Prize when he died of AIDS. This prize is awarded annually to a student in the Creative Writing Program who has demonstrated academic achievement and financial need, and has written an essay or literary piece that would be of interest and importance to sexual minorities.
+- **The William H. Gunn Scholarship in Creative Writing**: The William H. Gunn Scholarship in Creative Writing provides financial aid to graduate students enrolled in the Creative Writing program. The scholarship was established by William H. Gunn’s mother, Louise A. Gunn, in memory of her son, the noted black independent film director, author, scenarist, and playwright. Gunn, a Philadelphia native, died in April 1989 at the age of 59. To the extent allowed by law, preference will be given to African American graduate students.
+
 ## Local Philadelphia Reading Series
 - [Chapter and Verse Reading Series](http://chapterhousereadings.blogspot.com/)
 Founded by graduate fiction writer Steve Dolph (class of 2007) and is currently curated by Ryan Eckes (also class of 2007) and Stan Mir. It takes place at Chapterhouse on 9th Street between South and Bainbridge.
