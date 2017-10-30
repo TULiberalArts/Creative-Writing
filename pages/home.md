@@ -25,16 +25,16 @@ Hone your craft by studying in a world-class city for the arts: Philadelphia. Te
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html
-      title="Award-Winning Writers "
-      content="Temple has an excellent faculty of award-winning writers who represent a wide range of aesthetics. Our faculty is supplemented by the distinguished novelists and poets from our Writer-in-Residence program."
+      title="Award-Winning Faculty "
+      content="Temple has an excellent faculty of award-winning writers who represent a wide range of aesthetics."
       image=""
       button-link=" "
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html
-        title=" "
-        content=" "
+        title="What do you do with a BA in English? Take your pick."
+        content="From mayoral campaigns to musicology, recent Temple grads are putting their English degrees to work in a variety of fields and careers."
         image=""
         button-link=" "
         button-text="Learn More" %}
