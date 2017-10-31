@@ -2,13 +2,14 @@
 title: Next Stops
 permalink: /next-stops/
 description: >-
-  Careers for English majors include journalism and publishing, advertising and marketing, education, law and in social services. Take your pick!
+  Careers for English majors include journalism and publishing, advertising and
+  marketing, education, law and in social services. Take your pick!
 keywords: 'Careers for English Majors, Careers for English Degrees, BA in English jobs'
 layout: page
 published: true
 ---
 ## What Can I Do with a Degree in Creative Writing?
-What do you do with a degree in Creative Writing? Take your pick. Employers look for people who can think both critically and creatively. The BA in English at Temple — with its emphasis on both creative and critical scholarship, and the option of a creative writing concentration — is ideally suited to prepare students to succeed in the corporate and non-profit sectors, in academic professions and in entrepreneurial endeavors. From mayoral campaigns to musicology, recent Temple grads are putting their English degrees to work in a variety of fields and careers. English majors are prepared for careers that involve writing or editing - whether the subject matter is an advertising campaign, an essay, a grant proposal, a legal documents or a website. English majors also find non-writing and editing careers in fields that include business, education, government, law, librarianship, marketing and social services.
+Take your pick! Employers look for people who can think both critically and creatively. The BA in English at Temple — with its emphasis on both creative and critical scholarship, and the option of a creative writing concentration — is ideally suited to prepare students to succeed in the corporate and non-profit sectors, in academic professions and in entrepreneurial endeavors. From mayoral campaigns to musicology, recent Temple grads are putting their English degrees to work in a variety of fields and careers. English majors are prepared for careers that involve writing or editing - whether the subject matter is an advertising campaign, an essay, a grant proposal, a legal documents or a website. English majors also find non-writing and editing careers in fields that include business, education, government, law, librarianship, marketing and social services.
 
 The Department of English has a well-established internship program and offers students a wealth of opportunities to work in the real world even before graduation, and a popular career seminar keeps them up-to-date on the exciting possibilities available after graduation. Recently, English majors have secured internships in organizations across several industries, including
 
