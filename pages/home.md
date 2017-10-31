@@ -30,7 +30,7 @@ Temple University offers both undergraduate and graduate programs in Creative Wr
       title="Award-Winning Faculty "
       content="Temple has an excellent faculty of award-winning writers who represent a wide range of aesthetics."
       image=""
-      button-link=" "
+      button-link="/creative-writing/faculty "
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
@@ -38,7 +38,7 @@ Temple University offers both undergraduate and graduate programs in Creative Wr
         title="Employers love English Majors"
         content="From mayoral campaigns to musicology, recent Temple grads are putting their English degrees to work in many careers."
         image=""
-        button-link=" "
+        button-link="https://liberalarts.temple.edu/about-us/newsroom/recent-english-grads-put-their-degrees-use-many-fields "
         button-text="Learn More" %}
       </div>
 </div>
