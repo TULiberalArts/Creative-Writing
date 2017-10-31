@@ -3,7 +3,7 @@ title: Home
 permalink: /
 layout: home
 description: >-
-  Study Creative Writing at Temple University in Philadelphia - a world-class city for the arts.
+  Study Creative Writing at Temple University in Philadelphia - a world-class city for the arts. 
 keywords: 'Creative Writing programs, BA in Creative Writing, MFA in Creative Writing, Temple Creative Writing'
 published: true
 feature: true
