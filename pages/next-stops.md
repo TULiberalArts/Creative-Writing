@@ -4,11 +4,10 @@ permalink: /next-stops/
 layout: page
 published: true
 ---
-
 ## What Can I Do with a Degree in Creative Writing?
-Our award-winning faculty help students cultivate their interests and skills, opening doors to a range of career paths. A well-established internship program offers students a wealth of opportunities to work in the real world even before graduation, and a popular career seminar keeps them up-to-date on the exciting possibilities available post-graduation. Our well-established internship program offers you a wealth of opportunities to work in the real world even before graduation, and a popular career seminar keeps you up-to-date on the exciting possibilities post-graduation. 
+What do you do with a degree in Creative Writing? Take your pick. Employers look for people who can think both critically and creatively. The BA in English at Temple — with its emphasis on both creative and critical scholarship, and the option of a creative writing concentration — is ideally suited to prepare students to succeed in the corporate and non-profit sectors, in academic professions and in entrepreneurial endeavors. From mayoral campaigns to musicology, recent Temple grads are putting their English degrees to work in a variety of fields and careers. English majors are prepared for careers that involve writing or editing - whether the subject matter is an advertising campaign, an essay, a grant proposal, a legal documents or a website. English majors also find non-writing and editing careers in fields that include business, education, government, law, librarianship, marketing and social services.
 
-Recently, English students have secured internships in numerous fields across many industries, including
+The Department of English has a well-established internship program and offers students a wealth of opportunities to work in the real world even before graduation, and a popular career seminar keeps them up-to-date on the exciting possibilities available after graduation. Recently, English majors have secured internships in organizations across several industries, including
 
 - Philadelphia Museum of Art
 - Wilma Theater
@@ -16,15 +15,6 @@ Recently, English students have secured internships in numerous fields across ma
 – US Department of Labor
 - Comcast SportsNet Philadelphia
 - American Cancer Society
-
-Creative Writing graduates have job titles that include
-
-- Web Writer
-- Librarian
-- High School Teacher
-- Publicist
-- Journalist
-- Grantwriter
 
 ## Make Your Declaration
 The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests, from the humanities and social sciences to business and the media arts. The College of Liberal Arts prepares students to become innovators in all fields, across all industries. We are creative thinkers, doers and risk-takers. Home to 28 departments and programs, we offer a solid liberal arts education at a premier urban, research university.
@@ -54,4 +44,3 @@ Ready to apply? [Submit your application online](http://admissions.temple.edu/ap
 - **March 1st**: FAFSA Financial Aid Application Deadline
 - **Nov. 1st**: Transfer Deadline for Spring Semester
 - **June 1st**: Transfer Deadline for Fall Semester
-
