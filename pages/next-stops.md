@@ -1,6 +1,9 @@
 ---
 title: Next Stops
 permalink: /next-stops/
+description: >-
+  Careers for English majors include journalism and publishing, advertising and marketing, education, law and in social services. Take your pick!
+keywords: 'Careers for English Majors, Careers for English Degrees, BA in English jobs'
 layout: page
 published: true
 ---
