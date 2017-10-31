@@ -2,9 +2,8 @@
 title: Resources
 permalink: /resources/
 description: >-
-  Learn about the Writer-in-Residence program, the Duplessis Lecture series and
-  other Creative Writing resources at Temple.
-keywords: 'Temple Writer-in-Residence, Duplessis Lecture series, Kelly Writer''s House'
+  Learn about the Writer-in-Residence program, local reading series and Creative Writing scholarships at Temple's Department of English.
+keywords: 'Temple Writer-in-Residence, Duplessis Lecture series, Kelly Writers House, Creative Writing Scholarships'
 layout: page
 published: true
 ---
