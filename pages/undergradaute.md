@@ -42,7 +42,7 @@ If writing is your passion, Temple's Department of English offers a BA in Englis
 
 [Learn More about the BA in English with a Concentration in Creative Writing](http://bulletin.temple.edu/undergraduate/liberal-arts/english/ba-english-creative-writing/#text)
 
-![Creative Writing Undergrads at Temple University]({{site.baseurl}}/media/undergrad-creative-writing.jpg){:.img-full}
+![Creative Writing Undergrads at Temple University]({{site.baseurl}}/media/undergrad-creative-writing.jpg){:.img-right}
 
 ## Hyphen Interdisciplinary Journal
 Hyphen is Temple University’s only undergraduate student literary magazine. Founded by Professor Jena Osman twelve years ago, the journal has published close to 400 fiction writers, poets and visual artists. We release a print magazine every spring, and also host open mic nights and other events to support Temple’s literary and artistic community. To get involved, please contact us at [hyphen@temple.edu](mailto:hyphen@temple.edu) or visit our Facebook page [here](https://www.facebook.com/HyphenLit). Our faculty advisor is Don Lee.
