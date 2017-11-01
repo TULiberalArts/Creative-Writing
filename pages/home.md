@@ -17,7 +17,7 @@ feature-body: >-
 published: true
 ---
 ## Immerse Yourself in the Art of Writing
-Temple University offers both undergraduate and graduate programs in Creative Writing. Our classes teach students to think and write with clarity and imagination under the guidance of award-winning faculty. You will collaborate with your peers in inspiring and supportive workships, take literature courses and gain experience in the genre of your choice. Professors and students work in a close-knit community as they write their own novels, plays, poems and essays within the living tradition of literature.
+Temple University offers both undergraduate and graduate programs in Creative Writing. Our classes teach students to think and write with clarity and imagination under the guidance of award-winning faculty. You will collaborate with your peers in inspiring and supportive workships, take literature courses and gain experience in the genre of your choice. Professors and students work in a close-knit community as they write their own novels, plays, poems and essays within the living tradition of literature. 
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
