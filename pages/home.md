@@ -8,13 +8,13 @@ description: >-
 keywords: >-
   Creative Writing programs, BA in Creative Writing, MFA in Creative Writing,
   Temple Creative Writing
-published: true
 feature: true
 feature-title: 'Flexible Applications, Life-Long Possibilities'
-feature-image: null
+feature-image: hero_Creative Writing_bg.jpg
 feature-body: >-
   Hone your craft by studying in Philadelphia, a world-class city for the arts.
   Become a part of a close-knit community within a thriving urban setting.
+published: true
 ---
 ## Immerse Yourself in the Art of Writing
 Temple University offers both undergraduate and graduate programs in Creative Writing. Our classes teach students to think and write with clarity and imagination under the guidance of award-winning faculty. You will collaborate with your peers in inspiring and supportive workships, take literature courses and gain experience in the genre of your choice. Professors and students work in a close-knit community as they write their own novels, plays, poems and essays within the living tradition of literature.
