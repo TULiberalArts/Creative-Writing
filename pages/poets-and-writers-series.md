@@ -1,5 +1,5 @@
 ---
-title: Poets and Writers Series
+title: Poets & Writers Series
 permalink: /poets-and-writers-series/
 description: >-
 keywords: ''
