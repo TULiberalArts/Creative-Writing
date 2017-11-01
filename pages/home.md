@@ -10,7 +10,7 @@ keywords: >-
   Temple Creative Writing
 feature: true
 feature-title: 'Flexible Applications, Life-Long Possibilities'
-feature-image: hero_Creative Writing_bg.jpg
+feature-image: media/hero_Creative Writing_bg.jpg
 feature-body: >-
   Hone your craft by studying in Philadelphia, a world-class city for the arts.
   Become a part of a close-knit community within a thriving urban setting.
