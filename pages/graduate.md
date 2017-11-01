@@ -2,8 +2,11 @@
 title: Graduate
 permalink: /graduate/
 description: >-
-  Earn an MFA in Creative Writing at Temple University. Focus on either fiction or poetry.
-keywords: 'MFA in Fiction, MFA in Poetry, Creative Writing MFA, Graduate Program in Creative Writing'
+  Earn an MFA in Creative Writing at Temple University. Focus on either fiction
+  or poetry.
+keywords: >-
+  MFA in Fiction, MFA in Poetry, Creative Writing MFA, Graduate Program in
+  Creative Writing
 layout: page
 published: true
 sidebar: true
@@ -30,6 +33,8 @@ sidebar-content: |
 ---
 ## Earn Your MFA in Creative Writing
 Temple offers a two-year MFA in Creative Writing, with a focus in either fiction or poetry. Develop your craft in the poetically lively city of Philadelphia. Our program combines creative and critical practices: students take a mix of writing workshops and literature seminars augmented by one-on-one mentoring and thesis advising in the second year. Our rich and challenging curriculum is supplemented by individual consultations with visiting Writers-in-Residence and a series of readings by [prominent writers](/creative-writing/poets-and-writers). Temple has an excellent [faculty of writers in both poetry and fiction](/creative-writing/faculty), representing a wide range of aesthetics. They include Samuel R. Delany, Don Lee, Joan Mellen, Jena Osman, Alan Singer and Brian Teare. 
+
+![Creative Writing Undergrads at Temple University]({{site.baseurl}}/media/Temple-MFA-poets.jpg){:.img-full}
 
 Our students move successfully from the MFA into the highly competitive world of submissions to journals and book publishers. Some graduates continue on to PhD programs in English and Creative Writing and eventually work as professors. Others become librarians or work in publishing, arts administration, journalism, web writing, grant writing, primary and secondary school education and more. Books written by our graduates have been published by trade and small presses and cover all genres. These works have won grants, prizes and residencies. Temple University Creative Writing alumni continue to make important contributions to the contemporary literary scene.
 
