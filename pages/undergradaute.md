@@ -38,11 +38,12 @@ sidebar-content: |
    [logansd@temple.edu](mailto:logansd@temple.edu)
 ---
 ## Study Creative Writing at Temple
+
+![Creative Writing Undergrads at Temple University]({{site.baseurl}}/media/undergrad-creative-writing.jpg){:.img-full}
+
 If writing is your passion, Temple's Department of English offers a BA in English with a Concentration in Creative Writing. Our students are immersed in poetry and fiction and gain experience writing in different genres. [Prominent and award-winning writers](/creative-writing/faculty) lead Temple's undergraduate Creative Writing program - students work closely with faculty to become better writers and readers. We recommend Creative Writing Concentration students focus on either poetry, fiction or screenwriting. This will allow you to focus on one particular genre and prepares you for graduate study in Creative Writing if you choose to pursue it. Like all English majors, Creative Writing students learn creative and flexible thinking, persuasive and powerful writing skills and sharp analytical skills - essential abilities for tomorrow's leaders and professionals.
 
 [Learn More about the BA in English with a Concentration in Creative Writing](http://bulletin.temple.edu/undergraduate/liberal-arts/english/ba-english-creative-writing/#text)
-
-![Creative Writing Undergrads at Temple University]({{site.baseurl}}/media/undergrad-creative-writing.jpg){:.img-right}
 
 ## Hyphen Interdisciplinary Journal
 Hyphen is Temple University’s only undergraduate student literary magazine. Founded by Professor Jena Osman twelve years ago, the journal has published close to 400 fiction writers, poets and visual artists. We release a print magazine every spring, and also host open mic nights and other events to support Temple’s literary and artistic community. To get involved, please contact us at [hyphen@temple.edu](mailto:hyphen@temple.edu) or visit our Facebook page [here](https://www.facebook.com/HyphenLit). Our faculty advisor is Don Lee.
