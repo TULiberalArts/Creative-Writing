@@ -39,8 +39,7 @@ sidebar-content: |
 ---
 ## Study Creative Writing at Temple
 
-
-![Creative Writing Undergrads at Temple University]({{site.baseurl}}/creative-writing/media/undergrad-creative-writing.jpg){:.img-right}
+![Creative Writing Undergrads at Temple University]({{site.baseurl}}/media/undergrad-creative-writing.jpg){:.img-right}
 
 If writing is your passion, Temple's Department of English offers a BA in English with a Concentration in Creative Writing. Our students are immersed in poetry and fiction and gain experience writing in different genres. [Prominent and award-winning writers](/creative-writing/faculty) lead Temple's undergraduate Creative Writing program - students work closely with faculty to become better writers and readers. We recommend Creative Writing Concentration students focus on either poetry, fiction or screenwriting. This will allow you to focus on one particular genre and prepares you for graduate study in Creative Writing if you choose to pursue it. Like all English majors, Creative Writing students learn creative and flexible thinking, persuasive and powerful writing skills and sharp analytical skills - essential abilities for tomorrow's leaders and professionals.
 
