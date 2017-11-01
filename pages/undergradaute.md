@@ -2,7 +2,8 @@
 title: Undergraduate
 permalink: /undergraduate/
 description: >-
-  Major in English with a Concentration in Creative Writing at Temple University in Philadelphia.
+  Major in English with a Concentration in Creative Writing at Temple University
+  in Philadelphia.
 keywords: 'BA in English, Undergraduate Creative Writing Program, BA in Creative Writing'
 layout: page
 published: true
@@ -37,6 +38,9 @@ sidebar-content: |
    [logansd@temple.edu](mailto:logansd@temple.edu)
 ---
 ## Study Creative Writing at Temple
+
+![13096072_889597347829266_7360068505560645816_n.jpg]({{site.baseurl}}/media/13096072_889597347829266_7360068505560645816_n.jpg){:.img-right}
+
 If writing is your passion, Temple's Department of English offers a BA in English with a Concentration in Creative Writing. Our students are immersed in poetry and fiction and gain experience writing in different genres. [Prominent and award-winning writers](/creative-writing/faculty) lead Temple's undergraduate Creative Writing program - students work closely with faculty to become better writers and readers. We recommend Creative Writing Concentration students focus on either poetry, fiction or screenwriting. This will allow you to focus on one particular genre and prepares you for graduate study in Creative Writing if you choose to pursue it. Like all English majors, Creative Writing students learn creative and flexible thinking, persuasive and powerful writing skills and sharp analytical skills - essential abilities for tomorrow's leaders and professionals.
 
 [Learn More about the BA in English with a Concentration in Creative Writing](http://bulletin.temple.edu/undergraduate/liberal-arts/english/ba-english-creative-writing/#text)
