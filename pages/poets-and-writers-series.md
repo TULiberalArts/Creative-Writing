@@ -47,4 +47,4 @@ ___
 ## DuPlessis Lecture in Poetry and Poetics
 The DuPlessis Lecture is named after Professor Emeritus Rachel Blau DuPlessis. DuPlessis is a widely published poet and critic and one of her significant contributions to the field of poetry and poetics is her interweaving of these two practices. Her poetry often speaks to the concerns of her critical work and her critical works often stretch the conventions of the scholarly essay. This lecture series honors DuPlessis’ expansions of literary form, and features poets who write in a number of different registers.
 
-**NEED CURRENT 2017-2018 EVENTS FOR THIS SECTION** 
+**NEED CURRENT 2017-2018 EVENTS FOR THIS SECTION**
