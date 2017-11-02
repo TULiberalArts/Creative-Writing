@@ -11,6 +11,7 @@ published: true
 The Poets & Writers Series is sponsored by the Temple University MFA Creative Writing Program, with the assistance of the Richard Moyer Fund. Each year a number of poets and fiction writers are invited to read from their work (usually on Thursdays) to members of both the Temple community and the local Philadelphia arts scene. Joining each invited writer is a writer from Temple’s graduate program in Creative Writing.
 
 All events are free and open to the public. Readings are held either on the main Temple campus or the Center City Philadelphia Temple campus.
+
 ___
 
 ## Fall 2017 Poets & Writers Series
