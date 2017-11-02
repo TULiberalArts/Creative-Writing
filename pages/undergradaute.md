@@ -9,13 +9,6 @@ layout: page
 published: true
 sidebar: true
 sidebar-content: |
-  **Director:**  
-   Don Lee  
-   1013 Anderson Hall    
-   [donlee@temple.edu](mailto:donlee@temple.edu)  
-
-   ___
-
    **Undergraduate Chair:**  
    Gabriel Wettach  
    1030 Anderson Hall  
