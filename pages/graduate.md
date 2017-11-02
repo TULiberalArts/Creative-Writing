@@ -32,6 +32,7 @@ sidebar-content: |
    [logansd@temple.edu](mailto:logansd@temple.edu)
 ---
 ## Earn Your MFA in Creative Writing
+
 ![Creative Writing MFA Poets at Temple University]({{site.baseurl}}/media/temple-mfa-poets.jpg){:.img-right}
 Temple offers a two-year MFA in Creative Writing, with a focus in either fiction or poetry. Develop your craft in the poetically lively city of Philadelphia. Our program combines creative and critical practices: students take a mix of writing workshops and literature seminars augmented by one-on-one mentoring and thesis advising in the second year. Our rich and challenging curriculum is supplemented by individual consultations with visiting Writers-in-Residence and a series of readings by [prominent writers](/creative-writing/poets-and-writers). Temple has an excellent [faculty of writers in both poetry and fiction](/creative-writing/faculty), representing a wide range of aesthetics. They include Samuel R. Delany, Don Lee, Joan Mellen, Jena Osman, Alan Singer and Brian Teare. 
 
