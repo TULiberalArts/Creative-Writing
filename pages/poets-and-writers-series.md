@@ -26,7 +26,7 @@ Co-sponsored by PHILALALIA, Philadelphia’s annual small press poetry and art f
 
 ___
 
-![Allingham Amaranth Borsuk]({{site.baseurl}}/media/Borsuk-Photo (1).jpg){:.img-right}
+![Allingham Amaranth Borsuk]({{site.baseurl}}/media/Borsuk-Photo.jpg){:.img-right}
 Amaranth Borsuk
 
 - Thursday, October 12, 2017, 6 p.m.<br/>
