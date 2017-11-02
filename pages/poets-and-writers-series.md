@@ -1,6 +1,6 @@
 ---
 title: Poets & Writers Series
-permalink: /poets-and-writers-series/
+permalink: /poets-and-writers/
 description: >-
 keywords: ''
 layout: page
