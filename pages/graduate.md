@@ -45,6 +45,8 @@ Although not required, we prefer applicants to the MFA Program in Creative Writi
 
 The minimum admission standard for all graduate students is an undergraduate grade point average of B, or 3.0 (see bottom of this page for exceptions), or the functional equivalent for students who have attended universities outside of the United States. If you have questions or need further assistance, please contact Sharon Logan, the Program Coordinator, at [logansd@temple.edu](mailto:logansd@temple.edu) or [215.204.1796](tel:2152041796).
 
+At the discretion of the vice dean and the MFA director, up to 6 graduate credits may be transferred if they were taken at a competitive university within the last five years with a grade of B or higher.
+
 Submit the following application materials for admission consideration. For a complete list of instructions [download this this pdf](/creative-writing/media/how-to-apply-MFA.pdf).
 
 1. [Graduate School Application](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon)
