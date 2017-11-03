@@ -47,6 +47,9 @@ The minimum admission standard for all graduate students is an undergraduate gra
 
 At the discretion of the vice dean and the MFA director, up to 6 graduate credits may be transferred if they were taken at a competitive university within the last five years with a grade of B or higher.
 
+## MFA Application Deadline
+**Feb. 15** for Fall Semester
+
 Submit the following application materials for admission consideration. For a complete list of instructions [download this this pdf](/creative-writing/media/how-to-apply-MFA.pdf).
 
 1. [Graduate School Application](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon)
@@ -60,6 +63,14 @@ TOEFL or other tests (for international students only)
 8. Three Letters of Recommendation
 
 [General Graduate Application Site](http://www.temple.edu/grad/admissions/howtoapply.htm)
+
+All materials should be submitted or postmarked* by February 15. If you would like to be considered for a fellowship, please turn in your materials (including the optional GRE scores that are recommended for fellowship consideration) by December 15. Applications submitted after December 15 will still be considered for a fellowship (even those without the recommended GRE scores) or a teaching assistantship, but those meeting the initial deadline will be prioritized. Basically, if you are seeking funding through a fellowship or teaching assistantship, the earlier you submit your application, the better.
+
+After the February 15 deadline, applications may still be considered on a rolling, case-by-case basis (though not for funding), depending on the availability of space and the applicant’s credentials. Inquire by emailing [creatwrt@temple.edu](mailto:creatwrt@temple.edu).
+
+Applications are accepted only for Fall admission.
+
+_*By “postmarked,” we mean that materials should be sent before or on December 15 or February 15. They do not need to be delivered on those dates. Regular USPS mail service, e.g., First Class or Priority Mail, is fine. You need not spend extra money on overnight services._
 
 ## Temple Graduate School Funding
 Temple has several financial aid packages available to eligible candidates, including University Fellowships that provide full tuition and a stipend, as well as teaching assistantships, which also cover full tuition, health benefits and a stipend. On average, the MFA Program in Creative Writing is able to fund 40% of its students with Teaching Assistantships, University Fellowships, or Future Faculty Fellowships. These funding packages are awarded on a competitive basis. If you are admitted to the Creative Writing Program, you will automatically be considered for a Teaching Assistantship or Fellowship.
@@ -82,17 +93,6 @@ Temple University is relatively affordable in comparison to other programs (see 
 
 ## Curriculum and Academic Requirements
 [MFA in Creative Writing](http://bulletin.temple.edu/graduate/scd/cla/creative-writing-mfa/#programrequirementstext)
-
-## MFA Application Deadline
-**Feb. 15** for Fall Semester
-
-All materials should be submitted or postmarked* by February 15. If you would like to be considered for a fellowship, please turn in your materials (including the optional GRE scores that are recommended for fellowship consideration) by December 15. Applications submitted after December 15 will still be considered for a fellowship (even those without the recommended GRE scores) or a teaching assistantship, but those meeting the initial deadline will be prioritized. Basically, if you are seeking funding through a fellowship or teaching assistantship, the earlier you submit your application, the better.
-
-After the February 15 deadline, applications may still be considered on a rolling, case-by-case basis (though not for funding), depending on the availability of space and the applicant’s credentials. Inquire by emailing [creatwrt@temple.edu](mailto:creatwrt@temple.edu).
-
-Applications are accepted only for Fall admission.
-
-_*By “postmarked,” we mean that materials should be sent before or on December 15 or February 15. They do not need to be delivered on those dates. Regular USPS mail service, e.g., First Class or Priority Mail, is fine. You need not spend extra money on overnight services._
 
 ## Graduate Resources
 - [Graduate Handbook](http://www.temple.edu/grad/policies/gradpolicies.htm)
