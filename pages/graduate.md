@@ -31,9 +31,15 @@ sidebar-content: |
    [(215) 204-1796](tel:2152041796)   
    [logansd@temple.edu](mailto:logansd@temple.edu)     
 ---
+## Earn Your MFA in Creative Writing
+![Creative Writing MFA Poets at Temple University]({{site.baseurl}}/media/temple-mfa-poets.jpg){:.img-right}
+Temple offers a two-year MFA in Creative Writing, with a focus in either fiction or poetry. Develop your craft in the poetically lively city of Philadelphia. Our program combines creative and critical practices: students take a mix of writing workshops and literature seminars augmented by one-on-one mentoring and thesis advising in the second year. Students also have the opportunity to work on our online literary journal, [TINGE Magazine](http://www.tingemagazine.org/), which is graduate student–edited. Our rich and challenging curriculum is supplemented by individual consultations with visiting Writers-in-Residence and a series of readings by [prominent writers](/creative-writing/poets-and-writers). Temple has an excellent [faculty of writers in both poetry and fiction](/creative-writing/faculty), representing a wide range of aesthetics. They include Alan Singer, Brian Teare, Don Lee, Jena Osman, Joan Mellen and Samuel R. Delany. 
 
-___
+Our students move successfully from the MFA into the highly competitive world of submissions to journals and book publishers. Some graduates continue on to PhD programs in English and Creative Writing and eventually work as professors. Others become librarians or work in arts administration, grant writing, journalism, publishing, primary and secondary school education, web writing and more. Books written by our graduates have been published by trade and small presses and cover all genres. These works have won grants, prizes and residencies. Temple University Creative Writing alumni continue to make important contributions to the contemporary literary scene. Please go to the [Temple University Creative Writing MFA Facebook](https://www.facebook.com/templecreativewriting/) page for current updates.
 
+## Writer-in-Residence Program
+The Creative Writing program invites a distinguished novelist (in the fall) and poet (in the spring) to stay for several days and work with MFA students. The writers attend graduate workshops, give readings, meet with students individually, read student manuscripts and spend informal time with students. Over the course of your MFA program, you will have the opportunity to engage with four of the visitors and have conferences with two of them (in their specific genre). Writers who attend the Writer-in-Residence program at Temple are a distinctive and internationally recognized group. Visiting writers have included Alexander Chee, Alice Notley, Anita Desai, Anne Waldman, Bhanu Kapil, Brian Evenson, Carole Maso, C. D. Wright, C.S. Giscombe, Jaimy Gordon, Jonathan Lethem, Robert Creeley, Robert Coover, Mat Johnson, Peter Carey and many others.
+---
 <div class="row">
   <div class="col s1 m8 l8"></div>
         <div class="col s5 m2">
@@ -50,14 +56,6 @@ ___
         </div>
       </div>
 ---
-## Earn Your MFA in Creative Writing
-![Creative Writing MFA Poets at Temple University]({{site.baseurl}}/media/temple-mfa-poets.jpg){:.img-right}
-Temple offers a two-year MFA in Creative Writing, with a focus in either fiction or poetry. Develop your craft in the poetically lively city of Philadelphia. Our program combines creative and critical practices: students take a mix of writing workshops and literature seminars augmented by one-on-one mentoring and thesis advising in the second year. Students also have the opportunity to work on our online literary journal, [TINGE Magazine](http://www.tingemagazine.org/), which is graduate student–edited. Our rich and challenging curriculum is supplemented by individual consultations with visiting Writers-in-Residence and a series of readings by [prominent writers](/creative-writing/poets-and-writers). Temple has an excellent [faculty of writers in both poetry and fiction](/creative-writing/faculty), representing a wide range of aesthetics. They include Alan Singer, Brian Teare, Don Lee, Jena Osman, Joan Mellen and Samuel R. Delany. 
-
-Our students move successfully from the MFA into the highly competitive world of submissions to journals and book publishers. Some graduates continue on to PhD programs in English and Creative Writing and eventually work as professors. Others become librarians or work in arts administration, grant writing, journalism, publishing, primary and secondary school education, web writing and more. Books written by our graduates have been published by trade and small presses and cover all genres. These works have won grants, prizes and residencies. Temple University Creative Writing alumni continue to make important contributions to the contemporary literary scene. Please go to the [Temple University Creative Writing MFA Facebook](https://www.facebook.com/templecreativewriting/) page for current updates.
-
-## Writer-in-Residence Program
-The Creative Writing program invites a distinguished novelist (in the fall) and poet (in the spring) to stay for several days and work with MFA students. The writers attend graduate workshops, give readings, meet with students individually, read student manuscripts and spend informal time with students. Over the course of your MFA program, you will have the opportunity to engage with four of the visitors and have conferences with two of them (in their specific genre). Writers who attend the Writer-in-Residence program at Temple are a distinctive and internationally recognized group. Visiting writers have included Alexander Chee, Alice Notley, Anita Desai, Anne Waldman, Bhanu Kapil, Brian Evenson, Carole Maso, C. D. Wright, C.S. Giscombe, Jaimy Gordon, Jonathan Lethem, Robert Creeley, Robert Coover, Mat Johnson, Peter Carey and many others.
 
 ## Admission Requirements
 Although not required, we prefer applicants to the MFA Program in Creative Writing hold a bachelor’s degree in English or Creative Writing, or have taken a significant number of workshops or literature classes as an undergraduate. However, in the past, students without this background have performed well in the program. Therefore, we consider the entire application package in our admission decisions.
