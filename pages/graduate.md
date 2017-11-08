@@ -101,6 +101,8 @@ Temple University is relatively affordable in comparison to other programs (see 
 - [Graduate School Policies](http://www.temple.edu/grad/policies/index.htm)
 - [Applying to Graduate School](http://www.temple.edu/grad/admissions/howtoapply.htm)
 
+___
+
 <div class="row">
   <div class="col s6 m15 18"></div>
         <div class="col s8 m4">
