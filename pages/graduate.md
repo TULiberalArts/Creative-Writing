@@ -39,18 +39,6 @@ Our students move successfully from the MFA into the highly competitive world of
 
 ## Writer-in-Residence Program
 The Creative Writing program invites a distinguished novelist (in the fall) and poet (in the spring) to stay for several days and work with MFA students. The writers attend graduate workshops, give readings, meet with students individually, read student manuscripts and spend informal time with students. Over the course of your MFA program, you will have the opportunity to engage with four of the visitors and have conferences with two of them (in their specific genre). Writers who attend the Writer-in-Residence program at Temple are a distinctive and internationally recognized group. Visiting writers have included Alexander Chee, Alice Notley, Anita Desai, Anne Waldman, Bhanu Kapil, Brian Evenson, Carole Maso, C. D. Wright, C.S. Giscombe, Jaimy Gordon, Jonathan Lethem, Robert Creeley, Robert Coover, Mat Johnson, Peter Carey and many others.
-
-<div class="row">
-  <div class="col s6 m15 18"></div>
-        <div class="col s8 m4">
-            <div class="card">
-              <div class="card-image">
-              <img src="http://www.cla.temple.edu/english/files/2015/07/IMG_3824-1.jpg">
-              <span class="card-title"></span>
-            </div>
-            <div class="card-action">
-              <a href="#">A Letter to Poets</a>
-          </div>
              
 ## Admission Requirements
 Although not required, we prefer applicants to the MFA Program in Creative Writing hold a bachelor’s degree in English or Creative Writing, or have taken a significant number of workshops or literature classes as an undergraduate. However, in the past, students without this background have performed well in the program. Therefore, we consider the entire application package in our admission decisions.
@@ -112,3 +100,15 @@ Temple University is relatively affordable in comparison to other programs (see 
 - [Graduate School Funding](http://www.temple.edu/grad/finances/index.htm)
 - [Graduate School Policies](http://www.temple.edu/grad/policies/index.htm)
 - [Applying to Graduate School](http://www.temple.edu/grad/admissions/howtoapply.htm)
+
+<div class="row">
+  <div class="col s6 m15 18"></div>
+        <div class="col s8 m4">
+            <div class="card">
+              <div class="card-image">
+              <img src="http://www.cla.temple.edu/english/files/2015/07/IMG_3824-1.jpg">
+              <span class="card-title"></span>
+            </div>
+            <div class="card-action">
+              <a href="#">A Letter to Poets</a>
+          </div>
