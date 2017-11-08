@@ -39,7 +39,6 @@ Our students move successfully from the MFA into the highly competitive world of
 
 ## Writer-in-Residence Program
 The Creative Writing program invites a distinguished novelist (in the fall) and poet (in the spring) to stay for several days and work with MFA students. The writers attend graduate workshops, give readings, meet with students individually, read student manuscripts and spend informal time with students. Over the course of your MFA program, you will have the opportunity to engage with four of the visitors and have conferences with two of them (in their specific genre). Writers who attend the Writer-in-Residence program at Temple are a distinctive and internationally recognized group. Visiting writers have included Alexander Chee, Alice Notley, Anita Desai, Anne Waldman, Bhanu Kapil, Brian Evenson, Carole Maso, C. D. Wright, C.S. Giscombe, Jaimy Gordon, Jonathan Lethem, Robert Creeley, Robert Coover, Mat Johnson, Peter Carey and many others.
----
 
 <div class="row">
   <div class="col s6 m15 18"></div>
