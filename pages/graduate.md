@@ -50,7 +50,7 @@ The Creative Writing program invites a distinguished novelist (in the fall) and 
             </div>
             <div class="card-action">
               <a href="#">A Letter to Poets</a>
-            </div>
+          </div>
              
 ## Admission Requirements
 Although not required, we prefer applicants to the MFA Program in Creative Writing hold a bachelor’s degree in English or Creative Writing, or have taken a significant number of workshops or literature classes as an undergraduate. However, in the past, students without this background have performed well in the program. Therefore, we consider the entire application package in our admission decisions.
