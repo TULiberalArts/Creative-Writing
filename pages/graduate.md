@@ -30,7 +30,9 @@ sidebar-content: |
    Sharon Logan      
    [(215) 204-1796](tel:2152041796)   
    [logansd@temple.edu](mailto:logansd@temple.edu)     
-   ___
+---
+
+___
 
 <div class="row">
   <div class="col s1 m8 l8"></div>
