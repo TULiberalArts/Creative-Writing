@@ -29,7 +29,7 @@ sidebar-content: |
    **Coordinator:**  
    Sharon Logan      
    [(215) 204-1796](tel:2152041796)   
-   [logansd@temple.edu](mailto:logansd@temple.edu)     
+   [logansd@temple.edu](mailto:logansd@temple.edu)
 ---
 ## Earn Your MFA in Creative Writing
 ![Creative Writing MFA Poets at Temple University]({{site.baseurl}}/media/temple-mfa-poets.jpg){:.img-right}
