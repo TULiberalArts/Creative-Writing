@@ -50,9 +50,7 @@ The minimum admission standard for all graduate students is an undergraduate gra
 
 At the discretion of the vice dean and the MFA director, up to 6 graduate credits may be transferred if they were taken at a competitive university within the last five years with a grade of B+ or higher.
 
-## MFA Application Deadline
-**Feb. 15** for Fall Semester
-
+## How to Apply
 Submit the following application materials for admission consideration. For a complete list of instructions [download this this pdf](/creative-writing/media/how-to-apply-MFA.pdf).
 
 1. [Graduate School Application](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon)
@@ -74,6 +72,9 @@ After the February 15 deadline, applications may still be considered on a rollin
 Applications are accepted only for Fall admission.
 
 _*By “postmarked,” we mean that materials should be sent before or on December 15 or February 15. They do not need to be delivered on those dates. Regular USPS mail service, e.g., First Class or Priority Mail, is fine. You need not spend extra money on overnight services._
+
+## MFA Application Deadline
+**Feb. 15** for Fall Semester
 
 ## Temple Graduate School Funding
 Temple has several financial aid packages available to eligible candidates, including University Fellowships that provide full tuition and a stipend, as well as teaching assistantships, which also cover full tuition, health benefits and a stipend. On average, the MFA Program in Creative Writing is able to fund 40% of its students with Teaching Assistantships, University Fellowships, or Future Faculty Fellowships. These funding packages are awarded on a competitive basis. If you are admitted to the Creative Writing Program, you will automatically be considered for a Teaching Assistantship or Fellowship.
