@@ -1,7 +1,7 @@
 ---
 title: Home
 permalink: /
-layout: home
+layout: home3
 description: >-
   Study Creative Writing at Temple University in Philadelphia - a world-class
   city for the arts. 
