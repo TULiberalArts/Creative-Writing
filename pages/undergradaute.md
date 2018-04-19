@@ -60,9 +60,6 @@ At Temple, we believe that students from all walks of life should have access to
 ## Undergraduate Admissions
 Ready to apply? [Submit your application online](http://admissions.temple.edu/apply).
 
-## Academic Offerings
-[BA in English with a Concentration in Creative Writing](http://bulletin.temple.edu/undergraduate/liberal-arts/english/ba-english-creative-writing/#text)
-
 ### Temple Admissions Deadlines
 - **Feb. 1**: Freshman Application Deadline for Fall Semester
 - **March 1**: FAFSA Financial Aid Application Deadline
