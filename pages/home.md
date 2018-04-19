@@ -19,6 +19,13 @@ published: true
 ## Immerse Yourself in the Art of Writing
 Temple University offers both undergraduate and graduate programs in Creative Writing. Our classes teach students to think and write with clarity and imagination under the guidance of award-winning faculty. You will collaborate with your peers in inspiring and supportive workships, take literature courses and gain experience in the genre of your choice. Professors and students work in a close-knit community as they write their own essays, novels, plays and poems within the living tradition of literature. 
 
+## Academic Offerings
+**Undergradudate**
+- [BA in English with a Concentration in Creative Writing](http://bulletin.temple.edu/undergraduate/liberal-arts/english/ba-english-creative-writing/#text)
+
+**Graduate**
+- [MFA in Creative Writing](http://bulletin.temple.edu/graduate/scd/cla/creative-writing-mfa/#programrequirementstext)
+
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
     title="Poets & Writers "
