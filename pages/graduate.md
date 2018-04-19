@@ -35,9 +35,9 @@ sidebar-content: |
 ![Creative Writing MFA Poets at Temple University]({{site.baseurl}}/media/temple-mfa-poets.jpg){:.img-right}
 Temple offers a two-year MFA in Creative Writing, with a focus in either fiction or poetry. Develop your craft in the poetically lively city of Philadelphia. Our program combines creative and critical practices: students take a mix of writing workshops and literature seminars augmented by one-on-one mentoring and thesis advising in the second year. Students also have the opportunity to work on our online literary journal, [TINGE Magazine](http://www.tingemagazine.org/), which is graduate student–edited. Our rich and challenging curriculum is supplemented by individual consultations with visiting Writers-in-Residence and a series of readings by [prominent writers](/creative-writing/poets-and-writers). Temple has an excellent [faculty of writers in both poetry and fiction](/creative-writing/faculty), representing a wide range of aesthetics. They include Alan Singer, Brian Teare, Don Lee, Jena Osman, Joan Mellen and Samuel R. Delany. 
 
-Please visit the [Creative Writing Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/creative-writing) to learn more about graduate program requirements and instructions on how to apply.
-
 Our students move successfully from the MFA into the highly competitive world of submissions to journals and book publishers. Some graduates continue on to PhD programs in English and Creative Writing and eventually work as professors. Others become librarians or work in arts administration, grant writing, journalism, publishing, primary and secondary school education, web writing and more. Books written by our graduates have been published by trade and small presses and cover all genres. These works have won grants, prizes and residencies. Temple University Creative Writing alumni continue to make important contributions to the contemporary literary scene. Please go to the [Temple University Creative Writing MFA Facebook](https://www.facebook.com/templecreativewriting/) page for current updates.
+
+Learn More about the[MFA in Creative Writing](http://bulletin.temple.edu/graduate/scd/cla/creative-writing-mfa/#programrequirementstext)
 
 - [A Letter to Poets](https://liberalarts.temple.edu/sites/liberalarts/files/A%20Letter%20to%20Poets.pdf)<br/>
 - [A Letter to Fiction Writers](https://liberalarts.temple.edu/sites/liberalarts/files/A%20Letter%20to%20Fiction%20Writers.pdf)<br/>
@@ -55,9 +55,6 @@ Please visit the [Creative Writing Graduate Admissions page](https://liberalarts
 
 ## Tuition and Fees
 Temple University is relatively affordable in comparison to other programs (see tuition information below). We have had students in the past choose Temple with no funding as opposed to other programs that offered some funding because ultimately it was a better deal for them. Also note that Pennsylvania residents receive reduced tuition at Temple (see the registrar’s [residency](http://www.temple.edu/registrar/students/registration/residency/) page for eligibility). The MFA program requires 33 total credits. Check the [Bursar’s Office](http://www.temple.edu/bursar/about/tuitionrates.htm) for current tuition rates and fees. For 2017–18, annual tuition for full-time graduate students from Pennsylvania is $15,354 (18 total credits); for full-time, out-of-state graduate students, it is $21,042. (Note that in the second year of the program, only 15 credits are required.) For part-time in-state graduate students, it is $10,236 (12 total credits); for part-time out-of-state graduate students, it is $14,028.
-
-## Curriculum and Academic Requirements
-[MFA in Creative Writing](http://bulletin.temple.edu/graduate/scd/cla/creative-writing-mfa/#programrequirementstext)
 
 ## Graduate Resources
 - [Graduate Handbook](http://www.temple.edu/grad/policies/gradpolicies.htm)
