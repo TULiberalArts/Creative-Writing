@@ -56,9 +56,9 @@ Please visit the [Creative Writing Graduate Admissions page](https://liberalarts
 ## Tuition and Fees
 Temple University is relatively affordable in comparison to other programs (see tuition information below). We have had students in the past choose Temple with no funding as opposed to other programs that offered some funding because ultimately it was a better deal for them. Also note that Pennsylvania residents receive reduced tuition at Temple (see the registrar’s [residency](http://www.temple.edu/registrar/students/registration/residency/) page for eligibility). The MFA program requires 33 total credits. Check the [Bursar’s Office](http://www.temple.edu/bursar/about/tuitionrates.htm) for current tuition rates and fees. For 2017–18, annual tuition for full-time graduate students from Pennsylvania is $15,354 (18 total credits); for full-time, out-of-state graduate students, it is $21,042. (Note that in the second year of the program, only 15 credits are required.) For part-time in-state graduate students, it is $10,236 (12 total credits); for part-time out-of-state graduate students, it is $14,028.
 
+- Learn More about [Graduate School Funding](http://www.temple.edu/grad/finances/index.htm)
+
 ## Graduate Resources
 - [Graduate Handbook](http://www.temple.edu/grad/policies/gradpolicies.htm)
 - [Graduate School Forms](http://www.temple.edu/grad/forms/index.htm)
-- [Graduate School Funding](http://www.temple.edu/grad/finances/index.htm)
 - [Graduate School Policies](http://www.temple.edu/grad/policies/index.htm)
-- [Applying to Graduate School](http://www.temple.edu/grad/admissions/howtoapply.htm)
