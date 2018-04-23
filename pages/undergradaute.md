@@ -65,3 +65,8 @@ Ready to apply? [Submit your application online](http://admissions.temple.edu/ap
 - **March 1**: FAFSA Financial Aid Application Deadline
 - **Nov. 1**: Transfer Deadline for Spring Semester
 - **June 1**: Transfer Deadline for Fall Semester
+
+## Undergraduate Resources
+- [Changing your major](http://www.temple.edu/studentaffairs/orientation/freshman-orientation/changing-your-major.asp)
+- [Graduation Application process](http://www.temple.edu/registrar/students/graduation)
+- [Undergraduate Policies and Procedures](http://bulletin.temple.edu/undergraduate/academic-policies/)
