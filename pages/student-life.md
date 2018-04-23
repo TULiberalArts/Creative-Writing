@@ -1,6 +1,6 @@
 ---
-title: Resources
-permalink: /resources/
+title: Student Life
+permalink: /student-life/
 description: >-
   Learn about the Writer-in-Residence program, local reading series and Creative
   Writing scholarships at Temple's Department of English.
@@ -38,17 +38,3 @@ The Central Branch of the Philadelphia Free Library (at 1901 Vine St.) bring som
 Bryn Mawr can be easily reached via public transportation by taking the Paoli/Thorndale line to the Bryn Mawr station.
 
 - [Villanova Literary Festival](https://www1.villanova.edu/villanova/artsci/english/newsandevents/literaryfestival.html) This festival happens every Spring semester. Villanova can be easily reached via public transportation by taking the Paoli/Thorndale line to the Villanova station.
-
-## Undergraduate Resources
-- [The Center for Academic Advising and Professional Development](https://liberalarts.temple.edu/advising)
-- [Changing your major](http://www.temple.edu/studentaffairs/orientation/freshman-orientation/changing-your-major.asp)
-- [Graduation Application process](http://www.temple.edu/registrar/students/graduation)
-- [Undergraduate Funding](http://sfs.temple.edu/)
-- [Undergraduate Policies and Procedures](http://bulletin.temple.edu/undergraduate/academic-policies/)
-
-## Graduate Resources
-- [Graduate Handbook](http://www.temple.edu/grad/policies/gradpolicies.htm)
-- [Graduate School Forms](http://www.temple.edu/grad/forms/index.htm)
-- [Graduate School Funding](http://www.temple.edu/grad/finances/index.htm)
-- [Graduate School Policies](http://www.temple.edu/grad/policies/index.htm)
-- [Applying to Graduate School](http://www.temple.edu/grad/admissions/howtoapply.htm)
