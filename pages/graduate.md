@@ -4,9 +4,7 @@ permalink: /graduate/
 description: >-
   Earn an MFA in Creative Writing at Temple University. Focus on either fiction
   or poetry.
-keywords: >-
-  MFA in Fiction, MFA in Poetry, Creative Writing MFA, Graduate Program in
-  Creative Writing
+keywords: 'MFA in Fiction, MFA in Poetry, Creative Writing MFA, Graduate Program, tuition, admission, resources'
 layout: page
 published: true
 sidebar: true
