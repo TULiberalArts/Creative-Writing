@@ -4,9 +4,7 @@ permalink: /student-life/
 description: >-
   Learn about the Writer-in-Residence program, local reading series and Creative
   Writing scholarships at Temple's Department of English.
-keywords: >-
-  Temple Writer-in-Residence, Duplessis Lecture series, Kelly Writers House,
-  Creative Writing Scholarships
+keywords: 'Writer-in-Residence, Duplessis Lecture series, journal of modern literature, scholarships, graduate english association'
 layout: page
 published: true
 ---
