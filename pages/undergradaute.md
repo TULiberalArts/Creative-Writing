@@ -4,7 +4,7 @@ permalink: /undergraduate/
 description: >-
   Major in English with a Concentration in Creative Writing at Temple University
   in Philadelphia.
-keywords: 'BA in English, Undergraduate Creative Writing Program, BA in Creative Writing'
+keywords: 'Hyphen, Undergraduate Creative Writing Program, advising, tuition, financial aid, admissions, resources'
 layout: page
 published: true
 sidebar: true
