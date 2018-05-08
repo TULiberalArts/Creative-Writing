@@ -8,6 +8,8 @@ keywords: 'Careers for English Majors, Careers for English Degrees, BA in Englis
 layout: page
 published: true
 ---
+For graduates of the College of Liberal Arts’ creative writing bachelor of arts or master of fine arts, the possibilities in the literary world are many. Whether through writing, editing or pursuing a more advanced degree, graduates find their place and make the most of their degree. Come [see the campus](#visit-us) today and [apply](#apply) to the creative writing program of your choice to get started.
+
 ## What Can I Do with a Degree in Creative Writing?
 ![Creative Writing MFA Poets at Temple University]({{site.baseurl}}/media/books.jpg){:.img-left}
 Take your pick! Employers look for people who can think both critically and creatively. The BA in English at Temple — with its emphasis on both creative and critical scholarship, and the option of a creative writing concentration — is ideally suited to prepare students to succeed in the corporate and non-profit sectors, in academic professions and in entrepreneurial endeavors. From mayoral campaigns to musicology, recent Temple grads are putting their English degrees to work in a variety of fields and careers. English majors are prepared for careers that involve writing or editing - whether the subject matter is an advertising campaign, an essay, a grant proposal, a legal document or a website. English majors also find non-writing and editing careers in fields that include business, education, government, law, librarianship, marketing and social services.
