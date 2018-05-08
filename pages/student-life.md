@@ -8,6 +8,8 @@ keywords: 'Writer-in-Residence, Duplessis Lecture series, journal of modern lite
 layout: page
 published: true
 ---
+Creative writers see stories everywhere, and Temple University encourages creative writing master’s degree students to get outside the classroom and find their inspiration all around campus. Students can learn from our [writers in residence](#writer-in-residence-program), write for the [Journal of Modern Literature](#journal-of-modern-literature), join the [Graduate English Association](#graduate-english-association), apply for a [creative writing scholarship](#creative-writing-scholarships) or take part in a [Philadelphia reading series](#local-philadelphia-reading-series).
+
 ## Writer-in-Residence Program
 The Creative Writing program invites a distinguished novelist (in the fall) and poet (in the spring) to stay for several days and work with MFA students. The writers read student manuscripts, meet with students individually, give a reading, attend graduate workshops and spend informal time with students. Over the course of their program, MFA students have the opportunity to engage with four of the visitors and have conferences with two of them (in their specific genre). Writers who attend the Writer-in-Residence program at Temple are a distinctive and internationally recognized group. Recently, the writers have included Alexander Chee, Bhanu Kapil, Brian Evenson,  Cole Swenson, Craig Dworkin, C.S. Giscombe, Francisco Goldman, Jaimy Gordon, John Yau, Mat Johnson, Norma Cole, Peter Straub and Tracie Morris.
 
