@@ -30,10 +30,12 @@ sidebar-content: |
   [(215) 204-1796](tel:2152041796)   
   [logansd@temple.edu](mailto:logansd@temple.edu)
 ---
+Love words and want to pursue a creative writing degree? Temple University’s English bachelor’s degree with a [Creative Writing concentration](#study-creative-writing-at-temple) has just what you’re looking for. You’ll learn how to spin yarns, make passionate arguments and form intelligent analyses with the written word. Not sure how to get started? Our [academic advisers and professional development counselors](#academic-advising-and-professional-development) can point you in the right direction for your education and future career. So calculate your [tuition](#tuition-and-fees), discover your [financial aid](#financial-aid-and-scholarships) options and [apply](#undergraduate-admissions) today.
+
 ## Study Creative Writing at Temple
 If writing is your passion, Temple's Department of English offers a BA in English with a Concentration in Creative Writing. Our students are immersed in poetry and fiction and gain experience writing in different genres. [Prominent and award-winning writers](/creative-writing/faculty) lead Temple's undergraduate Creative Writing program - students work closely with faculty to become better writers and readers. We recommend Creative Writing Concentration students focus on either fiction, poetry or screenwriting. This will allow you to focus on one particular genre and prepares you for graduate study in Creative Writing if you choose to pursue it. Like all English majors, Creative Writing students learn creative and flexible thinking, persuasive and powerful writing skills and sharp analytical skills - essential abilities for tomorrow's leaders and professionals.
 
-[Learn More about the BA in English with a Concentration in Creative Writing](http://bulletin.temple.edu/undergraduate/liberal-arts/english/ba-english-creative-writing/#text)
+Learn More about the [BA in English with a Concentration in Creative Writing](http://bulletin.temple.edu/undergraduate/liberal-arts/english/ba-english-creative-writing/#text)
 
 ## Hyphen Interdisciplinary Journal
 ![Creative Writing Undergrads at Temple University]({{site.baseurl}}/media/undergrad-creative-writing.jpg){:.img-right}
