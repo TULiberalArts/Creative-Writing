@@ -1,10 +1,8 @@
 ---
 title: Research
 permalink: /research/
-layout: page
+layout: tla_page
 keywords: ''
 description: >-
 published: false
 ---
-
-

@@ -3,7 +3,7 @@ title: Poets & Writers Series
 permalink: /poets-and-writers/
 description: >-
 keywords: 'poets and writers, DuPlessis Lecture, events'
-layout: page
+layout: tla_page
 published: true
 ---
 ## Public Readings by Recognized and Emerging Authors

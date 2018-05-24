@@ -5,7 +5,7 @@ description: >-
   Careers for English majors include journalism and publishing, advertising and
   marketing, education, law and in social services. Take your pick!
 keywords: 'Careers for English Majors, Careers for English Degrees, BA in English jobs'
-layout: page
+layout: tla_page
 published: true
 ---
 For graduates of the College of Liberal Arts’ creative writing bachelor of arts or master of fine arts, the possibilities in the literary world are many. Whether through writing, editing or pursuing a more advanced degree, graduates find their place and make the most of their degree. Come [see the campus](#visit-us) today and [apply](#apply) to the creative writing program of your choice to get started.
