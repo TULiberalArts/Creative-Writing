@@ -1,12 +1,16 @@
 ---
-title: Student Life
+# global predefined variables
+layout: tla_page
 permalink: /student-life/
+published: true
+# meta-data variables
+title: Student Life
 description: >-
   Learn about the Writer-in-Residence program, local reading series and Creative
   Writing scholarships at Temple's Department of English.
 keywords: 'Writer-in-Residence, Duplessis Lecture series, journal of modern literature, scholarships, graduate english association'
-layout: tla_page
-published: true
+# custom variables
+sidebar: false
 ---
 Creative writers see stories everywhere, and Temple University encourages creative writing master’s degree students to get outside the classroom and find their inspiration all around campus. Students can learn from our [writers in residence](#writer-in-residence-program), write for the [Journal of Modern Literature](#journal-of-modern-literature), join the [Graduate English Association](#graduate-english-association), apply for a [creative writing scholarship](#creative-writing-scholarships) or take part in a [Philadelphia reading series](#local-philadelphia-reading-series).
 
