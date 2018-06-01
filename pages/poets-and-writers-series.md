@@ -1,10 +1,14 @@
 ---
-title: Poets & Writers Series
+# global predefined variables
+layout: tla_page
 permalink: /poets-and-writers/
+published: true
+# meta-data variables
+title: Poets & Writers Series
 description: >-
 keywords: 'poets and writers, DuPlessis Lecture, events'
-layout: tla_page
-published: true
+# custom variables
+sidebar: false
 ---
 ## Public Readings by Recognized and Emerging Authors
 The Poets & Writers Series is sponsored by the Temple University MFA Creative Writing Program, with the assistance of the Richard Moyer Fund. Each year a number of poets and fiction writers are invited to read from their work (usually on Thursdays) to members of both the Temple community and the local Philadelphia arts scene. Joining each invited writer is a writer from Temple’s graduate program in Creative Writing.
