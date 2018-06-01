@@ -1,34 +1,17 @@
 ---
-title: Undergraduate
+# global predefined variables
+layout: page
 permalink: /undergraduate/
+published: true
+# meta-data variables
+title: Undergraduate
 description: >-
   Major in English with a Concentration in Creative Writing at Temple University
   in Philadelphia.
 keywords: 'Hyphen, Undergraduate Creative Writing Program, advising, tuition, financial aid, admissions, resources'
-layout: page
-published: true
+# custom variables
 sidebar: true
-sidebar-content: |
-  **Undergraduate Chair:**  
-  Gabriel Wettach  
-  1030 Anderson Hall  
-  [(215) 204-8510](tel:2152048510)  
-  [gabe@temple.edu](mailto:gabe@temple.edu)  
-
-  ___
-
-  **Administrator:**  
-  Stephanie Morawski  
-  1041 Anderson Hall   
-  [(215) 204-8516](tel:2152048516)  
-  [morawski@temple.edu](mailto:morawski@temple.edu)  
-
-  ___
-
-  **Coordinator:**  
-  Sharon Logan      
-  [(215) 204-1796](tel:2152041796)   
-  [logansd@temple.edu](mailto:logansd@temple.edu)
+sidebar_content: sidebars/undergraduate.html
 ---
 Love words and want to pursue a creative writing degree? Temple University’s English bachelor’s degree with a [Creative Writing concentration](#study-creative-writing-at-temple) has just what you’re looking for. You’ll learn how to spin yarns, make passionate arguments and form intelligent analyses with the written word. Not sure how to get started? Our [academic advisers and professional development counselors](#academic-advising-and-professional-development) can point you in the right direction for your education and future career. So calculate your [tuition](#tuition-and-fees), discover your [financial aid](#financial-aid-and-scholarships) options and [apply](#undergraduate-admissions) today.
 
