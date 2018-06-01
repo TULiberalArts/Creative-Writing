@@ -1,33 +1,17 @@
 ---
-title: Graduate
+# global predefined variables
+layout: tla_page
 permalink: /graduate/
+published: true
+# meta-data variables
+title: Graduate
 description: >-
   Earn an MFA in Creative Writing at Temple University. Focus on either fiction
   or poetry.
 keywords: 'MFA in Fiction, MFA in Poetry, Creative Writing MFA, Graduate Program, tuition, admission, resources'
-layout: page
-published: true
+# custom variables
 sidebar: true
-sidebar-content: |
-  **Director:**  
-   Don Lee  
-   1013 Anderson Hall    
-   [donlee@temple.edu](mailto:donlee@temple.edu)  
-
-   ___
-
-   **Administrator:**  
-   Stephanie Morawski  
-   1041 Anderson Hall   
-   [(215) 204-8516](tel:2152048516)  
-   [morawski@temple.edu](mailto:morawski@temple.edu)  
-
-   ___
-
-   **Coordinator:**  
-   Sharon Logan      
-   [(215) 204-1796](tel:2152041796)   
-   [logansd@temple.edu](mailto:logansd@temple.edu)
+sidebar_content: sidebars/graduate.html
 ---
 You know the basics of writing creatively, but is it time to advance your artistic ability through a creative writing master’s degree? At Temple University, you can earn a [creative writing master of fine arts (MFA)](#earn-your-mfa-in-creative-writing) as a full-time or [part-time](#part-time-mfa-program) student. Either way, the advanced lessons you learn will show you how to make your creativity shine on the page as you prepare to [submit journals or manuscripts](#writer-in-residence-program) to publishers or to continue on to a doctoral program. Familiarize yourself with our tuition requirements and [tuition and fees](#tuition-and-fees) so you can [apply](#admission-requirements) today and begin learning under celebrated authors.
 
