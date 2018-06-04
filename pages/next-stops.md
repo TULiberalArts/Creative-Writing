@@ -6,8 +6,8 @@ published: true
 # meta-data variables
 title: Next Stops
 description: >-
-  Careers for English majors include journalism and publishing, advertising and
-  marketing, education, law and in social services. Take your pick!
+  Discover your career in the literary world with a degree in Creative Writing from Temple University’s 
+  College of Liberal Arts. Explore careers for English majors and degrees, visit us, and apply!
 keywords: 'Careers for English Majors, Careers for English Degrees, BA in English jobs'
  # custom variables
 sidebar: false
