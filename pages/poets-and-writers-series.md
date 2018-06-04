@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Poets & Writers Series
 description: >-
+  Sponsored by the Temple University MFA Creative Writing Program, the Poets and Writers Series invites
+  poets and fiction writers to read from their work to members of Temple community and Philadelphia arts scene.
 keywords: 'poets and writers, DuPlessis Lecture, events'
 # custom variables
 sidebar: false
