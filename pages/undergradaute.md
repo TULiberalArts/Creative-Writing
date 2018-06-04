@@ -6,8 +6,8 @@ published: true
 # meta-data variables
 title: Undergraduate
 description: >-
-  Major in English with a Concentration in Creative Writing at Temple University
-  in Philadelphia.
+  Earn an English bachelor’s degree with a Creative Writing concentration at Temple University. Talk with our academic advisers and
+  professional development counselors, calculate tuition, discover financial aid options, and apply to the College of Liberal Arts!
 keywords: 'Hyphen, Undergraduate Creative Writing Program, advising, tuition, financial aid, admissions, resources'
 # custom variables
 sidebar: true
