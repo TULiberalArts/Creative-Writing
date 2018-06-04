@@ -6,8 +6,9 @@ published: true
 # meta-data variables
 title: Student Life
 description: >-
-  Learn about the Writer-in-Residence program, local reading series and Creative
-  Writing scholarships at Temple's Department of English.
+  Learn from our writers-in-residence, write for the Journal of Modern Literature, listen in on the Duplessis 
+  Lecture series, join the Graduate English Association, apply for creative writing scholarships, or take part
+  in a Philadelphia reading series as a Creative Writing student in the College of Liberal Arts at Temple University.
 keywords: 'Writer-in-Residence, Duplessis Lecture series, journal of modern literature, scholarships, graduate english association'
 # custom variables
 sidebar: false
