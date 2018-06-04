@@ -6,8 +6,9 @@ published: true
 # meta-data variables
 title: Graduate
 description: >-
-  Earn an MFA in Creative Writing at Temple University. Focus on either fiction
-  or poetry.
+  Earn an MFA in Fiction, Poetry, or Creative Writing as a full-time or part-time student in our graduate program.
+  Learn advanced lessons as you prepare to submit journals or manuscripts. Learn more about tuition and fees,
+  resources, admission, and how to apply to the College of Liberal Arts at Temple University!
 keywords: 'MFA in Fiction, MFA in Poetry, Creative Writing MFA, Graduate Program, tuition, admission, resources'
 # custom variables
 sidebar: true
