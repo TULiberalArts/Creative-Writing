@@ -6,8 +6,8 @@ published: true
 # meta-data variables
 title: Faculty
 description: >-
-  Temple's Creative Writing Faculty are award-winning poets and novelists. 
-  They are supplemented by acclaimed Writers-in-Residence.
+   Meet Temple University’s Creative Writing department faculty from the College of Liberal Arts!
+   Our faculty is supplemented by the distinguished novelists and poets from our Writer-in-Residence program.
 keywords: 'Temple Creative Writing, Creative Writing Faculty, Temple Department of English'
 # custom variables
 sidebar: false
