@@ -5,6 +5,8 @@ title: Creative Writing
 baseurl: /creative-writing
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
+# url spits sitemap
+url: https://www.cla.temple.edu/creative-writing
 
 
 # Program Information
