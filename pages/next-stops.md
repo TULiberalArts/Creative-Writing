@@ -30,7 +30,8 @@ The Department of English has a well-established internship program and offers s
 - American Cancer Society
 
 ## Notable Alumni
-So many of our distinguished alumni have gone on to great accomplishments. The stories below feature some of our outstanding alumni who have risen to levels of professional acclaim and successes!
+So many of our distinguished alumni have gone on to great accomplishments. The stories below feature some of our outstanding alumni who have risen to levels of professional acclaim and successes! If you are a Creative Writing M.F.A. alumnus, feel free to announce news, publications and events on our [Facebook page](http://www.facebook.com/templecreativewriting).
+- [Alumni Bio Update Instructions](https://liberalarts.temple.edu/sites/liberalarts/files/Alumni%20Bio%20Update%20Instructions.pdf) (pdf)
 
 _**Alumni Spotlight_**
 
