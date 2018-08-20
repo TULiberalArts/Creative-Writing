@@ -18,6 +18,8 @@ For graduates of the College of Liberal Arts’ creative writing bachelor of art
 ![Creative Writing MFA Poets at Temple University]({{site.baseurl}}/media/books.jpg){:.img-left}
 Take your pick! Employers look for people who can think both critically and creatively. The BA in English at Temple — with its emphasis on both creative and critical scholarship, and the option of a creative writing concentration — is ideally suited to prepare students to succeed in the corporate and non-profit sectors, in academic professions and in entrepreneurial endeavors. From mayoral campaigns to musicology, recent Temple grads are putting their English degrees to work in a variety of fields and careers. English majors are prepared for careers that involve writing or editing - whether the subject matter is an advertising campaign, an essay, a grant proposal, a legal document or a website. English majors also find non-writing and editing careers in fields that include business, education, government, law, librarianship, marketing and social services.
 
+M.F.A. in Creative Writing graduates’ books have been published by trade and small presses and cover all genres; their works have won grants, prizes, and residencies. Many have earned Ph.D.’s in English and Creative Writing and are now professors. Our graduates have gone on to become librarians, editors, arts administrators, journalists, and more. Temple University Creative Writing alumni continue to make important contributions to the contemporary literary scene.This list covers some of the achievements of students who have graduated from Temple’s graduate program in Creative Writing.
+
 The Department of English has a well-established internship program and offers students a wealth of opportunities to work in the real world even before graduation, and a popular career seminar keeps them up-to-date on the exciting possibilities available after graduation. Recently, English majors have secured internships in organizations across several industries, including
 
 - Philadelphia Museum of Art
@@ -26,6 +28,18 @@ The Department of English has a well-established internship program and offers s
 – US Department of Labor
 - Comcast SportsNet Philadelphia
 - American Cancer Society
+
+## Notable Alumni
+So many of our distinguished alumni have gone on to great accomplishments. The stories below feature some of our outstanding alumni who have risen to levels of professional acclaim and successes!
+
+_**Alumni Spotlight_**
+
+- [Beth Garrison](https://liberalarts.temple.edu/news/alumni-spotlight-beth-garrison)<br/>
+  Beth Garrison is a Board Certified Behavior Analyst, Licensed Behavior Specialist<br/>
+  B.A. in Psychology from Temple in 2007<br/>
+
+
+___
 
 ## Make Your Declaration
 The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests, from the humanities and social sciences to business and the media arts. The College of Liberal Arts prepares students to become innovators in all fields, across all industries. We are creative thinkers, doers and risk-takers. Home to 28 departments and programs, we offer a solid liberal arts education at a premier urban, research university.
