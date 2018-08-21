@@ -12,4 +12,4 @@ keywords: 'Temple Creative Writing, Creative Writing Faculty, Temple Department 
 # custom variables
 sidebar: false
 ---
-Temple has an excellent faculty of award-winning writers who represent a wide range of aesthetics. Our faculty is supplemented by the distinguished novelists and poets from our Writer-in-Residence program.
+Temple has an excellent faculty of award-winning writers who represent a wide range of aesthetics. Our faculty is supplemented by the distinguished novelists and poets from our Writer-in-Residence program. 
