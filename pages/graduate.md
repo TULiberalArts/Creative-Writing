@@ -38,7 +38,9 @@ You have the option of going part-time over three years (6 credits, or 2 classes
 The [Graduate English Association](https://sites.temple.edu/gradenglish/) (GEA) is an organization for all graduate students in the English department, regardless of program (Literature or Creative Writing) or funding status (fellowship, GA, TA, or otherwise). The organization conducts regular monthly meetings, and its purpose is to make recommendations to the faculty on departmental issues (instructor training, program changes, etc.) and to enrich the graduate experience with developmental workshops and social events.
 
 ## Admission Requirements
-Although not required, we prefer applicants to the MFA Program in Creative Writing hold a bachelor’s degree in English or Creative Writing, or have taken a significant number of workshops or literature classes as an undergraduate. However, in the past, students without this background have performed well in the program. Therefore, we consider the entire application package in our admission decisions. The minimum admission standard for all graduate students is an undergraduate grade point average of B, or 3.0 (see our complete list of application instructions for exceptions), or the functional equivalent for students who have attended universities outside of the United States. If you have questions or need further assistance, please contact Sharon Logan, the Program Coordinator, at [logansd@temple.edu](mailto:logansd@temple.edu) or [215.204.1796](tel:2152041796).
+Although not required, we prefer applicants to the MFA Program in Creative Writing to hold a bachelor’s degree in English or creative writing, or to have taken a significant number of workshops or literature classes as an undergraduate. However, in the past, students without this background have performed well in the program. Therefore, we consider the entire application package in our admission decisions.
+
+The minimum admission standard for all graduate students is an undergraduate grade point average of B, or 3.0 (see bottom of this page for exceptions), or the functional equivalent for students who have attended universities outside of the United States.If you have questions or need further assistance, please contact Sharon Logan, the Program Coordinator, at [logansd@temple.edu](mailto:logansd@temple.edu) or [215.204.1796](tel:2152041796).
 
 Please visit the [Creative Writing Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/creative-writing-mfa/#admissiontext) to learn more about graduate program requirements and instructions on how to apply.
 
@@ -48,6 +50,7 @@ Temple University is relatively affordable in comparison to other programs (see 
 - Learn More about [Graduate School Funding](http://www.temple.edu/grad/finances/index.htm)
 
 ## Graduate Resources
+- [Financial Aid Information](https://liberalarts.temple.edu/sites/liberalarts/files/Financial%20Aid%20Information.pdf)
 - [Graduate Handbook](http://www.temple.edu/grad/policies/gradpolicies.htm)
 - [Graduate School Forms](http://www.temple.edu/grad/forms/index.htm)
 - [Graduate School Policies](http://www.temple.edu/grad/policies/index.htm)
