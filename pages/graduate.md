@@ -22,6 +22,8 @@ The Temple MFA Program in Creative Writing awards a two-year Master’s of Fine 
 
 Workshops are supplemented by individual consultations with visiting writers-in-residence and a series of readings by prominent writers. For more information, please look at our [Poets & Writers events page](https://develop.cla.temple.edu/creative-writing/poets-and-writers/). Students also have the opportunity to work on our online literary journal, _TINGE Magazine_(http://www.tingemagazine.org/), which is graduate student–edited.
 
+Faculty who have taught in the program in the past include such noted writers and scholars as David Bradley, Samuel R. Delany, Rachel Blau DuPlessis, Pattie McCarthy, Toby Olson, Sonia Sanchez, and Susan Stewart. Visiting writers have included Peter Carey, Alexander Chee, Robert Creeley, Robert Coover, Anita Desai, Brian Evenson, C. S. Giscombe, Jaimy Gordon, Mat Johnson, Bhanu Kapil, Jonathan Lethem, Carole Maso, Alice Notley, Anne Waldman, C. D. Wright, and many others.
+
 Please go to the [Temple University Creative Writing MFA Facebook](https://www.facebook.com/templecreativewriting/) page for current updates.
 
 Learn More about the [MFA in Creative Writing](http://bulletin.temple.edu/graduate/scd/cla/creative-writing-mfa/#programrequirementstext)
