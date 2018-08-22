@@ -13,10 +13,53 @@ keywords: 'poets and writers, DuPlessis Lecture, events'
 sidebar: false
 ---
 ## Public Readings by Recognized and Emerging Authors
-The Poets & Writers Series is sponsored by the Temple University MFA Creative Writing Program, with the assistance of the Richard Moyer Fund. Each year a number of poets and fiction writers are invited to read from their work (usually on Thursdays) to members of both the Temple community and the local Philadelphia arts scene. Joining each invited writer is a writer from Temple’s graduate program in Creative Writing.
+_The Poets & Writers Series is sponsored by the Temple University MFA Program in Creative Writing, with the assistance of the Richard Moyer Fund. Each year a number of poets and fiction writers are invited to read from their work to members of both the Temple community and the local Philadelphia arts scene. All events are free and open to the public._
 
-All events are free and open to the public. Readings are held either on the main Temple campus or the Center City Philadelphia Temple campus.
+___
 
+## Fall 2018 Poets & Writers Series
+
+![Ken Kalfus]({{site.baseurl}}/media/resized Kalfus Author photo, Coup.jpg){:.img-right}
+**Ken Kalfus**<br/>
+Fiction Writer<br/>
+
+- Thursday, September 20, 2018, 5 p.m.<br/>
+- Anderson 821 (Gender, Sexuality & Women’s Studies Lounge)<br/>
+
+Ken Kalfus is the author of three novels, Equilateral (2013), _The Commissariat of Enlightenment_ (2003), and _A Disorder Peculiar to the Country_, which was a finalist for the 2006 National Book Award. He has also published three collections of stories, Thirst (1998), Pu-239 and Other Russian Fantasies (1999), a finalist for the PEN/Faulkner Award, and _Coup de Foudre: A Novella and Stories_ (2015). He has received a Pew Fellowships in the Arts award and a fellowship from the John Simon Guggenheim Memorial Foundation. He has written for _Harper's_, _The New York Review of Books_, and _The New York Times_. A film adaptation of his short story "Pu-239" aired on HBO in 2007.
+
+___
+
+![Brian Blanchfield]({{site.baseurl}}/media/resized brianblanchfield.jpg){:.img-right}
+**Brian Blanchfield**<br/>
+Poet and Essayist<br/>
+
+- Tuesday, October 2, 2018, 5 p.m.<br/>
+- Temple Contemporary at Tyler School of Art<br/>
+
+Brian Blanchfield is the author of three books of poetry and prose, most recently _A Several World_, which received the 2014 James Laughlin Award from the Academy of American Poets, and _Proxies_—a collection of essays half cultural close reading and half dicey autobiography—which won a 2016 Whiting Award in Nonfiction. His poetry and nonfiction have appeared in _Harper's_, _BOMB_, _The Oxford American_, _The Paris Review_, _Brick_, _Lana Turner_, _Conjunctions_, and other magazines and anthologies. He teaches creative writing at the University of Idaho and in the Bennington Writing Seminars, and lives in Moscow, Idaho.
+
+___
+
+![Jennifer Haigh]({{site.baseurl}}/media/resized Jenniferhaigh.jpg){:.img-right}
+**Jennifer Haigh**<br/>
+Visiting Fiction Writer<br/>
+
+- Thursday, October 25, 2018, 5 p.m.<br/>
+- Anderson 821 (Gender, Sexuality & Women’s Studies Lounge)<br/>
+
+Jennifer Haigh is a novelist and short story writer. Her sixth book, the novel Heat and Light, won a 2017 Literature Award from the American Academy of Arts and Letters and was named a Best Book of 2016 by _The New York Times_, _The Washington Post_, _The Wall Street Journal_, and NPR. Previous books have won the PEN/Hemingway Award, the Massachusetts Book Award, and the PEN New England Award in fiction, and have been published in eighteen languages. Her stories have appeared in _The Atlantic_, _The Best American Short Stories_, and elsewhere. A graduate of the Iowa Writer’s Workshop, she is a 2018 Guggenheim Fellow.
+
+___
+
+![Aisha Sabatini Sloan]({{site.baseurl}}/media/resized Aisha_AuthorPic 2.jpg){:.img-right}
+**Aisha Sabatini Sloan**<br/>
+  Essayist<br/>
+
+- Thursday, November 1, 2018, 5 p.m.<br/>
+- Anderson 821 (Gender, Sexuality & Women’s Studies Lounge)<br/>
+
+Aisha Sabatini Sloan's first essay collection, _The Fluency of Light: Coming of Age in a Theater of Black and White_, was published by the University of Iowa Press in 2013. Her most recent essay collection, _Dreaming of Ramadi in Detroit_, was chosen by Maggie Nelson as the winner of the 1913 Open Prose Book Contest and was published in 2017. She is a contributing editor for _Guernica_. Her writing can be found in _The Offing_, _Ecotone_, _Ninth Letter_, I_dentity Theory_, _Michigan Quarterly Review_, _Terrain_, _Callaloo_, _The Southern Review_, _Sierra Nevada Review_, _Essay Daily_, _Tarpaulin Sky_, and _Autostraddle_. She is a Visiting Professor of Creative Nonfiction at the University of Michigan. 
 ___
 
 ## Fall 2017 Poets & Writers Series
@@ -33,7 +76,7 @@ Co-sponsored by PHILALALIA, Philadelphia’s annual small press poetry and art f
 ___
 
 ![Allingham Amaranth Borsuk]({{site.baseurl}}/media/Borsuk-Photo.jpg){:.img-right}
-Amaranth Borsuk
+**Amaranth Borsuk**
 
 - Thursday, October 12, 2017, 6 p.m.<br/>
 - Temple Contemporary<br/>
@@ -44,7 +87,7 @@ Allingham Amaranth Borsuk is a poet, scholar, and book artist whose work encompa
 ___
 
 ![Akhil Sharma]({{site.baseurl}}/media/Akhil_Sharma_Winne_3245750b.jpg){:.img-right}
-Akhil Sharma<br/>
+**Akhil Sharma**<br/>
 Visiting Fiction Writer<br/>
 
 - Thursday, October 26, 5 p.m.<br/>
