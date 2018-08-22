@@ -60,6 +60,7 @@ ___
 - Anderson 821 (Gender, Sexuality & Women’s Studies Lounge)<br/>
 
 Aisha Sabatini Sloan's first essay collection, _The Fluency of Light: Coming of Age in a Theater of Black and White_, was published by the University of Iowa Press in 2013. Her most recent essay collection, _Dreaming of Ramadi in Detroit_, was chosen by Maggie Nelson as the winner of the 1913 Open Prose Book Contest and was published in 2017. She is a contributing editor for _Guernica_. Her writing can be found in _The Offing_, _Ecotone_, _Ninth Letter_, I_dentity Theory_, _Michigan Quarterly Review_, _Terrain_, _Callaloo_, _The Southern Review_, _Sierra Nevada Review_, _Essay Daily_, _Tarpaulin Sky_, and _Autostraddle_. She is a Visiting Professor of Creative Nonfiction at the University of Michigan. 
+
 ___
 
 ## Fall 2017 Poets & Writers Series
