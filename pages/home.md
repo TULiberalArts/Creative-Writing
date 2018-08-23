@@ -18,9 +18,6 @@ feature-body: >-
   Hone your craft by studying in Philadelphia, a world-class city for the arts.
   Become a part of a close-knit community within a thriving urban setting.
 ---
-## Flexible Applications, Life-Long Possibilities
-Hone your craft and become a part of a close-knit literary community within a thriving urban setting by studying in Philadelphia, a world-class city for the arts.
-
 ## Immerse Yourself in the Art of Writing
 Temple University’s College of Liberal Arts offers both undergraduate and graduate Creative Writing programs. Our classes teach students to think and write with clarity and imagination under the guidance of award-winning faculty. You’ll collaborate with your peers in inspiring and supportive workshops, take literature, humanities and arts courses and gain experience in the genre of your choice. Professors and students work in a close-knit community as they write their own stories, poems and essays within the living tradition of literature.
 
