@@ -12,28 +12,42 @@ keywords: 'Careers for English Majors, Careers for English Degrees, BA in Englis
  # custom variables
 sidebar: false
 ---
-For graduates of the College of Liberal Arts’ creative writing bachelor of arts or master of fine arts, the possibilities in the literary world are many. Whether through writing, editing or pursuing a more advanced degree, graduates find their place and make the most of their degree. Come [see the campus](#visit-us) today and [apply](#apply) to the creative writing program of your choice to get started.
+For graduates of the College of Liberal Arts’ Creative Writing Bachelor of Arts or Master of Fine Arts, the possibilities in the literary world are many. Whether through writing, editing, teaching or pursuing a more advanced degree, graduates find their place and make the most of their education. Learn what you can do with and [undergraduate](/creative-writing#undergraduate/) or [graduate](/creative-writing#graduate/) degree, [visit the campus](#visit-us) today and [apply](#apply) to the creative writing program of your choice to get started.
 
 ## What Can I Do with a Degree in Creative Writing?
 ![Creative Writing MFA Poets at Temple University]({{site.baseurl}}/media/books.jpg){:.img-left}
-Take your pick! Employers look for people who can think both critically and creatively. The BA in English at Temple — with its emphasis on both creative and critical scholarship, and the option of a creative writing concentration — is ideally suited to prepare students to succeed in the corporate and non-profit sectors, in academic professions and in entrepreneurial endeavors. From mayoral campaigns to musicology, recent Temple grads are putting their English degrees to work in a variety of fields and careers. English majors are prepared for careers that involve writing or editing - whether the subject matter is an advertising campaign, an essay, a grant proposal, a legal document or a website. English majors also find non-writing and editing careers in fields that include business, education, government, law, librarianship, marketing and social services.
+Employers look for people who can think both critically and creatively. The BA in English at Temple—with its emphasis on both creative and critical scholarship and the option of a creative writing concentration—prepares students to succeed in the corporate and nonprofit sectors, in academic professions and in entrepreneurial endeavors. From mayoral campaigns to musicology, recent Temple grads are putting their English degrees to work in a variety of fields and careers, especially those that involve writing or editing—whether the subject matter is an advertising campaign, an essay, a grant proposal, a legal document or a website. English majors also find non-writing and editing careers in fields that include business, education, government, law, librarianship, marketing and social services.
 
-M.F.A. in Creative Writing graduates’ books have been published by trade and small presses and cover all genres; their works have won grants, prizes, and residencies. Many have earned Ph.D.’s in English and Creative Writing and are now professors. Our graduates have gone on to become librarians, editors, arts administrators, journalists, and more. Temple University Creative Writing alumni continue to make important contributions to the contemporary literary scene.This list covers some of the achievements of students who have graduated from Temple’s graduate program in Creative Writing.
-
-The Department of English has a well-established internship program and offers students a wealth of opportunities to work in the real world even before graduation, and a popular career seminar keeps them up-to-date on the exciting possibilities available after graduation. Recently, English majors have secured internships in organizations across several industries, including
-
+### Internships
+The Department of English has a well-established internship program and offers students a wealth of opportunities to work in the real world even before graduation. They’re kept up to date on exciting internship opportunities by a popular career seminar. Recently, English majors have secured internships in organizations across several industries:
 - Philadelphia Museum of Art
 - Wilma Theater
-- Philadelphia Magazine
-– US Department of Labor
+- Philadelphia Magazine 
+- US Department of Labor
 - Comcast SportsNet Philadelphia
 - American Cancer Society
 
-## Notable Alumni
-So many of our distinguished alumni have gone on to great accomplishments. The stories below feature some of our outstanding alumni who have risen to levels of professional acclaim and successes! If you are a Creative Writing M.F.A. alumnus, feel free to announce news, publications and events on our [Facebook page](http://www.facebook.com/templecreativewriting).
-- [Alumni Bio Update Instructions](https://liberalarts.temple.edu/sites/liberalarts/files/Alumni%20Bio%20Update%20Instructions.pdf) (pdf)
+## What Can I Do with a Graduate Degree in Creative Writing?
+MFA in Creative Writing graduates’ books have been published by trade and small presses and cover all genres; their works have won grants, prizes and residencies. Many have earned PhDs in English and Creative Writing and are now professors. Our graduates have gone on to become web content editors, journalists, copywriters, book and magazine editors, arts administrators, librarians, grant writers, primary and secondary school teachers and more, and have obtained jobs in advertising, public relations, and communications. College of Liberal Arts Creative Writing alumni continue to make important contributions to the contemporary literary scene. 
 
-_**Alumni Spotlight_**
+
+## Notable Alumni
+Many of our distinguished alumni have gone on to great accomplishments. Just a few from the MFA program who have published books of fiction and poetry include:
+- Emily Abendroth
+- Sam Allingham
+- Lisa Borders
+- Ryan Eckes
+- Alex Kudera
+- Teresa Leo
+- Pattie McCarthy
+- Meera Nair
+- Debra Leigh Scott
+- Mecca Sullivan
+- Divya Victor
+- Yolanda Wisher
+- Magdalena Zurawski
+
+If you’re a Creative Writing MA or MFA alumnus, please feel free to announce news, publications and events on our [Facebook](http://www.facebook.com/templecreativewriting) page.
 
 ___
 
