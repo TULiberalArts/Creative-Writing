@@ -13,13 +13,25 @@ keywords: 'Writer-in-Residence, Duplessis Lecture series, journal of modern lite
 # custom variables
 sidebar: false
 ---
-Creative writers see stories everywhere, and Temple University encourages creative writing master’s degree students to get outside the classroom and find their inspiration all around campus. Students can learn from our [writers in residence](#writer-in-residence-program), write for the [Journal of Modern Literature](#journal-of-modern-literature), join the [Graduate English Association](#graduate-english-association), apply for a [creative writing scholarship](#creative-writing-scholarships) or take part in a [Philadelphia reading series](#local-philadelphia-reading-series).
+The Creative Writing MFA program encourages its students to get outside the classroom and find their inspiration everywhere they can. Students can confer with our [visiting writers]((#visiting-writers-program), work as editors and manuscript readers for our online literary journal, [_TINGE Magazine_](#tinge Magazine), join the Graduate English Association, become a recipient of a [creative writing scholarship](#creative-writing-scholarships) or attend a number of [Philadelphia reading series](#local-philadelphia-reading-series).
 
-## Writer-in-Residence Program
-The Creative Writing Program invites a distinguished novelist (in the fall) and poet (in the spring) to be in residence for several days in order to work with MFA students. These guests read student manuscripts in their genre, meet with students individually in conference, give a reading, attend graduate workshops, and spend informal time with the students over the course of their visit. During the two years of the Master’s program, students will have the opportunity to engage with four of these visitors and have conferences on their work with two of them (in their specific genre). The writers brought to Temple under this program are a distinctive and internationally recognized group. Recent Writers-in-Residence have included Alexander Chee, Norma Cole, Craig Dworkin, Brian Evenson, C.S. Giscombe, Francisco Goldman, Jaimy Gordon, Mat Johnson, Bhanu Kapil, Tracie Morris, Peter Straub, Cole Swenson, and John Yau.
+## Visiting Writer Program
+The Creative Writing MFA program invites a distinguished novelist (in the fall) and poet (in the spring) to be in residence for several days to work with MFA students. These guests read student manuscripts in their genre; meet with students individually in conference; give a reading; attend graduate workshops; and spend informal time with the students over the course of their visit. During the two years of the master’s program, students have the opportunity to engage with four of these visitors and have conferences on their work with two of them (in their specific genre). The writers brought to Temple University’s College of Liberal Arts under this program are a distinctive and internationally recognized group. Recent Visiting Writers have included:
+- Alexander Chee
+- Norma Cole
+- Craig Dworkin
+- Brian Evenson
+- C.S. Giscombe
+- Francisco Goldman
+- Jaimy Gordon
+- Mat Johnson
+- Bhanu Kapil
+- Tracie Morris
+- Peter Straub
+- Cole Swenson
+- John Yau
 
-## Journal of Modern Literature
-The _[Journal of Modern Literature](https://muse.jhu.edu/journal/97)_ (JML) is a journal of scholarly research covering literature written in the twentieth century and beyond. It is published four times a year, including its annual review issue which consists of approximately 250 reviews, plus thousands of listings of articles, books and dissertations that appeared during the preceding year. Temple University English professors Morton Levitt (retired) and Daniel O’Hara are two of JML’s Editors; many English faculty are on the Advisory staff. The editors welcome research-based studies of American, English and world literature published during the last century. Manuscripts should follow MLA guidelines.
+[_TINGE Magazine_](http://www.tingemagazine.org/), Temple University’s online literary journal, is usually published twice a year, in the spring (May) and in the fall (December). The journal is edited by the graduate students of Temple’s MFA Program in Creative Writing and has an open submission policy.
 
 ## Creative Writing Scholarships
 - **The Frances Tebet Israel Prize in Poetry and Fiction**: The Frances Israel Prize was established in 1996 by her family in her memory. Mrs. Israel was a School of Education graduate, class of 1936. This prize is given at the end of every year for the best Master’s thesis in poetry and the best master’s thesis in fiction.
