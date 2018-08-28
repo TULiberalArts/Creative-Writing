@@ -6,11 +6,12 @@ published: true
 # meta-data variables
 title: Home
 description: >-
-  Learn to think and write with clarity and imagination, while collaborating with peers in workshops, 
+  Learn to think and write with clarity and imagination, while collaborating with peers in workshops,
   by pursuing a BFA or MFA in Creative Writing at Temple University’s College of Liberal Arts.
 keywords: 'Creative Writing programs, academic offerings, BA in Creative Writing, MFA in Creative Writing'
 # custom variables
 sidebar: false
+promotion-table: true
 feature: true
 feature-title: 'Flexible Applications, Life-Long Possibilities'
 feature-image: media/hero_Creative Writing_bg.jpg
