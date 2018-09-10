@@ -26,7 +26,7 @@ Faculty who have taught in the program in the past include such noted writers an
 
 Please go to the [Temple University Creative Writing MFA Facebook](https://www.facebook.com/templecreativewriting/) page for current updates.
 
-**_Learn More about the [MFA Program Requirements](https://liberalarts.temple.edu/sites/liberalarts/files/MFA%20Program%20Information%20Temple%20University.pdf)_**
+**_Learn More about the [MFA Program Requirements](https://liberalarts.temple.edu/sites/liberalarts/files/mfainfopacket%20%281%29.pdf)_**
 
 Learn More about the [MFA in Creative Writing](http://bulletin.temple.edu/graduate/scd/cla/creative-writing-mfa/#programrequirementstext)
 
@@ -67,7 +67,8 @@ Temple University is relatively affordable in comparison to other programs (see 
 - Learn More about [Graduate School Funding](http://www.temple.edu/grad/finances/index.htm)
 
 ## Graduate Resources
-- [Financial Aid Information for the MFA Program](https://liberalarts.temple.edu/sites/liberalarts/files/Financial%20Aid%20Information.pdf)
+- [Financial Aid Information for the MFA Program](https://liberalarts.temple.edu/sites/liberalarts/files/financialaidinformation%20%281%29.pdf)
+- [MFA Financial Aid Application](https://liberalarts.temple.edu/sites/liberalarts/files/CWapplicationform%20%281%29.pdf)
 - [English Graduate Policies and Procedures](https://liberalarts.temple.edu/sites/liberalarts/files/English%20GradPoliciesProcedures-Fall16.pdf)
 - [Graduate Handbook](http://www.temple.edu/grad/policies/gradpolicies.htm)
 - [Graduate School Policies](http://www.temple.edu/grad/policies/index.htm)
