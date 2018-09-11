@@ -18,7 +18,7 @@ If you have a passion for creative writing, a master’s degree can help you hon
 
 ## Earn Your MFA in Creative Writing
 ![Temple University]({{site.baseurl}}/media/resized 041608_berksmallgate015-cropped_1.jpg){:.img-right}
-The Temple MFA Program in Creative Writing awards a two-year Master of Fine Arts degree in Creative Writing, with a focus in either [fiction](https://liberalarts.temple.edu/sites/liberalarts/files/A%20Letter%20to%20Fiction%20Writers.pdf) or [poetry](https://liberalarts.temple.edu/sites/liberalarts/files/A%20Letter%20to%20Poets.pdf). Our innovative curriculum immerses students in the study of creative writing and literature, with course offerings that range from special topics and craft classes in creative writing to graduate seminars in literature, the humanities and the arts. Through small workshops each semester and one-on-one manuscript tutorials with our resident faculty in the second year, the curriculum supports students as they gain technique and self-confidence and prepare to hand in their MFA theses in their final semester. The supportive environment also helps our students move successfully from the MFA into the highly competitive world of submissions to journals and book publishers.
+The Temple MFA Program in Creative Writing awards a two-year Master of Fine Arts degree in Creative Writing, with a focus in either [fiction](https://liberalarts.temple.edu/sites/liberalarts/files/alettertofictionwriters_0.pdf) or [poetry](https://liberalarts.temple.edu/sites/liberalarts/files/alettertopoets.pdf). Our innovative curriculum immerses students in the study of creative writing and literature, with course offerings that range from special topics and craft classes in creative writing to graduate seminars in literature, the humanities and the arts. Through small workshops each semester and one-on-one manuscript tutorials with our resident faculty in the second year, the curriculum supports students as they gain technique and self-confidence and prepare to hand in their MFA theses in their final semester. The supportive environment also helps our students move successfully from the MFA into the highly competitive world of submissions to journals and book publishers.
 
 Workshops are supplemented by individual consultations with visiting writers and a series of readings by prominent writers. For more information, please look at our [Poets & Writers events page](https://develop.cla.temple.edu/creative-writing/poets-and-writers/). Students also have the opportunity to work on our online literary journal, [_TINGE Magazine_](http://www.tingemagazine.org/), which is graduate student–edited.
 
@@ -26,7 +26,7 @@ Faculty who have taught in the program in the past include such noted writers an
 
 Please go to the [Temple University Creative Writing MFA Facebook](https://www.facebook.com/templecreativewriting/) page for current updates.
 
-**_Learn More about the [MFA Program Requirements](https://liberalarts.temple.edu/sites/liberalarts/files/MFA%20Program%20Information%20Temple%20University.pdf)_**
+**_Learn More about the [MFA Program Requirements](https://liberalarts.temple.edu/sites/liberalarts/files/mfainfopacket%20%281%29.pdf)_**
 
 Learn More about the [MFA in Creative Writing](http://bulletin.temple.edu/graduate/scd/cla/creative-writing-mfa/#programrequirementstext)
 
@@ -67,7 +67,8 @@ Temple University is relatively affordable in comparison to other programs (see 
 - Learn More about [Graduate School Funding](http://www.temple.edu/grad/finances/index.htm)
 
 ## Graduate Resources
-- [Financial Aid Information for the MFA Program](https://liberalarts.temple.edu/sites/liberalarts/files/Financial%20Aid%20Information.pdf)
+- [Financial Aid Information for the MFA Program](https://liberalarts.temple.edu/sites/liberalarts/files/financialaidinformation%20%281%29.pdf)
+- [MFA Financial Aid Application](https://liberalarts.temple.edu/sites/liberalarts/files/CWapplicationform%20%281%29.pdf)
 - [English Graduate Policies and Procedures](https://liberalarts.temple.edu/sites/liberalarts/files/English%20GradPoliciesProcedures-Fall16.pdf)
 - [Graduate Handbook](http://www.temple.edu/grad/policies/gradpolicies.htm)
 - [Graduate School Policies](http://www.temple.edu/grad/policies/index.htm)
