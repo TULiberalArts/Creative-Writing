@@ -26,7 +26,7 @@ Faculty who have taught in the program in the past include such noted writers an
 
 Please go to the [Temple University Creative Writing MFA Facebook](https://www.facebook.com/templecreativewriting/) page for current updates.
 
-**_Learn More about the [MFA Program Requirements](https://liberalarts.temple.edu/sites/liberalarts/files/mfainfopacket%20%281%29.pdf)_**
+**_Learn More about the [MFA Program Requirements](https://liberalarts.temple.edu/sites/liberalarts/files/mfainfopacket.pdf)_**
 
 Learn More about the [MFA in Creative Writing](http://bulletin.temple.edu/graduate/scd/cla/creative-writing-mfa/#programrequirementstext)
 
