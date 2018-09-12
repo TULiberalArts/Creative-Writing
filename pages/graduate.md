@@ -67,7 +67,7 @@ Temple University is relatively affordable in comparison to other programs (see 
 - Learn More about [Graduate School Funding](http://www.temple.edu/grad/finances/index.htm)
 
 ## Graduate Resources
-- [Financial Aid Information for the MFA Program](https://liberalarts.temple.edu/sites/liberalarts/files/financialaidinformation%20%281%29.pdf)
+- [Financial Aid Information for the MFA Program](https://liberalarts.temple.edu/sites/liberalarts/files/CWapplicationform.pdf)
 - [MFA Financial Aid Application](https://liberalarts.temple.edu/sites/liberalarts/files/CWapplicationform%20%281%29.pdf)
 - [English Graduate Policies and Procedures](https://liberalarts.temple.edu/sites/liberalarts/files/English%20GradPoliciesProcedures-Fall16.pdf)
 - [Graduate Handbook](http://www.temple.edu/grad/policies/gradpolicies.htm)
