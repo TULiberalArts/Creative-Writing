@@ -52,3 +52,6 @@ The Central Branch of the Philadelphia Free Library (at 1901 Vine St.) bring som
 Bryn Mawr can be easily reached via public transportation by taking the Paoli/Thorndale line to the Bryn Mawr station.
 
 - [Villanova Literary Festival](https://www1.villanova.edu/villanova/artsci/english/newsandevents/literaryfestival.html) This festival happens every Spring semester. Villanova can be easily reached via public transportation by taking the Paoli/Thorndale line to the Villanova station.
+
+## Graduate English Association
+The [Graduate English Association](https://sites.temple.edu/gradenglish/) is an organization for all graduate students in the English department, regardless of program (Literature or Creative Writing) or funding status (fellowship, GA, TA or otherwise). The organization conducts regular monthly meetings, and its purpose is to make recommendations to the faculty on departmental issues (instructor training, program changes, etc.) and to enrich the graduate experience with developmental workshops and social events.
