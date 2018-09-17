@@ -28,8 +28,7 @@ The Department of English has a well-established internship program and offers s
 - American Cancer Society
 
 ## What Can I Do with a Graduate Degree in Creative Writing?
-MFA in Creative Writing graduates’ books have been published by trade and small presses and cover all genres; their works have won grants, prizes and residencies. Many have earned PhDs in English and Creative Writing and are now professors. Our graduates have gone on to become web content editors, journalists, copywriters, book and magazine editors, arts administrators, librarians, grant writers, primary and secondary school teachers and more, and have obtained jobs in advertising, public relations, and communications. College of Liberal Arts Creative Writing alumni continue to make important contributions to the contemporary literary scene. 
-
+MMFA in Creative Writing graduates’ books have been published by trade and small presses and cover all genres; their works have won grants, prizes and residencies. Many have earned PhDs in English and Creative Writing and are now professors. Our graduates have gone on to become web content editors, journalists, copywriters, book and magazine editors, arts administrators, librarians, grant writers, primary and secondary school teachers and more, and have obtained jobs in advertising, public relations, and communications. College of Liberal Arts Creative Writing alumni continue to make important contributions to the contemporary literary scene. 
 
 ## Notable Alumni
 Many of our distinguished alumni have gone on to great accomplishments. Just a few from the MFA program who have published books of fiction and poetry include:
