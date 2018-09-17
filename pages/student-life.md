@@ -15,23 +15,10 @@ sidebar: false
 ---
 The Creative Writing MFA program encourages its students to get outside the classroom and find their inspiration everywhere they can. Students can confer with our [visiting writers]((#visiting-writers-program), work as editors and manuscript readers for our online literary journal, [_TINGE Magazine_](#tinge Magazine), join the Graduate English Association, become a recipient of a [creative writing scholarship](#creative-writing-scholarships) or attend a number of [Philadelphia reading series](#local-philadelphia-reading-series).
 
-## Visiting Writer Program
-The Creative Writing MFA program invites a distinguished novelist (in the fall) and poet (in the spring) to be in residence for several days to work with MFA students. These guests read student manuscripts in their genre; meet with students individually in conference; give a reading; attend graduate workshops; and spend informal time with the students over the course of their visit. During the two years of the master’s program, students have the opportunity to engage with four of these visitors and have conferences on their work with two of them (in their specific genre). The writers brought to Temple University’s College of Liberal Arts under this program are a distinctive and internationally recognized group. Recent Visiting Writers have included:
-- Alexander Chee
-- Norma Cole
-- Craig Dworkin
-- Brian Evenson
-- C.S. Giscombe
-- Francisco Goldman
-- Jaimy Gordon
-- Mat Johnson
-- Bhanu Kapil
-- Tracie Morris
-- Peter Straub
-- Cole Swenson
-- John Yau
-
 [_TINGE Magazine_](http://www.tingemagazine.org/), Temple University’s online literary journal, is usually published twice a year, in the spring (May) and in the fall (December). The journal is edited by the graduate students of Temple’s MFA Program in Creative Writing and has an open submission policy.
+
+## Graduate English Association
+The [Graduate English Association](https://sites.temple.edu/gradenglish/) is an organization for all graduate students in the English department, regardless of program (Literature or Creative Writing) or funding status (fellowship, GA, TA or otherwise). The organization conducts regular monthly meetings, and its purpose is to make recommendations to the faculty on departmental issues (instructor training, program changes, etc.) and to enrich the graduate experience with developmental workshops and social events.
 
 ## Creative Writing Scholarships
 - **The Frances Tebet Israel Prize in Poetry and Fiction**: The Frances Israel Prize was established in 1996 by her family in her memory. Mrs. Israel was a School of Education graduate, class of 1936. This prize is given at the end of every year for the best Master’s thesis in poetry and the best master’s thesis in fiction.
@@ -53,5 +40,17 @@ Bryn Mawr can be easily reached via public transportation by taking the Paoli/Th
 
 - [Villanova Literary Festival](https://www1.villanova.edu/villanova/artsci/english/newsandevents/literaryfestival.html) This festival happens every Spring semester. Villanova can be easily reached via public transportation by taking the Paoli/Thorndale line to the Villanova station.
 
-## Graduate English Association
-The [Graduate English Association](https://sites.temple.edu/gradenglish/) is an organization for all graduate students in the English department, regardless of program (Literature or Creative Writing) or funding status (fellowship, GA, TA or otherwise). The organization conducts regular monthly meetings, and its purpose is to make recommendations to the faculty on departmental issues (instructor training, program changes, etc.) and to enrich the graduate experience with developmental workshops and social events.
+## Local Philadelphia Reading Series
+- [Chapter and Verse Reading Series](http://chapterhousereadings.blogspot.com/)
+Founded by graduate fiction writer Steve Dolph (class of 2007) and is currently curated by Ryan Eckes (also class of 2007) and Stan Mir. It takes place at Chapterhouse on 9th Street between South and Bainbridge.
+
+- [Kelly Writers House](http://writing.upenn.edu/wh/)
+Located at the University of Pennsylvania (3805 Locust Walk), the Kelly Writers House hosts readings and literary events almost every night of the academic year. Follow this [link](http://writing.upenn.edu/wh/calendar/0315.php) for the full calendar.
+
+- [Free Library of Philadelphia](http://libwww.freelibrary.org/calendar/calbydate.cfm?type=2)
+The Central Branch of the Philadelphia Free Library (at 1901 Vine St.) bring some of the biggest literary names around to read from their works. Some of the events are ticketed, but many are free to the public.
+
+- [Bryn Mawr College Reading Series](http://www.brynmawr.edu/calendar/visiting_writers.shtml)
+Bryn Mawr can be easily reached via public transportation by taking the Paoli/Thorndale line to the Bryn Mawr station.
+
+- [Villanova Literary Festival](https://www1.villanova.edu/villanova/artsci/english/newsandevents/literaryfestival.html) This festival happens every Spring semester. Villanova can be easily reached via public transportation by taking the Paoli/Thorndale line to the Villanova station.
