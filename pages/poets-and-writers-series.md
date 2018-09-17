@@ -104,10 +104,10 @@ _Writers whose names are in bold were in residence and met with students individ
 - Lisa Fishman, Christine Schutt, Allison Cobb, **Mat Johnson**
 
 **Spring 2012**
-Lance Olsen, Cathy Park Hong, Gary Lutz, **C.S. Giscombe**
+- Lance Olsen, Cathy Park Hong, Gary Lutz, **C.S. Giscombe**
 
 **Fall 2011**
-Andi Rosenthal, Cecilia Vicuña, Alice Notley, **Brian Evenson**
+- Andi Rosenthal, Cecilia Vicuña, Alice Notley, **Brian Evenson**
 
 ___
 
