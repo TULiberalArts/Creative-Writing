@@ -13,12 +13,12 @@ keywords: 'Creative Writing programs, academic offerings, BA in Creative Writing
 sidebar: false
 promotion-table: true
 feature: true
-feature-title: 'Flexible Applications, Life-Long Possibilities'
 feature-image: media/hero_Creative Writing_bg.jpg
-feature-body: >-
-  Hone your craft by studying in Philadelphia, a world-class city for the arts.
-  Become a part of a close-knit community within a thriving urban setting.
 ---
+## Flexible Applications, Life-Long Possibilities
+Hone your craft by studying in Philadelphia, a world-class city for the arts.
+Become a part of a close-knit community within a thriving urban setting.
+
 ## Immerse Yourself in the Art of Writing
 Temple University’s College of Liberal Arts offers both undergraduate and graduate Creative Writing programs. Our classes teach students to think and write with clarity and imagination under the guidance of award-winning faculty. You’ll collaborate with your peers in inspiring and supportive workshops, take literature, humanities and arts courses and gain experience in the genre of your choice. Professors and students work in a close-knit community as they write their own stories, poems and essays within the living tradition of literature.
 
