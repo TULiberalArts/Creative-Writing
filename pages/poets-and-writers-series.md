@@ -63,40 +63,61 @@ Aisha Sabatini Sloan's first essay collection, _The Fluency of Light: Coming of 
 
 ___
 
-## Fall 2017 Poets & Writers Series
+## Past Readings
 
-**Small Press Publishing in the Age of Trump**<br/>
-Poetry, Politics, and the Art of the Book<br/>
+_Writers whose names are in bold were in residence and met with students individually._
 
-- Thursday, September 14, 2017, 2:30 p.m.<br/>
-- Temple Contemporary<br/>
-- Tyler School of Art<br/>
+**Spring 2018**
+- **Katie Kitamura, Brenda Hillman,** Tonya M. Foster
 
-Co-sponsored by PHILALALIA, Philadelphia’s annual small press poetry and art fair, this panel brings together five small-press poet-publishers nationally known for their dedication to getting innovative writing in print, creating community through their publishing projects and reimagining and reinvigorating the art of the book. Iris Cushing of Argos Books, Caroline Crumpacker of Belladonna* Collective, MC Hyland of DoubleCross Press, and Stephen Motika of Nightboat Books will discuss matters of aesthetics, politics, and poetics as they inform their practices as publishers and poets during the age of Donald Trump. The panel discussion and subsequent Q&A will be moderated by Brian Teare, editor and publisher of Albion Books. PHILALALIA is a free three-day celebration that brings together poets, printmakers, book artists, paper-makers, comics poetry artists, publishers, and arts enthusiasts to showcase, perform, and sell their work. For the full schedule, please go to philalalia.com.
+**Fall 2017**
+- Amaranth Borsuk, **Akhil Sharma**
 
-___
+**Spring 2017**
+- Sam Allingham, Patricia A. Smith, **Dawn Lundy Martin,** Sue Landers, Jhumpa Lahiri
 
-![Allingham Amaranth Borsuk]({{site.baseurl}}/media/Borsuk-Photo.jpg){:.img-right}
-**Amaranth Borsuk**
+**Fall 2016**
+- Ann Beattie, Emily Abendroth, **Laura van den Berg**
 
-- Thursday, October 12, 2017, 6 p.m.<br/>
-- Temple Contemporary<br/>
-- Tyler School of Art<br/>
+**Spring 2016**
+- **Juliana Spahr,** Susan Howe, Daniel Torday, Marlon James
 
-Allingham Amaranth Borsuk is a poet, scholar, and book artist whose work encompasses print and digital media, performance and installation. Her books of poetry include Pomegranate Eater (Kore Press, 2016); Between Page and Screen (SpringGun Press, 2016), a book of augmented-reality poems created with Brad Bouse; As We Know (Subito, 2014), an erasure collaboration with Andy Fitch; and Handiwork (Slope Editions, 2012). Her intermedia project Abra (1913 Press, 2016), created with Kate Durbin and Ian Hatcher, received an NEA-sponsored Expanded Artists’ Books grant from the Center for Book and Paper Arts and was issued in 2015 as a limited-edition handmade book and free iPad/iPhone app. Amaranth is currently an Assistant Professor of Interdisciplinary Arts and Sciences at the University of Washington, Bothell, where she also teaches in the MFA Program in Creative Writing and Poetics. Co-sponsored by the Digital Scholarship Center, Temple Contemporary, Graphic Interactive Design, Visual Studies, and the Honors program.
+**Fall 2015**
+- **Cristina García,** Prageeta Sharma
 
-___
+**Spring 2015**
+- Kelly Link, **Claudia Rankine**
 
-![Akhil Sharma]({{site.baseurl}}/media/Akhil_Sharma_Winne_3245750b.jpg){:.img-right}
-**Akhil Sharma**<br/>
-Visiting Fiction Writer<br/>
+**Fall 2014**
+- Latasha N. Nevada Diggs, Rachel Zolf, **Jesse Ball**
 
-- Thursday, October 26, 5 p.m.<br/>
-- Main Campus, Anderson 821 (Gender, Sexuality & Women’s Studies Lounge)<br/>
+**Spring 2014**
+- Catherine Taylor, Joseph McElroy, Mecca Jamilah Sullivan, **Craig Dworkin**
 
-Akhil Sharma is the author of the novels Family Life (2014), winner of the 2015 Folio Prize and the 2016 International Dublin Literary Award, and An Obedient Father (2000), winner of the PEN/Hemingway Award and a New York Times Notable Book of the Year, as well as the story collection A Life of Adventure and Delight (2017). His writing has appeared in The New Yorker, The Atlantic, Best American Short Stories, and O. Henry Award Stories. A native of Delhi, he lives in New York City and is an assistant professor of English at Rutgers University, Newark.
+**Fall 2013**
+- Brenda Coultas, Douglas Kearney, Anthony Wallace, **Jaimy Gordon**
+
+**Spring 2013**
+- Noy Holland, Ed Park, Rae Armantrout, Norma Cole
+
+**Fall 2012**
+- Lisa Fishman, Christine Schutt, Allison Cobb, **Mat Johnson**
+
+**Spring 2012**
+Lance Olsen, Cathy Park Hong, Gary Lutz, **C.S. Giscombe**
+
+**Fall 2011**
+Andi Rosenthal, Cecilia Vicuña, Alice Notley, **Brian Evenson**
 
 ___
 
 ## DuPlessis Lecture in Poetry and Poetics
 The DuPlessis Lecture is named after Professor Emeritus Rachel Blau DuPlessis. DuPlessis is a widely published poet and critic and one of her significant contributions to the field of poetry and poetics is her interweaving of these two practices. Her poetry often speaks to the concerns of her critical work and her critical works often stretch the conventions of the scholarly essay. This lecture series honors DuPlessis’ expansions of literary form, and features poets who write in a number of different registers.
+
+Past lecturers have included: 
+- Divya Victor
+- John Keene
+- Kevin Killian
+- Evie Shockley
+- Jen Bervin
+- Caroline Bergvall
