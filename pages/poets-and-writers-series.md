@@ -19,7 +19,7 @@ ___
 
 ## Fall 2018 Poets & Writers Series
 
-![Ken Kalfus]({{site.baseurl}}/media/resized Kalfus Author photo, Coup.jpg){:.img-right}
+![Ken Kalfus]({{site.baseurl}}/media/resized Kalfus Author photo, Coup.jpg){:.responsive-img .img-right}
 **Ken Kalfus**<br/>
 Fiction Writer<br/>
 
@@ -30,7 +30,7 @@ Ken Kalfus is the author of three novels, Equilateral (2013), _The Commissariat 
 
 ___
 
-![Brian Blanchfield]({{site.baseurl}}/media/resized brianblanchfield.jpg){:.img-right}
+![Brian Blanchfield]({{site.baseurl}}/media/resized brianblanchfield.jpg){:.responsive-img .img-right}
 **Brian Blanchfield**<br/>
 Poet and Essayist<br/>
 
@@ -41,7 +41,7 @@ Brian Blanchfield is the author of three books of poetry and prose, most recentl
 
 ___
 
-![Jennifer Haigh]({{site.baseurl}}/media/resized Jenniferhaigh.jpg){:.img-right}
+![Jennifer Haigh]({{site.baseurl}}/media/resized Jenniferhaigh.jpg){:.responsive-img .img-right}
 **Jennifer Haigh**<br/>
 Visiting Fiction Writer<br/>
 
@@ -52,7 +52,7 @@ Jennifer Haigh is a novelist and short story writer. Her sixth book, the novel H
 
 ___
 
-![Aisha Sabatini Sloan]({{site.baseurl}}/media/resized Aisha_AuthorPic 2.jpg){:.img-right}
+![Aisha Sabatini Sloan]({{site.baseurl}}/media/resized Aisha_AuthorPic 2.jpg){:.responsive-img .img-right}
 **Aisha Sabatini Sloan**<br/>
   Essayist<br/>
 
