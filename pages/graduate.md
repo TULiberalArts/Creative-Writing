@@ -14,7 +14,7 @@ keywords: 'MFA in Fiction, MFA in Poetry, Creative Writing MFA, Graduate Program
 sidebar: true
 sidebar_content: sidebars/graduate.html
 ---
-If you have a passion for creative writing, a master’s degree can help you hone your craft and embark upon your literary career as a fiction writer or poet. At Temple University, you can earn a Master of Fine Arts (MFA) degree in Creative Writing as a full-time or [part-time](#part-time-mfa-program) student. You’ll develop the skills needed to write fiction or poetry of publishable quality, define your individual voice and aesthetics and experience a diversity of approaches to literary forms as you prepare to [submit manuscripts](#writer-in-residence-program) to journals, publishers and agents. Familiarize yourself with our curriculum and tuition and fees so you can [apply](#admission-requirements) today and begin studying with celebrated authors.
+If you have a passion for creative writing, a master’s degree can help you hone your craft and launch your literary career as a fiction writer or poet. At Temple University, you can earn a Master of Fine Arts (MFA) degree in Creative Writing as a full-time or [part-time](#part-time-mfa-program) student. You’ll develop the skills needed to write fiction or poetry of publishable quality, define your individual voice and aesthetics and experience a diversity of approaches to literary forms as you prepare to submit manuscripts to journals, publishers and agents. Familiarize yourself with our curriculum and tuition and fees so you can [apply](#admission-requirements) today and begin studying with celebrated authors.
 
 ## Earn Your MFA in Creative Writing
 ![Temple University]({{site.baseurl}}/media/resized 041608_berksmallgate015-cropped_1.jpg){:.responsive-img .img-right}
@@ -22,7 +22,7 @@ The Temple MFA Program in Creative Writing awards a two-year Master of Fine Arts
 
 _Learn More about the [MFA Program Curriculum](http://bulletin.temple.edu/graduate/scd/cla/creative-writing-mfa/#programrequirementstext)_
 
-Workshops are supplemented by individual consultations with visiting writers and a series of readings by prominent writers. For more information, please look at our [Poets & Writers events page](https://develop.cla.temple.edu/creative-writing/poets-and-writers/). Students also have the opportunity to work on our online literary journal, [_TINGE Magazine_](http://www.tingemagazine.org/), which is graduate student–edited.
+Workshops are supplemented by individual consultations with visiting writers and a series of readings by prominent writers. For more information, please look at our [Poets & Writers events page](https://develop.cla.temple.edu/creative-writing/poets-and-writers/). Students also have the opportunity to work on our online literary journal, [_TINGE_ Magazine(http://www.tingemagazine.org/)], which is graduate student–edited.
 
 Read about the writers and poets who are currently teaching in the MFA program on our [faculty page](https://www.cla.temple.edu/creative-writing/faculty/). Faculty who have taught in the program in the past include such noted writers and scholars as David Bradley, Samuel R. Delany, Rachel Blau DuPlessis, Toby Olson, Sonia Sanchez, and Susan Stewart.
 
@@ -31,7 +31,7 @@ Please go to the [Temple University Creative Writing MFA Facebook](https://www.f
 _Learn More about the [MFA in Creative Writing](https://drive.google.com/file/d/1v3P8b05cSRG1t2QtU3J-fAlDP7OeVpXP/view?usp=sharing)_
 
 ## Visiting Writers Program
-The Creative Writing Program invites a distinguished novelist (in the fall) and poet (in the spring) to be in residence for several days in order to work with MFA students. These guests read student manuscripts in their genre, meet with students individually in conference, give a reading, attend graduate workshops and spend informal time with the students over the course of their visit. During the two years of the master’s program, students have the opportunity to engage with four of these visitors and have conferences on their work with two of them (in their specific genre). The writers brought to Temple under this program are a distinctive and internationally recognized group. Recent Visiting Writers have included:
+The Creative Writing Program invites a distinguished novelist (in the fall) and poet (in the spring) to be in residence for several days in order to work with MFA students. These guests read student manuscripts in their genre, meet with students individually in conference, give a reading, attend graduate workshops and spend informal time with the students over the course of their visit. During the two years of the master’s program, students have the opportunity to engage with four of these visitors and have conferences on their work with one or two of them (in their specific genre). The writers brought to Temple under this program are a distinctive and internationally recognized group. Recent Visiting Writers have included:
 - Peter Carey
 - Alexander Chee
 - Robert Creeley
@@ -59,14 +59,13 @@ A writing sample in the genre of your choice, a personal statement, and three le
 Please visit the [Creative Writing Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/creative-writing-mfa/#admissiontext) to learn more about graduate program requirements and instructions on how to apply.
 
 ## Tuition and Fees
-Temple University is relatively affordable in comparison to other programs (see tuition information below). We have had students in the past choose Temple with no funding as opposed to other programs that offered some funding because ultimately it was a better deal for them. Also note that Pennsylvania residents receive reduced tuition at Temple (see the registrar’s [residency page](http://www.temple.edu/registrar/students/registration/residency/) for eligibility). The MFA program requires 33 total credits. Check the [Bursar’s Office](http://www.temple.edu/bursar/about/tuitionrates.htm) for current tuition rates and fees. For 2018–19, annual tuition for full-time graduate students from Pennsylvania is $17,378 (18 total credits); for full-time, out-of-state graduate students, it is $23,588. (Note that in the second year of the program, only 15 credits are required.) For part-time in-state graduate students, it is $11,630 (12 total credits); for part-time out-of-state graduate students, it is $15,770.
+Temple University is relatively affordable in comparison to other programs. We have had students in the past choose Temple with no funding as opposed to other programs that offered some funding because ultimately it was a better deal for them. Also note that Pennsylvania residents receive reduced tuition at Temple (see the registrar’s [residency page](http://www.temple.edu/registrar/students/registration/residency/) for eligibility). The MFA program requires 33 total credits. Check the [Bursar’s Office](http://www.temple.edu/bursar/about/tuitionrates.htm) for current tuition rates and fees. For 2018–19, annual tuition for full-time graduate students from Pennsylvania is $17,378 (18 total credits); for full-time, out-of-state graduate students, it is $23,588. (Note that in the second year of the program, only 15 credits are required.) For part-time in-state graduate students, it is $11,630 (12 total credits); for part-time out-of-state graduate students, it is $15,770.
 
 - Learn More about [Graduate School Funding](http://www.temple.edu/grad/finances/index.htm)
 
 ## MFA Resources
 - [MFA Program Information Packet](https://drive.google.com/file/d/1v3P8b05cSRG1t2QtU3J-fAlDP7OeVpXP/view?usp=sharing)
 - [Financial Aid Information for the MFA Program](https://drive.google.com/file/d/11DAg6RU81g9er_rfpcoo5z9iYTiFjUsX/view?usp=sharing)
-- [MFA Financial Aid Application](https://drive.google.com/file/d/1PNU-L2KmM0sDsytiTR7OuGsFj1B7gqf8/view?usp=sharing)
 - [A Letter to Poetry Applicants](https://drive.google.com/file/d/1doJMLWXAl5FsLA0rRvYOD--HyztmI1YG/view)
 - [A Letter to Fiction Applicants](https://drive.google.com/file/d/1Kk8DZhAOcbIhuL0EeSQHehrnEPPR-x7L/view)
 - [How to Apply](http://bulletin.temple.edu/graduate/scd/cla/creative-writing-mfa/#admissiontext)
