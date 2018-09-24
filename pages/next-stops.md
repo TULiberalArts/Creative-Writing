@@ -12,9 +12,9 @@ keywords: 'Careers for English Majors, Careers for English Degrees, BA in Englis
  # custom variables
 sidebar: false
 ---
-For graduates of the College of Liberal Arts’ Creative Writing Bachelor of Arts or Master of Fine Arts, the possibilities in the literary world are many. Whether through writing, editing, teaching or pursuing a more advanced degree, graduates find their place and make the most of their education. Learn what you can do with and [undergraduate](/creative-writing#undergraduate/) or [graduate](/creative-writing#graduate/) degree, [visit the campus](#visit-us) today and [apply](#apply) to the creative writing program of your choice to get started.
+For graduates of the College of Liberal Arts’ Creative Writing Bachelor of Arts or Master of Fine Arts, the possibilities in the literary world are many. Whether through writing, editing, teaching or pursuing a more advanced degree, graduates find their place and make the most of their education. Learn what you can do with an [undergraduate](#what-can-i-do-with-an-undergraduate-degree-in-creative-writing) or [graduate](#what-can-i-do-with-an-undergraduate-degree-in-creative-writing) degree, [visit the campus](#visit-us) today and [apply](#apply) to the creative writing program of your choice to get started.
 
-## What Can I Do with a Degree in Creative Writing?
+## What Can I Do with an Degree in Creative Writing?
 ![Creative Writing MFA Poets at Temple University]({{site.baseurl}}/media/books.jpg){:.responsive-img .img-right}
 Employers look for people who can think both critically and creatively. The BA in English at Temple—with its emphasis on both creative and critical scholarship and the option of a creative writing concentration—prepares students to succeed in the corporate and nonprofit sectors, in academic professions and in entrepreneurial endeavors. From mayoral campaigns to musicology, recent Temple grads are putting their English degrees to work in a variety of fields and careers, especially those that involve writing or editing—whether the subject matter is an advertising campaign, an essay, a grant proposal, a legal document or a website. English majors also find non-writing and editing careers in fields that include business, education, government, law, librarianship, marketing and social services.
 
@@ -22,13 +22,13 @@ Employers look for people who can think both critically and creatively. The BA i
 The Department of English has a well-established internship program and offers students a wealth of opportunities to work in the real world even before graduation. They’re kept up to date on exciting internship opportunities by a popular career seminar. Recently, English majors have secured internships in organizations across several industries:
 - Philadelphia Museum of Art
 - Wilma Theater
-- Philadelphia Magazine 
+- _Philadelphia_ Magazine 
 - US Department of Labor
 - Comcast SportsNet Philadelphia
 - American Cancer Society
 
 ## What Can I Do with a Graduate Degree in Creative Writing?
-MMFA in Creative Writing graduates’ books have been published by trade and small presses and cover all genres; their works have won grants, prizes and residencies. Many have earned PhDs in English and Creative Writing and are now professors. Our graduates have gone on to become web content editors, journalists, copywriters, book and magazine editors, arts administrators, librarians, grant writers, primary and secondary school teachers and more, and have obtained jobs in advertising, public relations, and communications. College of Liberal Arts Creative Writing alumni continue to make important contributions to the contemporary literary scene. 
+MFA in Creative Writing graduates’ books have been published by trade and small presses and cover all genres; their works have won grants, prizes and residencies. Many have earned PhDs in English and Creative Writing and are now professors. Our graduates have gone on to become web content editors, journalists, copywriters, book and magazine editors, arts administrators, librarians, grant writers, primary and secondary school teachers and more, and have obtained jobs in advertising, public relations, and communications. College of Liberal Arts Creative Writing alumni continue to make important contributions to the contemporary literary scene. 
 
 ## Notable Alumni
 Many of our distinguished alumni have gone on to great accomplishments. Just a few from the MFA program who have published books of fiction and poetry include:
@@ -66,10 +66,12 @@ Almost half of incoming Temple students transfer from other colleges and univers
 Learn More about [Transferring to Temple](http://admissions.temple.edu/apply/transfer-applicant)
 
 ## Apply
-Ready to apply? [Submit your application online](http://admissions.temple.edu/apply).
+Ready to apply? Apply to the [undergraduate](http://admissions.temple.edu/apply) or [graduate](http://bulletin.temple.edu/graduate/scd/cla/creative-writing-mfa/#admissiontext) programs online.
 
 ## Deadlines
+- **Dec. 15th**: Priority Application Deadline for the MFA Program
 - **Feb. 1st**: Freshman Application Deadline for Fall Semester
+- **Feb. 15th**: Final Application Deadline for the MFA Program
 - **March 1st**: FAFSA Financial Aid Application Deadline
 - **Nov. 1st**: Transfer Deadline for Spring Semester
 - **June 1st**: Transfer Deadline for Fall Semester
