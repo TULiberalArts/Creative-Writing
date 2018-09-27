@@ -12,9 +12,9 @@ keywords: 'Careers for English Majors, Careers for English Degrees, BA in Englis
  # custom variables
 sidebar: false
 ---
-For graduates of the College of Liberal Arts’ Creative Writing Bachelor of Arts or Master of Fine Arts, the possibilities in the literary world are many. Whether through writing, editing, teaching or pursuing a more advanced degree, graduates find their place and make the most of their education. Learn what you can do with an [undergraduate](#what-can-i-do-with-an-undergraduate-degree-in-creative-writing) or [graduate](#what-can-i-do-with-an-undergraduate-degree-in-creative-writing) degree, [visit the campus](#visit-us) today and [apply](#apply) to the creative writing program of your choice to get started.
+For graduates of the College of Liberal Arts’ Creative Writing Bachelor of Arts or Master of Fine Arts, the possibilities in the literary world are many. Whether through writing, editing, teaching or pursuing a more advanced degree, graduates find their place and make the most of their education. Learn what you can do with an [undergraduate](#what-can-i-do-with-an-undergraduate-degree-in-creative-writing) or [graduate](#what-can-i-do-with-a-graduate-degree-in-creative-writing) degree, [visit the campus](#visit-us) today and [apply](#apply) to the creative writing program of your choice to get started.
 
-## What Can I Do with an Degree in Creative Writing?
+## What Can I Do with an Undergraduate Degree in Creative Writing?
 ![Creative Writing MFA Poets at Temple University]({{site.baseurl}}/media/books.jpg){:.responsive-img .img-right}
 Employers look for people who can think both critically and creatively. The BA in English at Temple—with its emphasis on both creative and critical scholarship and the option of a creative writing concentration—prepares students to succeed in the corporate and nonprofit sectors, in academic professions and in entrepreneurial endeavors. From mayoral campaigns to musicology, recent Temple grads are putting their English degrees to work in a variety of fields and careers, especially those that involve writing or editing—whether the subject matter is an advertising campaign, an essay, a grant proposal, a legal document or a website. English majors also find non-writing and editing careers in fields that include business, education, government, law, librarianship, marketing and social services.
 
@@ -60,7 +60,7 @@ To know what Temple is really about, you have to experience it firsthand. Our Ma
 
 Arrange a [Visit Today](http://admissions.temple.edu/visit)
 
-## Thinking Of Transferring?
+## Thinking of Transferring?
 Almost half of incoming Temple students transfer from other colleges and universities. If you’ve taken 15 or more college-level credits after high school graduation, you can apply for admission as a transfer student. If you're thinking about transferring, consider attending a [Transfer Tuesday](http://admissions.temple.edu/visit/transfer-tuesday) general information session.
 
 Learn More about [Transferring to Temple](http://admissions.temple.edu/apply/transfer-applicant)
