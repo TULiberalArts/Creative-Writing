@@ -26,7 +26,7 @@ Fiction Writer<br/>
 - Thursday, September 20, 2018, 5 p.m.<br/>
 - Anderson 821 (Gender, Sexuality & Women’s Studies Lounge)<br/>
 
-Ken Kalfus is the author of three novels, Equilateral (2013), _The Commissariat of Enlightenment_ (2003), and _A Disorder Peculiar to the Country_, which was a finalist for the 2006 National Book Award. He has also published three collections of stories, Thirst (1998), Pu-239 and Other Russian Fantasies (1999), a finalist for the PEN/Faulkner Award, and _Coup de Foudre: A Novella and Stories_ (2015). He has received a Pew Fellowships in the Arts award and a fellowship from the John Simon Guggenheim Memorial Foundation. He has written for _Harper's_, _The New York Review of Books_, and _The New York Times_. A film adaptation of his short story "Pu-239" aired on HBO in 2007.
+Ken Kalfus is the author of three novels, _Equilateral_ (2013), _The Commissariat of Enlightenment_ (2003), and _A Disorder Peculiar to the Country_, which was a finalist for the 2006 National Book Award. He has also published three collections of stories, _Thirst_ (1998), _Pu-239 and Other Russian Fantasies_ (1999), a finalist for the PEN/Faulkner Award, and _Coup de Foudre: A Novella and Stories_ (2015). He has received a Pew Fellowships in the Arts award and a fellowship from the John Simon Guggenheim Memorial Foundation. He has written for _Harper's_, _The New York Review of Books_, and _The New York Times_. A film adaptation of his short story "Pu-239" aired on HBO in 2007.
 
 ___
 
@@ -48,7 +48,7 @@ Visiting Fiction Writer<br/>
 - Thursday, October 25, 2018, 5 p.m.<br/>
 - Anderson 821 (Gender, Sexuality & Women’s Studies Lounge)<br/>
 
-Jennifer Haigh is a novelist and short story writer. Her sixth book, the novel Heat and Light, won a 2017 Literature Award from the American Academy of Arts and Letters and was named a Best Book of 2016 by _The New York Times_, _The Washington Post_, _The Wall Street Journal_, and NPR. Previous books have won the PEN/Hemingway Award, the Massachusetts Book Award, and the PEN New England Award in fiction, and have been published in eighteen languages. Her stories have appeared in _The Atlantic_, _The Best American Short Stories_, and elsewhere. A graduate of the Iowa Writer’s Workshop, she is a 2018 Guggenheim Fellow.
+Jennifer Haigh is a novelist and short story writer. Her sixth book, the novel _Heat and Light_, won a 2017 Literature Award from the American Academy of Arts and Letters and was named a Best Book of 2016 by _The New York Times_, _The Washington Post_, _The Wall Street Journal_, and NPR. Previous books have won the PEN/Hemingway Award, the Massachusetts Book Award, and the PEN New England Award in fiction, and have been published in eighteen languages. Her stories have appeared in _The Atlantic_, _The Best American Short Stories_, and elsewhere. A graduate of the Iowa Writer’s Workshop, she is a 2018 Guggenheim Fellow.
 
 ___
 
