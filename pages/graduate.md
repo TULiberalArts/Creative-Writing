@@ -22,7 +22,7 @@ The Temple MFA Program in Creative Writing awards a two-year Master of Fine Arts
 
 _Learn More about the [MFA Program Curriculum](http://bulletin.temple.edu/graduate/scd/cla/creative-writing-mfa/#programrequirementstext)_
 
-Workshops are supplemented by individual consultations with visiting writers and a series of readings by prominent writers. For more information, please look at our [Poets & Writers events page](https://develop.cla.temple.edu/creative-writing/poets-and-writers/). Students also have the opportunity to work on our online literary journal, [_TINGE_ Magazine(http://www.tingemagazine.org/)], which is graduate student–edited.
+Workshops are supplemented by individual consultations with visiting writers and a series of readings by prominent writers. For more information, please look at our [Poets & Writers events page](https://develop.cla.temple.edu/creative-writing/poets-and-writers/). Students also have the opportunity to work on our online literary journal, [_TINGE_ Magazine](http://www.tingemagazine.org/), which is graduate student–edited.
 
 Read about the writers and poets who are currently teaching in the MFA program on our [faculty page](https://www.cla.temple.edu/creative-writing/faculty/). Faculty who have taught in the program in the past include such noted writers and scholars as David Bradley, Samuel R. Delany, Rachel Blau DuPlessis, Toby Olson, Sonia Sanchez, and Susan Stewart.
 
@@ -61,7 +61,7 @@ Please visit the [Creative Writing Graduate Bulletin](http://bulletin.temple.edu
 ## Tuition and Fees
 Temple University is relatively affordable in comparison to other programs. We have had students in the past choose Temple with no funding as opposed to other programs that offered some funding because ultimately it was a better deal for them. Also note that Pennsylvania residents receive reduced tuition at Temple (see the registrar’s [residency page](http://www.temple.edu/registrar/students/registration/residency/) for eligibility). The MFA program requires 33 total credits. Check the [Bursar’s Office](http://www.temple.edu/bursar/about/tuitionrates.htm) for current tuition rates and fees. For 2018–19, annual tuition for full-time graduate students from Pennsylvania is $17,378 (18 total credits); for full-time, out-of-state graduate students, it is $23,588. (Note that in the second year of the program, only 15 credits are required.) For part-time in-state graduate students, it is $11,630 (12 total credits); for part-time out-of-state graduate students, it is $15,770.
 
-- Learn More about [Graduate School Funding](http://www.temple.edu/grad/finances/index.htm)
+_Learn More about [Graduate School Funding](http://www.temple.edu/grad/finances/index.htm)_
 
 ## MFA Resources
 - [MFA Program Information Packet](https://drive.google.com/file/d/1v3P8b05cSRG1t2QtU3J-fAlDP7OeVpXP/view?usp=sharing)
