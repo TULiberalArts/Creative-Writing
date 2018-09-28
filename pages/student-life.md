@@ -6,12 +6,11 @@ published: true
 # meta-data variables
 title: Student Life
 description: >-
-  Learn from our writers-in-residence, write for the Journal of Modern Literature, listen in on the Duplessis 
+  Learn from our writers-in-residence, write for the Journal of Modern Literature, listen in on the Duplessis
   Lecture series, join the Graduate English Association, apply for creative writing scholarships, or take part
   in a Philadelphia reading series as a Creative Writing student in the College of Liberal Arts at Temple University.
 keywords: 'Writer-in-Residence, Duplessis Lecture series, journal of modern literature, scholarships, graduate english association'
 # custom variables
-sidebar: false
 ---
 The Creative Writing MFA program encourages its students to get outside the classroom and find their inspiration everywhere they can. Students can work as editors and manuscript readers for our online literary journal, [_TINGE_ Magazine](#tinge-magazine), join the [Graduate English Association](#graduate-english-association), become a recipient of a [creative writing scholarship](#creative-writing-scholarships) or attend a number of [Philadelphia reading series](#local-philadelphia-reading-series).
 
@@ -28,7 +27,7 @@ The [Graduate English Association](https://sites.temple.edu/gradenglish/) is an 
 
 ## Local Philadelphia Reading Series
 - [Kelly Writers House](http://writing.upenn.edu/wh/)
-Located at the University of Pennsylvania (3805 Locust Walk), the Kelly Writers House hosts readings and literary events almost every night of the academic year. 
+Located at the University of Pennsylvania (3805 Locust Walk), the Kelly Writers House hosts readings and literary events almost every night of the academic year.
 
 - [Free Library of Philadelphia](http://libwww.freelibrary.org/calendar/calbydate.cfm?type=2)
 The Central Branch of the Philadelphia Free Library (at 1901 Vine St.) bring some of the biggest literary names around to read from their works. Some of the events are ticketed, but many are free to the public.

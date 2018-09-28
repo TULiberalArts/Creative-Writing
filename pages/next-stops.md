@@ -6,11 +6,10 @@ published: true
 # meta-data variables
 title: Next Stops
 description: >-
-  Discover your career in the literary world with a degree in Creative Writing from Temple University’s 
+  Discover your career in the literary world with a degree in Creative Writing from Temple University’s
   College of Liberal Arts. Explore careers for English majors and degrees, visit us, and apply!
 keywords: 'Careers for English Majors, Careers for English Degrees, BA in English jobs'
  # custom variables
-sidebar: false
 ---
 For graduates of the College of Liberal Arts’ Creative Writing Bachelor of Arts or Master of Fine Arts, the possibilities in the literary world are many. Whether through writing, editing, teaching or pursuing a more advanced degree, graduates find their place and make the most of their education. Learn what you can do with an [undergraduate](#what-can-i-do-with-an-undergraduate-degree-in-creative-writing) or [graduate](#what-can-i-do-with-a-graduate-degree-in-creative-writing) degree, [visit the campus](#visit-us) today and [apply](#apply) to the creative writing program of your choice to get started.
 
@@ -22,13 +21,13 @@ Employers look for people who can think both critically and creatively. The BA i
 The Department of English has a well-established internship program and offers students a wealth of opportunities to work in the real world even before graduation. They’re kept up to date on exciting internship opportunities by a popular career seminar. Recently, English majors have secured internships in organizations across several industries:
 - Philadelphia Museum of Art
 - Wilma Theater
-- _Philadelphia_ Magazine 
+- _Philadelphia_ Magazine
 - US Department of Labor
 - Comcast SportsNet Philadelphia
 - American Cancer Society
 
 ## What Can I Do with a Graduate Degree in Creative Writing?
-MFA in Creative Writing graduates’ books have been published by trade and small presses and cover all genres; their works have won grants, prizes and residencies. Many have earned PhDs in English and Creative Writing and are now professors. Our graduates have gone on to become web content editors, journalists, copywriters, book and magazine editors, arts administrators, librarians, grant writers, primary and secondary school teachers and more, and have obtained jobs in advertising, public relations, and communications. College of Liberal Arts Creative Writing alumni continue to make important contributions to the contemporary literary scene. 
+MFA in Creative Writing graduates’ books have been published by trade and small presses and cover all genres; their works have won grants, prizes and residencies. Many have earned PhDs in English and Creative Writing and are now professors. Our graduates have gone on to become web content editors, journalists, copywriters, book and magazine editors, arts administrators, librarians, grant writers, primary and secondary school teachers and more, and have obtained jobs in advertising, public relations, and communications. College of Liberal Arts Creative Writing alumni continue to make important contributions to the contemporary literary scene.
 
 ## Notable Alumni
 Many of our distinguished alumni have gone on to great accomplishments. Just a few from the MFA program who have published books of fiction and poetry include:

@@ -11,8 +11,8 @@ description: >-
   resources, admission, and how to apply to the College of Liberal Arts at Temple University!
 keywords: 'MFA in Fiction, MFA in Poetry, Creative Writing MFA, Graduate Program, tuition, admission, resources'
 # custom variables
-sidebar: true
-sidebar_content: sidebars/graduate.html
+
+sidebar: sidebars/graduate.html
 ---
 If you have a passion for creative writing, a master’s degree can help you hone your craft and launch your literary career as a fiction writer or poet. At Temple University, you can earn a Master of Fine Arts (MFA) degree in Creative Writing as a full-time or [part-time](#part-time-mfa-program) student. You’ll develop the skills needed to write fiction or poetry of publishable quality, define your individual voice and aesthetics and experience a diversity of approaches to literary forms as you prepare to submit manuscripts to journals, publishers and agents. Familiarize yourself with our curriculum and tuition and fees so you can [apply](#admission-requirements) today and begin studying with celebrated authors.
 
@@ -54,7 +54,7 @@ You have the option of going part-time over three years (six credits, or two cla
 ## Admission Requirements
 Although not required, we prefer applicants to the MFA program in Creative Writing to hold a bachelor’s degree in English or creative writing or to have taken a significant number of workshops or literature classes as an undergraduate. However, in the past, students without this background have performed well in the program. Therefore, we consider the entire application package in our admission decisions.
 
-A writing sample in the genre of your choice, a personal statement, and three letters of reference are required for admission. The GRE is optional. 
+A writing sample in the genre of your choice, a personal statement, and three letters of reference are required for admission. The GRE is optional.
 
 Please visit the [Creative Writing Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/creative-writing-mfa/#admissiontext) to learn more about graduate program requirements and instructions on how to apply.
 

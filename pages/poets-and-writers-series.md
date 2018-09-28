@@ -10,7 +10,6 @@ description: >-
   poets and fiction writers to read from their work to members of Temple community and Philadelphia arts scene.
 keywords: 'poets and writers, DuPlessis Lecture, events'
 # custom variables
-sidebar: false
 ---
 ## Public Readings by Recognized and Emerging Authors
 _The Poets & Writers Series is sponsored by the Temple University MFA Program in Creative Writing, with the assistance of the Richard Moyer Fund. Each year a number of poets and fiction writers are invited to read from their work to members of both the Temple community and the local Philadelphia arts scene. All events are free and open to the public._
@@ -59,7 +58,7 @@ ___
 - Thursday, November 1, 2018, 5 p.m.<br/>
 - Anderson 821 (Gender, Sexuality & Women’s Studies Lounge)<br/>
 
-Aisha Sabatini Sloan's first essay collection, _The Fluency of Light: Coming of Age in a Theater of Black and White_, was published by the University of Iowa Press in 2013. Her most recent essay collection, _Dreaming of Ramadi in Detroit_, was chosen by Maggie Nelson as the winner of the 1913 Open Prose Book Contest and was published in 2017. She is a contributing editor for _Guernica_. Her writing can be found in _The Offing_, _Ecotone_, _Ninth Letter_, _Identity Theory_, _Michigan Quarterly Review_, _Terrain_, _Callaloo_, _The Southern Review_, _Sierra Nevada Review_, _Essay Daily_, _Tarpaulin Sky_, and _Autostraddle_. She is a Visiting Professor of Creative Nonfiction at the University of Michigan. 
+Aisha Sabatini Sloan's first essay collection, _The Fluency of Light: Coming of Age in a Theater of Black and White_, was published by the University of Iowa Press in 2013. Her most recent essay collection, _Dreaming of Ramadi in Detroit_, was chosen by Maggie Nelson as the winner of the 1913 Open Prose Book Contest and was published in 2017. She is a contributing editor for _Guernica_. Her writing can be found in _The Offing_, _Ecotone_, _Ninth Letter_, _Identity Theory_, _Michigan Quarterly Review_, _Terrain_, _Callaloo_, _The Southern Review_, _Sierra Nevada Review_, _Essay Daily_, _Tarpaulin Sky_, and _Autostraddle_. She is a Visiting Professor of Creative Nonfiction at the University of Michigan.
 
 ___
 
@@ -114,7 +113,7 @@ ___
 ## DuPlessis Lecture in Poetry and Poetics
 The DuPlessis Lecture is named after Professor Emeritus Rachel Blau DuPlessis. DuPlessis is a widely published poet and critic and one of her significant contributions to the field of poetry and poetics is her interweaving of these two practices. Her poetry often speaks to the concerns of her critical work and her critical works often stretch the conventions of the scholarly essay. This lecture series honors DuPlessis’ expansions of literary form, and features poets who write in a number of different registers.
 
-Past lecturers have included: 
+Past lecturers have included:
 - Divya Victor
 - John Keene
 - Kevin Killian
