@@ -65,7 +65,7 @@ Almost half of incoming Temple students transfer from other colleges and univers
 Learn More about [Transferring to Temple](http://admissions.temple.edu/apply/transfer-applicant)
 
 ## Apply
-Ready to apply? Apply to the [undergraduate](http://admissions.temple.edu/apply) or [graduate](http://bulletin.temple.edu/graduate/scd/cla/creative-writing-mfa/#admissiontext) programs online.
+Ready to apply? Apply to the [undergraduate](http://admissions.temple.edu/apply) or [graduate](http://bulletin.temple.edu/graduate/scd/cla/creative-writing-mfa/#admissiontext) program online.
 
 ## Deadlines
 - **Dec. 15th**: Priority Application Deadline for the MFA Program
