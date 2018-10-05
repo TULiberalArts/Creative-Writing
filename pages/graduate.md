@@ -22,7 +22,7 @@ The Temple MFA Program in Creative Writing awards a two-year Master of Fine Arts
 
 _Learn More about the [MFA Program Curriculum](http://bulletin.temple.edu/graduate/scd/cla/creative-writing-mfa/#programrequirementstext)_
 
-Workshops are supplemented by individual consultations with visiting writers and a series of readings by prominent writers. For more information, please look at our [Poets & Writers events page](https://develop.cla.temple.edu/creative-writing/poets-and-writers/). Students also have the opportunity to work on our online literary journal, [_TINGE_ Magazine](http://www.tingemagazine.org/), which is graduate student–edited.
+Workshops are supplemented by individual consultations with visiting writers and a series of readings by prominent writers. For more information, please look at our [Poets & Writers events page](https://www.cla.temple.edu/creative-writing/poets-and-writers/). Students also have the opportunity to work on our online literary journal, [_TINGE_ Magazine](http://www.tingemagazine.org/), which is graduate student–edited.
 
 Read about the writers and poets who are currently teaching in the MFA program on our [faculty page](https://www.cla.temple.edu/creative-writing/faculty/). Faculty who have taught in the program in the past include such noted writers and scholars as David Bradley, Samuel R. Delany, Rachel Blau DuPlessis, Toby Olson, Sonia Sanchez, and Susan Stewart.
 
