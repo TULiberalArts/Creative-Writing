@@ -7,7 +7,7 @@ Creative Writing is statically generated with [Jekyll](https://jekyllrb.com) and
 | Links |  |
 | --- | --- |
 | Development | https://develop.cla.temple.edu/creative-writing/ |
-| Production | |
+| Production | https://www.cla.temple.edu/creative-writing/ |
 
 ## Content Structure
 
