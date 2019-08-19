@@ -50,7 +50,7 @@ Alexandra Kleeman is the author of _Intimations_, a short story collection, and 
 
 ___
 
-![Asali Solomon]({{site.baseurl}}/media/resizedsoloman.jpg){:.responsive-img .img-right}
+![Asali Solomon]({{site.baseurl}}/media/resized2soloman.jpg){:.responsive-img .img-right}
 **Asali Solomon**<br/>
  Fiction Writer<br/>
 
