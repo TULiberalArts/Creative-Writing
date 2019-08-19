@@ -11,7 +11,7 @@ description: >-
 keywords: 'poets and writers, DuPlessis Lecture, events'
 # custom variables
 ---
-## Spring 2019 Poets & Writers Series
+## Fall 2019 Poets & Writers Series
 _Public readings of fiction and poetry_
 _The Poets & Writers Series is sponsored by the Temple University MFA Program in Creative Writing, with the assistance of the Richard Moyer Fund, the Department of English, Charles Library, and Tyler School of Art. Each year a number of poets and fiction writers are invited to read from their work to members of both the Temple community and the local Philadelphia arts scene. All events are free and open to the public._
 
