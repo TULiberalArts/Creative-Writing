@@ -17,7 +17,7 @@ _The Poets & Writers Series is sponsored by the Temple University MFA Program in
 
 ___
 
-![Jami Attenberg]({{site.baseurl}}/media/croppedjamieattenberg.png){:.responsive-img .img-right}
+![Jami Attenberg]({{site.baseurl}}/media/cropped2jamieattenberg.png){:.responsive-img .img-right}
 **Jami Attenberg**<br/>
 Fiction Writer<br/>
 
@@ -50,7 +50,7 @@ Sara Nović is the author of the novel _Girl at War_ and the nonfiction book _Am
 
 ___
 
-![Susan Briante]({{site.baseurl}}/media/cropped2susanbriante.png){:.responsive-img .img-right}
+![Susan Briante]({{site.baseurl}}/media/cropped4susanbriante.png){:.responsive-img .img-right}
 **Susan Briante**<br/>
 Visiting Poet<br/>
 
