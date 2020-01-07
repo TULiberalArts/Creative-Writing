@@ -17,7 +17,7 @@ _The Poets & Writers Series is sponsored by the Temple University MFA Program in
 
 ___
 
-![Jami Attenberg]({{site.baseurl}}/media/cropped2jamieattenberg.png){:.responsive-img .img-right}
+![Jami Attenberg]({{site.baseurl}}/media/croppedjamieattenberg.png){:.responsive-img .img-right}
 **Jami Attenberg**<br/>
 Fiction Writer<br/>
 
