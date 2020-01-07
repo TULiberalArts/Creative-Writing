@@ -13,57 +13,60 @@ keywords: 'poets and writers, DuPlessis Lecture, events'
 ---
 ## Fall 2019 Poets & Writers Series
 _Public readings of fiction and poetry_
-_The Poets & Writers Series is sponsored by the Temple University MFA Program in Creative Writing, with the assistance of the Richard Moyer Fund, the Department of English, Charles Library, and Tyler School of Art. Each year a number of poets and fiction writers are invited to read from their work to members of both the Temple community and the local Philadelphia arts scene. All events are free and open to the public._
+_The Poets & Writers Series is sponsored by the Temple University MFA Program in Creative Writing, with the assistance of the Richard Moyer Fund, the Department of English and Charles Library. Each year a number of poets and fiction writers are invited to read from their work to members of both the Temple community and the local Philadelphia arts scene. All events are free and open to the public._
 
 ___
 
-![Urayoán Noel]({{site.baseurl}}/media/resizedrusty.jpg){:.responsive-img .img-right}
-**Urayoán Noel**<br/>
+![Jami Attenberg]({{site.baseurl}}/media/croppedjamieattenberg.png){:.responsive-img .img-right}
+**Jami Attenberg**<br/>
+Fiction Writer<br/>
+
+- Thursday, February 6 - 5:00 p.m.<br/>
+- Charles Library, Event Space, Room 102<br/>
+
+Jami Attenberg is the author of seven books: _Instant Love, The Kept Man, The Melting Season, The New York Times_ bestseller _The Middlesteins, Saint Mazie_, and the national bestseller _All Grown Up_, which was published in March 2017 in the US and the UK, and in Italy, Germany, France, Holland, Poland, Russia, China, the Czech Republic, Turkey, Portugal, and Hungary in 2018. Her most recent book, _All This Could Be Yours_, was published this past October.  
+
+___
+
+![Monica Ong]({{site.baseurl}}/media/croppedmonicaong.jpg){:.responsive-img .img-right}
+**Monica Ong**<br/>
 Poet<br/>
 
-- Thursday, September 12 - 5:00 p.m.<br/>
-- Temple Contemporary, Tyler School of Art<br/>
+- Thursday, February 13 - 5:00 p.m.
+- Charles Library, Event Space, Room 102<br/>
 
-Urayoán Noel is the author of eight books of poetry, including _Buzzing Hemisphere/Rumor Hemisférico_ and the forthcoming 24/7, an anthology of 20 years of his poetry edited by José Miguel Curet. His other works include the performance vlog _Wokitokiteki_; the performance/installation _CONTRAERTE_; the critical study _In Visible Movement: Nuyorican Poetry from the Sixties to Slam_, winner of the LASA Latino Studies Book Award; and the bilingual edition _Architecture of Dispersed Life: Selected Poetry_ by Pablo de Rokha. Noel has been a CantoMundo, Macondo, Ford Foundation, and Howard Foundation fellow, and his poem "San Juan Starry Night" is part of the Museo de Arte de Puerto Rico's permanent exhibition. Based in the Bronx and originally from Río Piedras, Puerto Rico, he is an associate professor of English and Spanish at New York University, and also teaches at Stetson University's MFA of the Americas. 
+Monica Ong is the author of _Silent Anatomies_ (2015), selected by Joy Harjo as winner of the Kore Press First Book Award in poetry. A Kundiman poetry fellow and MFA graduate in Digital Media at the Rhode Island School of Design, Ong has been awarded residencies most recently at the Millay Colony, the Fine Arts Work Center, and Yaddo. Based in Connecticut, she currently serves as the User Experience Designer at the Yale Digital Humanities Laboratory. 
 
 ___
 
-![Caroline Bergvall]({{site.baseurl}}/media/resizedbergvall.jpg){:.responsive-img .img-right}
-**Caroline Bergvall**<br/>
-Poet<br/>
+![Sara Nović]({{site.baseurl}}/media/croppednovic.png){:.responsive-img .img-right}
+**Sara Nović**<br/>
+Fiction Writer<br/>
 
-- Thursday, October 10 - 6:00 p.m.
-- Charles Library, Event Space, Room 102<br/>
+- Thursday, March 12 - 5:00 p.m.<br/>
+- Anderson Hall, Room 821<br/>
 
-Caroline Bergvall is a French-Norwegian poet, writer, and artist. She works across languages, media, and art forms, and her interests run from multilingual poetics to feminism to issues of cultural belonging. Her work includes both published poetic works and performances, which are often collaborative sound-driven projects with sound artists. Her books of poetry and hybrid writing include _Strange Passage: A Choral Poem, Goan Atom, Fig, Alyson Singes, Meddle English, Drift_, and the forthcoming third volume in a trilogy of works inspired by medieval sources, _Alisoun Sings_. Her work has been commissioned and shown by prominent institutions such as MoMA in New York City, Tate Modern in London, and the Museum of Contemporary Arts in Antwerp. She is currently a Visiting Professor in Medieval Studies at King’s College London. 
-
-___
-
-![Alexandra Kleeman]({{site.baseurl}}/media/resizedkleeman.jpg){:.responsive-img .img-right}
-**Alexandra Kleeman**<br/>
- Visiting Fiction Writer<br/>
-
-- Thursday, October 24 - 5:00 p.m.<br/>
-- Charles Library, Event Space, Room 102<br/>
-
-Alexandra Kleeman is the author of _Intimations_, a short story collection, and the novel _You Too Can Have A Body Like Mine_, which was awarded the 2016 Bard Fiction Prize. Her fiction has been published in _The New Yorker, The Paris Review, Zoetrope, Conjunctions_, and _Guernica_, among others, and other writing has appeared in _Harper's, The New York Times Magazine, Vogue, Tin House, n+1_, and _The Guardian_. Her work has received fellowships and support from Bread Loaf, Djerassi, the Virginia Center for the Creative Arts, and the Headlands Center for the Arts. She teaches at the New School, and her second novel, _Something New Under the Sun_, is forthcoming from Hogarth Press.
+Sara Nović is the author of the novel _Girl at War_ and the nonfiction book _America Is Immigrants_, both from Random House. _Girl at War_ won an American Library Association Award, was a _Los Angeles Times_ Book Prize finalist, and has been translated into thirteen languages. She holds an MFA in fiction and literary translation from Columbia University, and lives in Philadelphia.
 
 ___
 
-![Asali Solomon]({{site.baseurl}}/media/resized2soloman.jpg){:.responsive-img .img-right}
-**Asali Solomon**<br/>
- Fiction Writer<br/>
+![Susan Briante]({{site.baseurl}}/media/croppedsusanbriante.png){:.responsive-img .img-right}
+**Susan Briante**<br/>
+Visiting Poet<br/>
 
-- Thursday, November 14 - 5:00 p.m.<br/>
+- Thursday, March 19 - 5:00 p.m.<br/>
 - Charles Library, Event Space, Room 102<br/>
 
-Asali Solomon is the author of the novel _Disgruntled_, which was cited as one of the best books of 2015 by _The San Francisco Chronicle_ and _The Denver Post_. The short stories in her first book, _Get Down_, earned her a Rona Jaffe Foundation Writer’s Award and the National Book Foundation’s “5 Under 35” honor. Her work has appeared in _McSweeney's, The Kenyon Review, O: The Oprah Magazine, Vibe, Essence_, on NPR, _The Paris Review Daily_, and the anthology _How We Fight White Supremacy: A Field Guide to Black Resistance_. She teaches at the Kimbilio Retreat and is an Associate Professor of English at Haverford College. 
+Susan Briante is the author of three books of poetry: _Pioneers in the Study of Motion, Utopia Minus_, and _The Market Wonders_, all from Ahsahta Press. She is a professor of creative writing at the University of Arizona, where she also serves as co-coordinator of the Southwest Field Studies in Writing Program. The program brings MFA students to the US-Mexico border to work with community-based environmental and social justice groups. _Defacing the Monument_, a series of essays on immigration, archives, aesthetics, and the state, will be published by Noemi Press in 2020. 
 
 ___
 
 ## Past Readings
 
 _Writers whose names are in bold were in residence and met with students individually._
+
+**Fall 2019**
+- Urayoán Noel, Caroline Bergvall, **Alexandra Kleeman**, Asali Solomon
 
 **Spring 2019**
 - **Roberto Tejada**, Christopher Castellani, Robin Clarke, Carmen Maria Machado
