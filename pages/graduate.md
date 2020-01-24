@@ -33,21 +33,18 @@ _Learn More about the [MFA in Creative Writing](https://drive.google.com/file/d/
 ## Visiting Writers Program
 ![Visiting Poet Jennifer Haigh]({{site.baseurl}}/media/resized2 students with Jennifer.jpg){:.responsive-img .img-right}
 The Creative Writing Program invites a distinguished novelist (in the fall) and poet (in the spring) to be in residence for several days in order to work with MFA students. These guests read student manuscripts in their genre, meet with students individually in conference, give a reading, attend graduate workshops and spend informal time with the students over the course of their visit. During the two years of the master’s program, students have the opportunity to engage with four of these visitors and have conferences on their work with one or two of them (in their specific genre). The writers brought to Temple under this program are a distinctive and internationally recognized group. Recent Visiting Writers have included:
-- Peter Carey
+Jennifer Haigh
 - Alexander Chee
-- Robert Creeley
 - Robert Coover
 - Anita Desai
 - Brian Evenson
 - C. S. Giscombe
 - Jaimy Gordon
-- Mat Johnson
 - Bhanu Kapil
 - Jonathan Lethem
 - Carole Maso
 - Alice Notley
 - Anne Waldman
-- C. D. Wright
 
 ## Part-Time MFA Program
 You have the option of going part-time over three years (six credits, or two classes, per semester), or possibly taking some classes as a non-matriculated student. If you are interested in the latter option, inquire first by emailing [creatwrt@temple.edu](mailto:creatwrt@temple.edu) at least two weeks before the start of the semester about specific classes. Check Temple’s [course schedule](http://www.temple.edu/apply/common/cdcheck.asp) (select the semester, then look under English, Graduate). If there is space and the instructor is amenable, you will most likely be asked for a writing sample and other information for further consideration if you have not already sent in a formal application.
