@@ -33,7 +33,7 @@ _Learn More about the [MFA in Creative Writing](https://drive.google.com/file/d/
 ## Visiting Writers Program
 ![Visiting Poet Jennifer Haigh]({{site.baseurl}}/media/resized2 students with Jennifer.jpg){:.responsive-img .img-right}
 The Creative Writing Program invites a distinguished novelist (in the fall) and poet (in the spring) to be in residence for several days in order to work with MFA students. These guests read student manuscripts in their genre, meet with students individually in conference, give a reading, attend graduate workshops and spend informal time with the students over the course of their visit. During the two years of the master’s program, students have the opportunity to engage with four of these visitors and have conferences on their work with one or two of them (in their specific genre). The writers brought to Temple under this program are a distinctive and internationally recognized group. Recent Visiting Writers have included:
-Jennifer Haigh
+- Jennifer Haigh
 - Alexander Chee
 - Robert Coover
 - Anita Desai
