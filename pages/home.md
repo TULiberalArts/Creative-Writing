@@ -36,7 +36,7 @@ ___
 ___
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html
+  <div class="col m12 l4">{% include cards/card2-fixed.html
     title="Poets & Writers Series"
     content="Our rich and challenging curriculum is supplemented by our Poets & Writers reading series. Each year a number of poets and fiction writers are invited to read from their work."
     image=""
@@ -44,7 +44,7 @@ ___
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html
+    <div class="col m12 l4">{% include cards/card2-fixed.html
       title="Award-Winning Faculty"
       content="Temple has an excellent faculty of award-winning writers who represent a wide range of aesthetics."
       image=""
@@ -52,7 +52,7 @@ ___
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html
+      <div class="col m12 l4">{% include cards/card2-fixed.html
         title="Employers Love English Majors"
         content="From mayoral campaigns to musicology, recent Temple grads are putting their English degrees to work in many careers."
         image=""
