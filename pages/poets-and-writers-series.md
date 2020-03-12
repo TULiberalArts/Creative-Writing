@@ -40,7 +40,7 @@ Monica Ong is the author of _Silent Anatomies_ (2015), selected by Joy Harjo as 
 ___
 
 ![Sara Nović]({{site.baseurl}}/media/croppednovic.png){:.responsive-img .img-right}
-**Sara Nović**<br/>
+**CANCELLED- Sara Nović**<br/>
 Fiction Writer<br/>
 
 - Thursday, March 12 - 5:00 p.m.<br/>
@@ -51,7 +51,7 @@ Sara Nović is the author of the novel _Girl at War_ and the nonfiction book _Am
 ___
 
 ![Susan Briante]({{site.baseurl}}/media/cropped4susanbriante.png){:.responsive-img .img-right}
-**Susan Briante**<br/>
+**CANCELLED- Susan Briante**<br/>
 Visiting Poet<br/>
 
 - Thursday, March 19 - 5:00 p.m.<br/>
