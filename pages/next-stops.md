@@ -68,9 +68,9 @@ Learn More about [Transferring to Temple](http://admissions.temple.edu/apply/tra
 Ready to apply? Apply to the [undergraduate](http://admissions.temple.edu/apply) or [graduate](http://bulletin.temple.edu/graduate/scd/cla/creative-writing-mfa/#admissiontext) program online.
 
 ## Deadlines
-- **Dec. 15th**: Priority Application Deadline for the MFA Program
-- **Feb. 1st**: Freshman Application Deadline for Fall Semester
-- **Feb. 15th**: Final Application Deadline for the MFA Program
-- **March 1st**: FAFSA Financial Aid Application Deadline
-- **Nov. 1st**: Transfer Deadline for Spring Semester
-- **June 1st**: Transfer Deadline for Fall Semester
+- **December 15**: Priority Application Deadline for the MFA Program
+- **February 1**: Freshman Application Deadline for Fall Semester
+- **February 1**: FAFSA Financial Aid Application Deadline
+- **March 1**: FAFSA Financial Aid Application Deadline
+- **November 1**: Transfer Deadline for Spring Semester
+- **June 1**: Transfer Deadline for Fall Semester
