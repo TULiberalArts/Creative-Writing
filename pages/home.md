@@ -27,7 +27,7 @@ ___
 
 ## Academic Offerings
 **Undergraduate**
-- [BA in English with a Concentration in Creative Writing](https://bulletin.temple.edu/undergraduate/liberal-arts/english/ba-english-creative-writing/)
+- [BA in English with a Concentration in Creative Writing](https://www.temple.edu/academics/degree-programs/english-major-la-eng-ba)
 
 **Graduate**
 - [MFA in Creative Writing](https://www.temple.edu/academics/degree-programs/creative-writing-mfa-la-crwr-mfa)
