@@ -15,30 +15,29 @@ feature: true
 feature-image: media/hero_Creative Writing_bg.jpg
 ---
 ## Flexible Applications, Life-Long Possibilities
-Hone your craft by studying in Philadelphia, a world-class city for the arts.
-Become a part of a close-knit community within a thriving urban setting.
+Hone your creative writing craft by studying in Philadelphia, a world-class city for the arts. Become a part of a close-knit community within a thriving urban setting.
 
 ## Immerse Yourself in the Art of Writing
-Temple University’s College of Liberal Arts offers both undergraduate and graduate Creative Writing programs. Our classes teach students to think and write with clarity and imagination under the guidance of award-winning faculty. You’ll collaborate with your peers in inspiring and supportive workshops, take literature, humanities and arts courses and gain experience in the genre of your choice. Professors and students work in a close-knit community as they write their own stories, poems and essays within the living tradition of literature.
+Temple University’s College of Liberal Arts offers both undergraduate and graduate Creative Writing programs. Our classes teach students to think and write with clarity and imagination under the guidance of award-winning faculty. You’ll collaborate with your peers in inspiring and supportive workshops; take literature, humanities, and arts courses; and gain experience in the genre of your choice. Professors work closely with students as they write their own stories, poems and essays within the living tradition of literature
 
 ### Master of Fine Arts (MFA)
-Our  MFA students work closely with faculty in fiction and poetry over the course of two years, participating in small workshops and one-on-one tutorials as well as special topics, literature and craft classes. Students can also take electives in the humanities, arts, theater, film and other graduate programs throughout the university. Hone your craft by studying in a world-class city for the arts: Philadelphia. Become a part of a close-knit cohort within a thriving urban setting.
+Our  MFA students work closely with faculty in fiction and poetry over the course of two years, participating in small workshops and one-on-one tutorials as well as special topics, literature and craft classes. Students can also take electives in the humanities, arts, theater, film and other graduate programs throughout the university. Become a part of a close-knit cohort within a thriving urban setting.
 
 ___
 
 ## Academic Offerings
-**Undergradudate**
-- [BA in English with a Concentration in Creative Writing](http://bulletin.temple.edu/undergraduate/liberal-arts/english/ba-english-creative-writing/#text)
+**Undergraduate**
+- [BA in English with a Concentration in Creative Writing](https://bulletin.temple.edu/undergraduate/liberal-arts/english/ba-english-creative-writing/)
 
 **Graduate**
-- [MFA in Creative Writing](http://bulletin.temple.edu/graduate/scd/cla/creative-writing-mfa/#programrequirementstext)
+- [MFA in Creative Writing](https://www.temple.edu/academics/degree-programs/creative-writing-mfa-la-crwr-mfa)
 
 ___
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-fixed.html
     title="Poets & Writers Series"
-    content="Our rich and challenging curriculum is supplemented by our Poets & Writers reading series. Each year a number of poets and fiction writers are invited to read from their work."
+    content="Our rich and challenging curriculum is supplemented by our Poets & Writers Series. Each year a number of poets and fiction writers are invited to read from their work."
     image=""
     button-link="/creative-writing/poets-and-writers "
     button-text="Learn More" %}
