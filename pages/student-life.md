@@ -20,6 +20,8 @@ The Creative Writing MFA program encourages its students to get outside the clas
 ## Graduate English Association
 The [Graduate English Association](https://sites.temple.edu/gradenglish/) is an organization for all graduate students in the English department, regardless of program (Literature or Creative Writing) or funding status (fellowship, GA, TA or otherwise). The organization conducts regular monthly meetings, and its purpose is to make recommendations to the faculty on departmental issues (instructor training, program changes, etc.) and to enrich the graduate experience with developmental workshops and social events.
 
+Please visit the [Student Clubs & Organizations section](https://www.temple.edu/academics/degree-programs/creative-writing-mfa-la-crwr-mfa) of the university’s Creative Writing MFA page.
+
 ## Creative Writing Scholarships
 - **The Frances Tebet Israel Prize in Poetry and Fiction**: The Frances Israel Prize was established in 1996 by her family in her memory. Mrs. Israel was a School of Education graduate, class of 1936. This prize is given at the end of every year for the best Master’s thesis in poetry and the best master’s thesis in fiction.
 - **The Joseph Beam Scholarship Prize**: Joseph Beam was an African American gay rights activist. He edited one of the first anthologies of gay black writing titled _In the Life_. His mother, Dorothy S. Beam, EDU ’72, established the Joseph Beam Scholarship Prize when he died of AIDS. This prize is awarded annually to a student in the Creative Writing Program who has demonstrated academic achievement and financial need, and has written an essay or literary piece that would be of interest and importance to sexual minorities.
