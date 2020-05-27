@@ -47,7 +47,6 @@ A writing sample in the genre of your choice, a personal statement, and three le
 
 Please visit the [university's Creative Writing MFA admissions page](https://www.temple.edu/academics/degree-programs/creative-writing-mfa-la-crwr-mfa/cla-creative-writing-mfa-admissions) to learn more about graduate program requirements and instructions on how to apply.
 
-
 ## Tuition and Fees
 Temple University is relatively affordable in comparison to other programs. In the past, some students with no funding chose Temple instead of other programs that offered some funding because Temple was still more affordable for them. Also note that Pennsylvania residents receive reduced tuition at Temple (see the registrar’s [residency page](http://www.temple.edu/registrar/students/registration/residency/) for eligibility). The MFA program requires 33 total credits. Check the [Bursar’s Office](http://www.temple.edu/bursar/about/tuitionrates.htm) for current tuition rates and fees. To see the current academic year’s tuition and fees, visit the Tuition & Fees section of the [university’s Creative Writing MFA page](https://www.temple.edu/academics/degree-programs/creative-writing-mfa-la-crwr-mfa).
 
