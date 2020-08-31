@@ -13,57 +13,52 @@ keywords: 'poets and writers, DuPlessis Lecture, events'
 ---
 ## Fall 2020 Poets & Writers Series
 _Public readings of fiction and poetry_
-_The Poets & Writers Series is sponsored by the Temple University MFA Program in Creative Writing, with the assistance of the Richard Moyer Fund, the Department of English and Charles Library. Each year a number of poets and fiction writers are invited to read from their work to members of both the Temple community and the local Philadelphia arts scene. All events are free and open to the public._
+_The Poets & Writers Series is sponsored by the Temple University MFA Program in Creative Writing, with the assistance of the Richard Moyer Fund and the Department of English. Each year a number of poets and fiction writers are invited to read from and discuss their work to members of both the Temple community and the local Philadelphia arts scene. All events are free and open to the public._ **Due to Covid-19, the Fall 2020 Poets & Writers Series will be held on Zoom.**
 
 ___
 
-![Jami Attenberg]({{site.baseurl}}/media/croppedjamieattenberg.png){:.responsive-img .img-right}
-**Jami Attenberg**<br/>
+![Téa Obreht]({{site.baseurl}}/media/){:.responsive-img .img-right}
+**Téa Obreht**<br/>
 Fiction Writer<br/>
 
-- Thursday, February 6 - 5:00 p.m.<br/>
-- Charles Library, Event Space, Room 102<br/>
+- Thursday, September 24 – 5:30 p.m.<br/>
+- A Conversation with Liz Moore<br/>
+- [Register via Zoom](https://temple.zoom.us/webinar/register/WN_g3AmifDHT42YRCDX1tsiVQ)<br>
 
-Jami Attenberg is the author of seven books: _Instant Love, The Kept Man, The Melting Season, The New York Times_ bestseller _The Middlesteins, Saint Mazie_, and the national bestseller _All Grown Up_, which was published in March 2017 in the US and the UK, and in Italy, Germany, France, Holland, Poland, Russia, China, the Czech Republic, Turkey, Portugal, and Hungary in 2018. Her most recent book, _All This Could Be Yours_, was published this past October.  
+Téa Obreht was born in Belgrade, in the former Yugoslavia, and grew up in Cyprus and Egypt before eventually immigrating to the United States. Her debut novel, _The Tiger’s Wife_, won the 2011 Orange Prize for Fiction and was a 2011 National Book Award finalist and an international bestseller. Her fiction and nonfiction have been anthologized in _The Best American_ series and have appeared in _The New Yorker, The Atlantic, Harper’s, Vogue, Esquire_, and _Zoetrope: All-Story_. Her second book, _Inland_, was an immediate bestseller and a finalist for the 2020 Dylan Thomas Prize. Starting this fall, she will be serving as Endowed Chair of Creative Writing at Texas State University in San Marcos.   
 
 ___
 
-![Monica Ong]({{site.baseurl}}/media/croppedmonicaong.jpg){:.responsive-img .img-right}
-**Monica Ong**<br/>
+![Paul Yoon]({{site.baseurl}}/media/){:.responsive-img .img-right}
+**Paul Yoon**<br>
+**A Conversation with Don Lee**<br>
+Visiting Fiction Writer<br/>
+
+- Thursday, October 22 – 5:30 p.m.
+- [Register via Zoom](https://temple.zoom.us/webinar/register/WN_4UIjvmO6Sw-k625Cw6V4ng)<br>
+
+Paul Yoon is the author of two story collections, _Once the Shore_, which was a _New York Times_ Notable Book, and _The Mountain_, which was an NPR Best Book of the Year. His novel _Snow Hunters_ won the Young Lions Fiction Award. His most recent book is the novel _Run Me to Earth_. A recipient of fellowships from the New York Public Library’s Cullman Center for Writers and Scholars and the National Endowment for the Arts, he lives in Sanford, Florida, with his wife, the fiction writer Laura van den Berg, and their dog, Oscar. 
+
+___
+
+![Tonya M. Foster]({{site.baseurl}}/media/){:.responsive-img .img-right}
+**Tonya M. Foster**<br/>
 Poet<br/>
 
-- Thursday, February 13 - 5:00 p.m.
-- Charles Library, Event Space, Room 102<br/>
+- Thursday, November 5 – 5:30 p.m.<br/>
+- A Conversation with Jena Osman<br>
+- [Register via Zoom](https://temple.zoom.us/webinar/register/WN_N5Oni2VgQdyS1iuW2CNT0w)<br>
 
-Monica Ong is the author of _Silent Anatomies_ (2015), selected by Joy Harjo as winner of the Kore Press First Book Award in poetry. A Kundiman poetry fellow and MFA graduate in Digital Media at the Rhode Island School of Design, Ong has been awarded residencies most recently at the Millay Colony, the Fine Arts Work Center, and Yaddo. Based in Connecticut, she currently serves as the User Experience Designer at the Yale Digital Humanities Laboratory. 
-
-___
-
-![Sara Nović]({{site.baseurl}}/media/croppednovic.png){:.responsive-img .img-right}
-**CANCELLED- Sara Nović**<br/>
-Fiction Writer<br/>
-
-- Thursday, March 12 - 5:00 p.m.<br/>
-- Anderson Hall, Room 821<br/>
-
-Sara Nović is the author of the novel _Girl at War_ and the nonfiction book _America Is Immigrants_, both from Random House. _Girl at War_ won an American Library Association Award, was a _Los Angeles Times_ Book Prize finalist, and has been translated into thirteen languages. She holds an MFA in fiction and literary translation from Columbia University, and lives in Philadelphia.
-
-___
-
-![Susan Briante]({{site.baseurl}}/media/cropped4susanbriante.png){:.responsive-img .img-right}
-**CANCELLED- Susan Briante**<br/>
-Visiting Poet<br/>
-
-- Thursday, March 19 - 5:00 p.m.<br/>
-- Charles Library, Event Space, Room 102<br/>
-
-Susan Briante is the author of three books of poetry: _Pioneers in the Study of Motion, Utopia Minus_, and _The Market Wonders_, all from Ahsahta Press. She is a professor of creative writing at the University of Arizona, where she also serves as co-coordinator of the Southwest Field Studies in Writing Program. The program brings MFA students to the US-Mexico border to work with community-based environmental and social justice groups. _Defacing the Monument_, a series of essays on immigration, archives, aesthetics, and the state, will be published by Noemi Press in 2020. 
+Tonya M. Foster is the author of _A Swarm of Bees in High Court_; the bilingual chapbook _La Grammaire des Os_; the chapbook _A History of the Bitch_; and co-editor of _Third Mind: Creative Writing through Visual Art_. Her next poetry collection, _Thingification_, is forthcoming from Ugly Duckling Presse in 2021. She is a poetry editor at _Fence Magazine_ and a contributing editor at the _A-Line Journal_. A 2020–2021 Lisa Goldberg Fellow at the Radcliffe Institute of Harvard University, she holds the George and Judy Marcus Endowed Chair in Poetry at San Francisco State University. She was raised in New Orleans, and her family goes generations back in Louisiana.
 
 ___
 
 ## Past Readings
 
 _Writers whose names are in bold were in residence and met with students individually._
+
+**Spring 2020**
+- **Jami Attenberg**, Monica Ong
 
 **Fall 2019**
 - Urayoán Noel, Caroline Bergvall, **Alexandra Kleeman**, Asali Solomon
