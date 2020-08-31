@@ -31,7 +31,7 @@ ___
 
 ![Paul Yoon]({{site.baseurl}}/media/){:.responsive-img .img-right}
 **Paul Yoon**<br>
-**A Conversation with Don Lee**<br>
+- A Conversation with Don Lee<br>
 Visiting Fiction Writer<br/>
 
 - Thursday, October 22 – 5:30 p.m.
