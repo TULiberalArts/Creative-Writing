@@ -31,10 +31,10 @@ ___
 
 ![Paul Yoon]({{site.baseurl}}/media/){:.responsive-img .img-right}
 **Paul Yoon**<br>
-- A Conversation with Don Lee<br>
 Visiting Fiction Writer<br/>
 
 - Thursday, October 22 – 5:30 p.m.
+- A Conversation with Don Lee<br>
 - [Register via Zoom](https://temple.zoom.us/webinar/register/WN_4UIjvmO6Sw-k625Cw6V4ng)<br>
 
 Paul Yoon is the author of two story collections, _Once the Shore_, which was a _New York Times_ Notable Book, and _The Mountain_, which was an NPR Best Book of the Year. His novel _Snow Hunters_ won the Young Lions Fiction Award. His most recent book is the novel _Run Me to Earth_. A recipient of fellowships from the New York Public Library’s Cullman Center for Writers and Scholars and the National Endowment for the Arts, he lives in Sanford, Florida, with his wife, the fiction writer Laura van den Berg, and their dog, Oscar. 
