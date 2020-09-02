@@ -17,7 +17,7 @@ _The Poets & Writers Series is sponsored by the Temple University MFA Program in
 
 ___
 
-![Téa Obreht]({{site.baseurl}}/media/teaobreht2019 (1).jpg){:.responsive-img .img-right}
+![Téa Obreht]({{site.baseurl}}/media/teaobreht2 (1).jpg){:.responsive-img .img-right}
 **Téa Obreht**<br/>
 Fiction Writer<br/>
 
