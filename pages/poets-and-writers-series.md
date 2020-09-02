@@ -17,7 +17,7 @@ _The Poets & Writers Series is sponsored by the Temple University MFA Program in
 
 ___
 
-![Téa Obreht]({{site.baseurl}}/media/){:.responsive-img .img-right}
+![Téa Obreht]({{site.baseurl}}/media/teaobreht2019 (1).jpg){:.responsive-img .img-right}
 **Téa Obreht**<br/>
 Fiction Writer<br/>
 
@@ -29,7 +29,7 @@ Téa Obreht was born in Belgrade, in the former Yugoslavia, and grew up in Cypru
 
 ___
 
-![Paul Yoon]({{site.baseurl}}/media/){:.responsive-img .img-right}
+![Paul Yoon]({{site.baseurl}}/media/paulyoon.jpg){:.responsive-img .img-right}
 **Paul Yoon**<br>
 Visiting Fiction Writer<br/>
 
@@ -41,7 +41,7 @@ Paul Yoon is the author of two story collections, _Once the Shore_, which was a 
 
 ___
 
-![Tonya M. Foster]({{site.baseurl}}/media/){:.responsive-img .img-right}
+![Tonya M. Foster]({{site.baseurl}}/media/tonyafoster.jpg){:.responsive-img .img-right}
 **Tonya M. Foster**<br/>
 Poet<br/>
 
