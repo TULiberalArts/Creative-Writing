@@ -29,6 +29,18 @@ Téa Obreht was born in Belgrade, in the former Yugoslavia, and grew up in Cypru
 
 ___
 
+![Gabrielle Civil]({{site.baseurl}}/media/gabriellecivil.png){:.responsive-img .img-right}
+**Gabrielle Civil**<br>
+Poet<br/>
+
+- Thursday, October 8 – 5:30 p.m.
+- A Conversation with Yolanda Wisher<br>
+- [Register via Zoom](https://temple.zoom.us/webinar/register/WN_tUmYSnabQVmLvRaY52p59g)<br>
+
+Gabrielle Civil is a black feminist performance artist, poet, and writer, originally from Detroit. She has premiered fifty performance works around the world. Her performance memoirs include _Swallow the Fish, Experiments in Joy_, and (_ghost gestures_) performance writing. Her work has also appeared in _Dancing While Black, Kitchen Table Translation, New Daughters of Africa, Black in the Middle, and _Experiments in Joy: A Workbook_. A 2019 Rema Hort Mann LA Emerging Artist, she currently teaches at the California Institute of the Arts. The aim of her work is to open up space. 
+
+___
+
 ![Paul Yoon]({{site.baseurl}}/media/paulyoon.jpg){:.responsive-img .img-right}
 **Paul Yoon**<br>
 Visiting Fiction Writer<br/>
