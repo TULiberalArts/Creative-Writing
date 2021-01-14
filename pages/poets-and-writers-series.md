@@ -36,7 +36,7 @@ ___
 Fiction Writer<br/>
 
 - Thursday, March 25 – 5:30 p.m.<br>
-- A Conversation with Liz Moorer<br>
+- A Conversation with Liz Moore<br>
 - [Register via Zoom](https://temple.zoom.us/webinar/register/WN_QlgxwtT4QtKLmkgbcMtT1w)<br>
 
 An Arizona native, Kiley Reid is a recent graduate of the Iowa Writers’ Workshop, where she was the recipient of the Truman Capote Fellowship. Her _New York Times_ –bestselling debut novel, _Such a Fun Age_, is currently in development by Lena Waithe’s Hillman Grad Productions and Sight Unseen Pictures. The novel was longlisted for the 2020 Booker Prize and a finalist for the New York Public Library’s 2020 Young Lions Fiction Award, the VCU Cabell First Novelist Award, the NAACP Image Award for Outstanding Literary Work by a Debut Author, and the Mark Twain American Voice in Literature Award. Her writing has been featured in _The New York Times, The Wall Street Journal, Playboy, December, Lumina_, where her short story was the winner in the 2017 Flash Prose Contest, and _Ploughshares_, where her short story was the winner of the 2020 Ashley Leigh Bourne Prize for Fiction. She lives in Philadelphia. 
