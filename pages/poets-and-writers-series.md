@@ -11,63 +11,44 @@ description: >-
 keywords: 'poets and writers, DuPlessis Lecture, events'
 # custom variables
 ---
-## Fall 2020 Poets & Writers Series
+## Spring 2021 Poets & Writers Series
 _Public readings of fiction and poetry_
-_The Poets & Writers Series is sponsored by the Temple University MFA Program in Creative Writing, with the assistance of the Richard Moyer Fund and the Department of English. Each year a number of poets and fiction writers are invited to read from and discuss their work to members of both the Temple community and the local Philadelphia arts scene. All events are free and open to the public._ **Due to Covid-19, the Fall 2020 Poets & Writers Series will be held on Zoom.**
+_The Poets & Writers Series is sponsored by the Temple University MFA Program in Creative Writing, with the assistance of the Richard Moyer Fund and the Department of English. Each year a number of poets and fiction writers are invited to read from and discuss their work to members of both the Temple community and the local Philadelphia arts scene. All events are free and open to the public._ 
+
+**All events this semester will be held on Zoom.**
 
 ___
 
-![Téa Obreht]({{site.baseurl}}/media/teaobreht.jpg){:.responsive-img .img-right}
-**Téa Obreht**<br/>
+![Susan Briante]({{site.baseurl}}/media/susanbriante.jpg){:.responsive-img .img-right}
+**Susan Briante**<br/>
+Visiting Poet<br/>
+
+- Thursday, February 11 – 5:30 p.m..<br/>
+- A Conversation with Jena Osman<br/>
+- [Register via Zoom](https://temple.zoom.us/webinar/register/WN_8IMK88TBR0apV96Z19iwDQ)<br>
+
+Susan Briante is the author of three books of poetry: _Pioneers in the Study of Motion, Utopia Minus_, and _The Market Wonders_, all from Ahsahta Press. She is a professor of creative writing at the University of Arizona, where she also serves as co-coordinator of the Southwest Field Studies in Writing Program. The program brings MFA students to the US-Mexico border to work with community-based environmental and social justice groups. _Defacing the Monument_, a series of essays on immigration, archives, aesthetics, and the state, was published by Noemi Press in 2020.   
+
+___
+
+![Kiley Reid]({{site.baseurl}}/media/KR david goddard headshot.jpg){:.responsive-img .img-right}
+**Kiley Reid**<br>
 Fiction Writer<br/>
 
-- Thursday, September 24 – 5:30 p.m.<br/>
-- A Conversation with Liz Moore<br/>
-- [Register via Zoom](https://temple.zoom.us/webinar/register/WN_g3AmifDHT42YRCDX1tsiVQ)<br>
+- Thursday, March 25 – 5:30 p.m.<br>
+- A Conversation with Liz Moorer<br>
+- [Register via Zoom](https://temple.zoom.us/webinar/register/WN_QlgxwtT4QtKLmkgbcMtT1w)<br>
 
-Téa Obreht was born in Belgrade, in the former Yugoslavia, and grew up in Cyprus and Egypt before eventually immigrating to the United States. Her debut novel, _The Tiger’s Wife_, won the 2011 Orange Prize for Fiction and was a 2011 National Book Award finalist and an international bestseller. Her fiction and nonfiction have been anthologized in _The Best American_ series and have appeared in _The New Yorker, The Atlantic, Harper’s, Vogue, Esquire_, and _Zoetrope: All-Story_. Her second book, _Inland_, was an immediate bestseller and a finalist for the 2020 Dylan Thomas Prize. Starting this fall, she will be serving as Endowed Chair of Creative Writing at Texas State University in San Marcos.   
-
-___
-
-![Gabrielle Civil]({{site.baseurl}}/media/gabriellecivil.png){:.responsive-img .img-right}
-**Gabrielle Civil**<br>
-Poet<br/>
-
-- Thursday, October 8 – 5:30 p.m.
-- A Conversation with Yolanda Wisher<br>
-- [Register via Zoom](https://temple.zoom.us/webinar/register/WN_tUmYSnabQVmLvRaY52p59g)<br>
-
-Gabrielle Civil is a black feminist performance artist, poet, and writer, originally from Detroit. She has premiered fifty performance works around the world. Her performance memoirs include _Swallow the Fish, Experiments in Joy_, and (_ghost gestures_) performance writing. Her work has also appeared in _Dancing While Black, Kitchen Table Translation, New Daughters of Africa, Black in the Middle_, and _Experiments in Joy: A Workbook_. A 2019 Rema Hort Mann LA Emerging Artist, she currently teaches at the California Institute of the Arts. The aim of her work is to open up space. 
-
-___
-
-![Paul Yoon]({{site.baseurl}}/media/paulyoon.jpg){:.responsive-img .img-right}
-**Paul Yoon**<br>
-Visiting Fiction Writer<br/>
-
-- Thursday, October 22 – 5:30 p.m.
-- A Conversation with Don Lee<br>
-- [Register via Zoom](https://temple.zoom.us/webinar/register/WN_4UIjvmO6Sw-k625Cw6V4ng)<br>
-
-Paul Yoon is the author of two story collections, _Once the Shore_, which was a _New York Times_ Notable Book, and _The Mountain_, which was an NPR Best Book of the Year. His novel _Snow Hunters_ won the Young Lions Fiction Award. His most recent book is the novel _Run Me to Earth_. A recipient of fellowships from the New York Public Library’s Cullman Center for Writers and Scholars and the National Endowment for the Arts, he lives in Sanford, Florida, with his wife, the fiction writer Laura van den Berg, and their dog, Oscar. 
-
-___
-
-![Tonya M. Foster]({{site.baseurl}}/media/tonyafoster.jpg){:.responsive-img .img-right}
-**Tonya M. Foster**<br/>
-Poet<br/>
-
-- Thursday, November 5 – 5:30 p.m.<br/>
-- A Conversation with Jena Osman<br>
-- [Register via Zoom](https://temple.zoom.us/webinar/register/WN_N5Oni2VgQdyS1iuW2CNT0w)<br>
-
-Tonya M. Foster is the author of _A Swarm of Bees in High Court_; the bilingual chapbook _La Grammaire des Os_; the chapbook _A History of the Bitch_; and co-editor of _Third Mind: Creative Writing through Visual Art_. Her next poetry collection, _Thingification_, is forthcoming from Ugly Duckling Presse in 2021. She is a poetry editor at _Fence Magazine_ and a contributing editor at the _A-Line Journal_. A 2020–2021 Lisa Goldberg Fellow at the Radcliffe Institute of Harvard University, she holds the George and Judy Marcus Endowed Chair in Poetry at San Francisco State University. She was raised in New Orleans, and her family goes generations back in Louisiana.
+An Arizona native, Kiley Reid is a recent graduate of the Iowa Writers’ Workshop, where she was the recipient of the Truman Capote Fellowship. Her _New York Times_ –bestselling debut novel, _Such a Fun Age_, is currently in development by Lena Waithe’s Hillman Grad Productions and Sight Unseen Pictures. The novel was longlisted for the 2020 Booker Prize and a finalist for the New York Public Library’s 2020 Young Lions Fiction Award, the VCU Cabell First Novelist Award, the NAACP Image Award for Outstanding Literary Work by a Debut Author, and the Mark Twain American Voice in Literature Award. Her writing has been featured in _The New York Times, The Wall Street Journal, Playboy, December, Lumina_, where her short story was the winner in the 2017 Flash Prose Contest, and _Ploughshares_, where her short story was the winner of the 2020 Ashley Leigh Bourne Prize for Fiction. She lives in Philadelphia. 
 
 ___
 
 ## Past Readings
 
 _Writers whose names are in bold were in residence and met with students individually._
+
+**Fall 2020**
+- Téa Obreht, Gabrielle Civil, **Paul Yoon**, Tonya M. Foster
 
 **Spring 2020**
 - **Jami Attenberg**, Monica Ong
