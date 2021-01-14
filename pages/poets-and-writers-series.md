@@ -23,7 +23,7 @@ ___
 **Susan Briante**<br/>
 Visiting Poet<br/>
 
-- Thursday, February 11 – 5:30 p.m..<br/>
+- Thursday, February 11 – 5:30 p.m.<br/>
 - A Conversation with Jena Osman<br/>
 - [Register via Zoom](https://temple.zoom.us/webinar/register/WN_8IMK88TBR0apV96Z19iwDQ)<br>
 
