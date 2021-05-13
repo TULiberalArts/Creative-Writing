@@ -25,7 +25,6 @@ Visiting Poet<br/>
 
 - Thursday, February 11 – 5:30 p.m.<br/>
 - A Conversation with Jena Osman<br/>
-- [Register via Zoom](https://temple.zoom.us/webinar/register/WN_8IMK88TBR0apV96Z19iwDQ)<br>
 
 Susan Briante is the author of three books of poetry: _Pioneers in the Study of Motion, Utopia Minus_, and _The Market Wonders_, all from Ahsahta Press. She is a professor of creative writing at the University of Arizona, where she also serves as co-coordinator of the Southwest Field Studies in Writing Program. The program brings MFA students to the US-Mexico border to work with community-based environmental and social justice groups. _Defacing the Monument_, a series of essays on immigration, archives, aesthetics, and the state, was published by Noemi Press in 2020.   
 
@@ -37,7 +36,6 @@ Fiction Writer<br/>
 
 - Thursday, March 25 – 5:30 p.m.<br>
 - A Conversation with Liz Moore<br>
-- [Register via Zoom](https://temple.zoom.us/webinar/register/WN_QlgxwtT4QtKLmkgbcMtT1w)<br>
 
 An Arizona native, Kiley Reid is a recent graduate of the Iowa Writers’ Workshop, where she was the recipient of the Truman Capote Fellowship. Her _New York Times_ –bestselling debut novel, _Such a Fun Age_, is currently in development by Lena Waithe’s Hillman Grad Productions and Sight Unseen Pictures. The novel was longlisted for the 2020 Booker Prize and a finalist for the New York Public Library’s 2020 Young Lions Fiction Award, the VCU Cabell First Novelist Award, the NAACP Image Award for Outstanding Literary Work by a Debut Author, and the Mark Twain American Voice in Literature Award. Her writing has been featured in _The New York Times, The Wall Street Journal, Playboy, December, Lumina_, where her short story was the winner in the 2017 Flash Prose Contest, and _Ploughshares_, where her short story was the winner of the 2020 Ashley Leigh Bourne Prize for Fiction. She lives in Philadelphia. 
 
